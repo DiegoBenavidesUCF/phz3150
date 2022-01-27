@@ -134,6 +134,12 @@ I now moved these two screenshots into my hw3_diegobenavidesucf/ folder.
 
 2c. Created a new folder within my desktop/ called test_git/.
 
-For some reason my github stopped syncing to my repository so i deleted and recreated it.
+For some reason my github stopped syncing to my repository so I deleted and recreated it.
 
-I have recreated the repository one again to check if it will sync. 
+I have recreated the repository one again to check if it will sync.
+
+Now it appears that I have correctly been able to sync the repository, and I did this by deleting and recreating
+the repository from github desktop app, github online, and my directory before recreating it.
+
+Now after deleting and recreating everything I created a folder called testgit/ and I was able to
+add it to revision control by making it within my phz3150/ repository before publishing it.
