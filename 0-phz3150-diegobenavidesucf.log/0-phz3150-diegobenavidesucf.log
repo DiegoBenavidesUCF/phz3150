@@ -143,3 +143,22 @@ the repository from github desktop app, github online, and my directory before r
 
 Now after deleting and recreating everything I created a folder called testgit/ and I was able to
 add it to revision control by making it within my phz3150/ repository before publishing it.
+
+It seems like creating a new folder won't appear to my changes in my github desktop app,
+so for now I will add an empty .txt file titled empty_file_for_change to hopefully bypass this issue.
+
+It appears to have worked, so now I can finally move on!
+
+2d. I now dragged and dropped the hw1-survey.txt file from canvas and put it into my
+new test_git/ folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot1.PNG .
+
+Now I will remove the survey after committing it and screenshot how something got removed
+from the test_git folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot2.PNG .
+
+3. 
