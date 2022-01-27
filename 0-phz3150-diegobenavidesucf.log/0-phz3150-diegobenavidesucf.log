@@ -1,0 +1,139 @@
+Diego Benavides
+Log for PHZ 3150, Spring 2022
+*****IN: Thursday Jan 13 21:56:00 EST 2022
+Made a directory for the class here:
+/home/diegobenavidesucf/phz3150/
+Opened Atom, started this log, saved as:
+/home/diegobenavidesucf/phz3150/0-phz3150-diegobenavidesucf.log
+
+Now copy and pasting hw1-survey.txt from webcourses into the log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Diego Benavides
+Email: dbenavides@knights.ucf.edu
+  Phone: 4073348903
+Major: Physics, Astronomy Track
+Year: 3
+ID: 4569724
+How did you hear about this course? From the course catalog.
+Do you have a laptop you can bring to class, install software on, etc.? Yes.
+What operating system and version does it run? Windows 11.
+How much free disk space does it have? 65GB.
+What operating systems are you comfortable working in? Windows.
+What computer classes have you taken, including high school,
+extracurricular, etc.? Intro to C.
+Have you ever programmed a computer? Yes I have learned a little bit of python on my own
+In what language(s)? Python 3.
+Summarize your experience: I have learned some of the basics, using numpy, pandas, and matplotlib.
+Have you taken statistics or probability? Yes I have taken statistics.
+Why are you taking this course? I am taking this course to feel more confident in my programming skills
+and apply this to my research credits, which I would like to start soon.
+Are there particular topics you hope to learn? I would like to learn more on how to visualize large amounts of data.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: In the intermediate physics lab course I used matplotlib and numpy to create
+basic charts, tables, and linear regressions.
+Have you ever been involved with a science club or similar?  If so,
+describe: I have not been active in scientific clubs.
+
+Now downloading the think python book into /home/diegobenavidesucf/phz3150/books/:
+Book was saved as /home/diegobenavidesucf/phz3150/books/thinkpython2
+The download URL : https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+*****OUT: Thursday Jan 13 22:25:00 EST 2022
+
+*****IN: Tuesday Jan 18 09:43:00 EST 2022
+The directory /home//home/diegobenavidesucf/phz3150 for this course was created
+through folders on my laptop which has a windows 11 OS
+
+*****OUT: Tuesday Jan 18 2022 09:50:00 EST 2022
+
+*****IN: Wednesday Jan 19 22:33:00 EST 2022
+ Homework 2:
+
+ 1a. Python 3 was downloaded from python.org about a year ago, and Anaconda navigator was downloaded
+ from a course from UDEMY about a year ago as well. URL: https://www.python.org/downloads/
+
+ The anaconda navigator included jupyter notebook along other programs.
+ The UDEMY course also included a zip file with numpy, pandas, scipy, and other packages.
+
+ Took a screenshot of my Jupyter notebook home page and saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot1
+
+ Took a screenshot of my version of python from Jupyter notebook saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot2
+
+ 1b. Downloaded github desktop version and synced it with the class during lecture
+ on Jan 18 10:30:00 EST 2022
+ Screenshot of the github saved as pdf titled:
+ hw2_diegobenavidesucf_prob1b_screenshot
+
+ 2. Correct syntax with incorrect tokens: B00k5 R fun 2 re4d.
+ Incorrect syntax with correct tokens: Books to read are fun.
+
+ The feature of natural languages that prevents them from being programming languages is
+ called ambiguity. Meaning that in natural languages people can determine proper meaning
+ regardless of syntax or token correctness since context clues can be used to determine the
+ meaning. Programming languages are unambiguous and rely on proper syntax and tokens in order to function
+ which is a feature known as literalness.
+
+ 3. Completed the hello-world tutorial, which included how to create branches, complete commits,
+ create pull request, merge branches, and delete merged branches.
+ URL: https://guides.github.com/activities/helloworld/
+
+ Added the survey into my github during class saved the screenshot of the changes displayed on
+ the desktop version of github in order to see the changes done to the repository as a pdf titled:
+ hw2_diegobenavidesucf_prob3_screenshot1
+
+ Committed the changes made from adding the hw1_survey.txt to the classroom repository
+ HW1 folder and pushed to origin.
+ The screenshot showing the updated classroom repository HW1 folder is a pdf saved as:
+ hw2_diegobenavidesucf_prob3_screenshot2
+
+ 4. I saved all of the pdf screenshots and this updated work log into:
+ /home/diegobenavidesucf/phz3150/homework/hw2_diegobenavidesucf/ and saved it
+ as a zip file.
+
+ *****Out Thursday Jan 20 00:17:00 EST 2022
+
+*****IN Tuesday Jan 25 13:30:00 EST 2022
+
+While in class internet wasn't working for me so I have to go back and redo the
+shell command pdf demo on my own. I was only able to follow along reading, not actually working
+on the arch linux command prompt.
+
+***** Out Tuesday Jan 25 13:33:00 EST 2022
+
+***** IN Wednesday Jan 26 8:50:00 EST 2022
+HW3:
+
+1. Created a new folder for homework 3 saved as phz3150/handin/hw3_diegobenavidesucf.
+I created the new folder by just clicking create new folder within my directory.
+
+2a. I created a new github repository for my directory phz3150/.
+This was done by going to the github desktop app, clicking create new repository and choosing my
+phz3150/ directory as the files I would like to add. I then published that new repository from the github
+desktop app. So now the repository is also in my web version of Github.
+
+2b1. In order to add my log to my revision control through git I clicked add the add files tab
+that is on the github page for the phz3150 repository and adding my log from my directory
+desktop/phz3150/0-phz3150-diegobenavidesucf.log and then clicking commit in order to commit the
+file into my new github repository. Right before committing I typed a commit message that said:
+"Putting my log under revision control".
+
+2b2. I dragged and dropped my whole phz3150/ directory folder into my github web browser version in order to
+commit all of my files to the new repository I created in this homework. I now took a screenshot of the
+commit message page. The screenshot is saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot1.
+I took one more screenshot from within the committed phz3150/ folder in order to prove that my log
+is also in there, this was saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot2.
+
+I now moved these two screenshots into my hw3_diegobenavidesucf/ folder.
+
+***** OUT Wednesday Jan 26 9:48:00 EST 2022
+
+***** IN Wednesday Jan 26 18:58:00 EST 2022
+
+2c. Created a new folder within my desktop/ called test_git/.
+
+For some reason my github stopped syncing to my repository so i deleted and recreated it.
+
+I have recreated the repository one again to check if it will sync. 
