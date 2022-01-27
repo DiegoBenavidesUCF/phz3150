@@ -104,7 +104,7 @@ on the arch linux command prompt.
 ***** Out Tuesday Jan 25 13:33:00 EST 2022
 
 ***** IN Wednesday Jan 26 8:50:00 EST 2022
-HW3:
+Homework 3:
 
 1. Created a new folder for homework 3 saved as phz3150/handin/hw3_diegobenavidesucf.
 I created the new folder by just clicking create new folder within my directory.
@@ -161,4 +161,23 @@ from the test_git folder.
 I now took a screenshot of how my github desktop app looks with the changes made
 and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot2.PNG .
 
-3. 
+Every time I committed the changes to my github I first wrote a descriptive message as to what the change was for and
+then clicked commit, and then clicked push to origin which committed my changes to my github online version of
+the repository in order to back up my work.
+
+I now took a screenshot of my committ history for the third screenshot of the assignment and saved
+it as: hw3_diegobenavidesucf_prob2d_screenshot3 .
+
+3. I opened up anaconda, jupyter notebook, and went to my desktop/phz3150/handin/hw3_diegobenavidesucf folder
+to open up a new python 3 jupyter notebook titled hw3_diegobenavidesucf_test_notebook.
+
+I then used a markdown cell in order to type a brief description of my notebook.
+
+I then followed and typed all of the code statements required by the rest of question 3.
+
+4. I updated my log, committed it on desktop github, then pushed it origin, and added a
+copy of my log to my hw3_diegobenavidesucf folder.
+
+I will now zip it, and turn in my assignment.
+
+***** OUT Wednesday Jan 26 22:20:00 EST 2022 
