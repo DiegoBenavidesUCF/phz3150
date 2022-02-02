@@ -186,7 +186,7 @@ I will now zip it, and turn in my assignment.
 
 Homework 4:
 
-1. I created a new folder on my computer for homework 4 within my handin folder saved as:
+Problem 1: I created a new folder on my computer for homework 4 within my handin folder saved as:
 desktop/phz3150/handin/hw4_diegobenavidesucf
 
 I now went to my /phz3150/hw4_diegobenavidesucf folder through jupyter and created a new
@@ -200,7 +200,7 @@ I put my name, homework number, and date as comments at the top of my hw4_diegob
 and put "problem 2" as a markdown in the notebook as required by the assignment
 by changing the cell to markdown and typing in the new cell.
 
-2. For the first part of problem 2 I typed the problem as a markdown cell and typed the F = ma (newtons second law)
+Problem 2: For the first part of problem 2 I typed the problem as a markdown cell and typed the F = ma (newtons second law)
 as directed by the problem. I also formatted my problem 2 work by following the example provided in the HW4 instructions.
 
 For the second part of problem 2 I created a function to get acceleration from force and mass. I typed this in my hw4_diegobenavidesucf notebook as:
@@ -235,3 +235,9 @@ I now saved the work that I have for now by clicking save in jupyter and committ
 clicking push to origin and writing a descriptive commit message for what I have saved so far.
 
 ***** OUT Tuesday Feb 1 22:18:00 EST 2022
+
+***** IN Wednesday Feb 2 9:15:00 EST 2022
+
+Homework 4 Continued:
+
+Problem 3:
