@@ -298,3 +298,21 @@ print(f'The accelerarion is { acceleration( ui_5 , uf_5 , ti_5 , tf_5 ) }')
 I then answered the rest of problem 3 as a comment inside of jupyter by putting # before typing as directed by the assignment.
 
 ***** OUT Wednesday Feb 2 10:02:00 EST 2022
+***** IN wednesday Feb 2 14:00:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+I started problem 4 by writing the two lists that were required by the assignment using the list and range functions.
+
+I then printed them as instructed by the HW4 assignment.
+
+I forgot to mention that I copy and pasted the problem 4 as markdown cell before typing my answers in a code cell.
+
+I then used the proper slicing and indexing conventions to slice and print the velocity list from the 3rd cell up to and including the 5th element,
+and then the 8th element.
+
+In a new cell I called the acceleration function and printed all of the assigned cases for acceleration using the proper indexing to
+get the proper answer for each case.
+
+***** OUT Feb 2 14:54:00 EST 2022
