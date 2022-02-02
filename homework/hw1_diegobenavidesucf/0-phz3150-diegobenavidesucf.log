@@ -1,0 +1,48 @@
+Diego Benavides
+Log for PHZ 3150, Spring 2022
+*****IN: Thursday Jan 13 21:56:00 EST 2022
+Made a directory for the class here:
+/home/diegobenavidesucf/phz3150/
+Opened Atom, started this log, saved as:
+/home/diegobenavidesucf/phz3150/0-phz3150-diegobenavidesucf.log
+
+Now copy and pasting hw1-survey.txt from webcourses into the log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Diego Benavides
+Email: dbenavides@knights.ucf.edu
+  Phone: 4073348903
+Major: Physics, Astronomy Track
+Year: 3
+ID: 4569724
+How did you hear about this course? From the course catalog.
+Do you have a laptop you can bring to class, install software on, etc.? Yes.
+What operating system and version does it run? Windows 11.
+How much free disk space does it have? 65GB.
+What operating systems are you comfortable working in? Windows.
+What computer classes have you taken, including high school,
+extracurricular, etc.? Intro to C.
+Have you ever programmed a computer? Yes I have learned a little bit of python on my own
+In what language(s)? Python 3.
+Summarize your experience: I have learned some of the basics, using numpy, pandas, and matplotlib.
+Have you taken statistics or probability? Yes I have taken statistics.
+Why are you taking this course? I am taking this course to feel more confident in my programming skills
+and apply this to my research credits, which I would like to start soon.
+Are there particular topics you hope to learn? I would like to learn more on how to visualize large amounts of data.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: In the intermediate physics lab course I used matplotlib and numpy to create
+basic charts, tables, and linear regressions.
+Have you ever been involved with a science club or similar?  If so,
+describe: I have not been active in scientific clubs.
+
+Now downloading the think python book into /home/diegobenavidesucf/phz3150/books/:
+Book was saved as /home/diegobenavidesucf/phz3150/books/thinkpython2
+The download URL : https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+*****OUT: Thursday Jan 13 22:25:00 EST 2022
+
+*****IN: Tuesday Jan 18 09:43:00 EST 2022
+The directory /home//home/diegobenavidesucf/phz3150 for this course was created
+through folders on my laptop which has a windows 11 OS
+
+*****OUT: Tuesday Jan 18 2022 09:50:00 EST 2022
