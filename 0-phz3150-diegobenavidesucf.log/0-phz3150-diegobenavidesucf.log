@@ -236,8 +236,65 @@ clicking push to origin and writing a descriptive commit message for what I have
 
 ***** OUT Tuesday Feb 1 22:18:00 EST 2022
 
-***** IN Wednesday Feb 2 9:15:00 EST 2022
+***** IN Wednesday Feb 2 09:15:00 EST 2022
 
 Homework 4 Continued:
 
-Problem 3:
+Problem 3: I started problem 3 by adding the problem 3 instructions as a markdown in the jupyter notebook and labeled it under
+another markdown cell that says "PROBLEM 3:" as directed by the assignment earlier in problem 2.
+
+For the first part of problem 3 I typed up the acceleration function inside of a .py file separate
+from the main homework jupyter notebook. I also made sure to have a good docstring.I saved the separate file my_saved_functions.py and I saved it inside of
+my hw4_diegobenavidesucf/ folder. The code for my function is:
+
+def acceleration( u1 , u2 , t1 , t2 ):
+    """This function will calculate acceleration from dividing its change in velocity[m/s] by the change in time[s]
+    or in other words its getting acceleration by calculating the rate of change of velocity
+    INPUT: Initial velocity, final velocity, inital time, final time.
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = (u2 - u1)/(t2 - t1)
+
+    return a
+
+I then imported the function to my hw4_diegobenavidesucf jupyter notebook by typing "from my_saved_functions import acceleration" inside
+of a cell.
+Then to calculate all of the acceleration values using the given data I typed this code in order to satisfy the assignment:
+
+print('Problem 3')
+
+ui_1 = 10
+uf_1 = 13
+ti_1 = 0
+tf_1 = 2
+
+ui_2 = 15
+uf_2 = 30
+ti_2 = 10
+tf_2 = 14
+
+ui_3 = 32
+uf_3 = 36
+ti_3 = 14
+tf_3 = 16
+
+ui_4 = 42
+uf_4 = 20
+ti_4 = 28
+tf_4 = 32
+
+ui_5 = 20
+uf_5 = 22
+ti_5 = 0
+tf_5 = 10
+
+print(f'The accelerarion is { acceleration( ui_1 , uf_1 , ti_1 , tf_1 ) }')
+print(f'The accelerarion is { acceleration( ui_2 , uf_2 , ti_2 , tf_2 ) }')
+print(f'The accelerarion is { acceleration( ui_3 , uf_3 , ti_3 , tf_3 ) }')
+print(f'The accelerarion is { acceleration( ui_4 , uf_4 , ti_4 , tf_4 ) }')
+print(f'The accelerarion is { acceleration( ui_5 , uf_5 , ti_5 , tf_5 ) }')
+
+
+I then answered the rest of problem 3 as a comment inside of jupyter by putting # before typing as directed by the assignment.
+
+***** OUT Wednesday Feb 2 10:02:00 EST 2022
