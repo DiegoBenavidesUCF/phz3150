@@ -192,3 +192,12 @@ desktop/phz3150/handin/hw4_diegobenavidesucf
 I now went to my /phz3150/hw4_diegobenavidesucf folder through jupyter and created a new
 jupyter notebook by clicking new python 3 notebook inside of the folder and titled the notebook:
 hw4_diegobenavidesucf as the assignment required.
+
+I committed the new hw4_diegobenavidesucf folder and the hw4_diegobenavidesucf jupyter notebook
+to my github web version from my github desktop app repository by pushing to main and creating a descriptive commit message.
+
+I put my name, homework number, and date as comments at the top of my hw4_diegobenavidesucf jupyter notebook
+and put "problem 2" as a markdown in the notebook as required by the assignment
+by changing the cell to markdown and typing in the new cell.
+
+2. 
