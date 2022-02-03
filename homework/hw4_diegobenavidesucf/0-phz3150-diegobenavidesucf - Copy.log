@@ -1,0 +1,371 @@
+Diego Benavides
+Log for PHZ 3150, Spring 2022
+*****IN: Thursday Jan 13 21:56:00 EST 2022
+Made a directory for the class here:
+/home/diegobenavidesucf/phz3150/
+Opened Atom, started this log, saved as:
+/home/diegobenavidesucf/phz3150/0-phz3150-diegobenavidesucf.log
+
+Now copy and pasting hw1-survey.txt from webcourses into the log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Diego Benavides
+Email: dbenavides@knights.ucf.edu
+  Phone: 4073348903
+Major: Physics, Astronomy Track
+Year: 3
+ID: 4569724
+How did you hear about this course? From the course catalog.
+Do you have a laptop you can bring to class, install software on, etc.? Yes.
+What operating system and version does it run? Windows 11.
+How much free disk space does it have? 65GB.
+What operating systems are you comfortable working in? Windows.
+What computer classes have you taken, including high school,
+extracurricular, etc.? Intro to C.
+Have you ever programmed a computer? Yes I have learned a little bit of python on my own
+In what language(s)? Python 3.
+Summarize your experience: I have learned some of the basics, using numpy, pandas, and matplotlib.
+Have you taken statistics or probability? Yes I have taken statistics.
+Why are you taking this course? I am taking this course to feel more confident in my programming skills
+and apply this to my research credits, which I would like to start soon.
+Are there particular topics you hope to learn? I would like to learn more on how to visualize large amounts of data.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: In the intermediate physics lab course I used matplotlib and numpy to create
+basic charts, tables, and linear regressions.
+Have you ever been involved with a science club or similar?  If so,
+describe: I have not been active in scientific clubs.
+
+Now downloading the think python book into /home/diegobenavidesucf/phz3150/books/:
+Book was saved as /home/diegobenavidesucf/phz3150/books/thinkpython2
+The download URL : https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+*****OUT: Thursday Jan 13 22:25:00 EST 2022
+
+*****IN: Tuesday Jan 18 09:43:00 EST 2022
+The directory /home//home/diegobenavidesucf/phz3150 for this course was created
+through folders on my laptop which has a windows 11 OS
+
+*****OUT: Tuesday Jan 18 2022 09:50:00 EST 2022
+
+*****IN: Wednesday Jan 19 22:33:00 EST 2022
+ Homework 2:
+
+ 1a. Python 3 was downloaded from python.org about a year ago, and Anaconda navigator was downloaded
+ from a course from UDEMY about a year ago as well. URL: https://www.python.org/downloads/
+
+ The anaconda navigator included jupyter notebook along other programs.
+ The UDEMY course also included a zip file with numpy, pandas, scipy, and other packages.
+
+ Took a screenshot of my Jupyter notebook home page and saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot1
+
+ Took a screenshot of my version of python from Jupyter notebook saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot2
+
+ 1b. Downloaded github desktop version and synced it with the class during lecture
+ on Jan 18 10:30:00 EST 2022
+ Screenshot of the github saved as pdf titled:
+ hw2_diegobenavidesucf_prob1b_screenshot
+
+ 2. Correct syntax with incorrect tokens: B00k5 R fun 2 re4d.
+ Incorrect syntax with correct tokens: Books to read are fun.
+
+ The feature of natural languages that prevents them from being programming languages is
+ called ambiguity. Meaning that in natural languages people can determine proper meaning
+ regardless of syntax or token correctness since context clues can be used to determine the
+ meaning. Programming languages are unambiguous and rely on proper syntax and tokens in order to function
+ which is a feature known as literalness.
+
+ 3. Completed the hello-world tutorial, which included how to create branches, complete commits,
+ create pull request, merge branches, and delete merged branches.
+ URL: https://guides.github.com/activities/helloworld/
+
+ Added the survey into my github during class saved the screenshot of the changes displayed on
+ the desktop version of github in order to see the changes done to the repository as a pdf titled:
+ hw2_diegobenavidesucf_prob3_screenshot1
+
+ Committed the changes made from adding the hw1_survey.txt to the classroom repository
+ HW1 folder and pushed to origin.
+ The screenshot showing the updated classroom repository HW1 folder is a pdf saved as:
+ hw2_diegobenavidesucf_prob3_screenshot2
+
+ 4. I saved all of the pdf screenshots and this updated work log into:
+ /home/diegobenavidesucf/phz3150/homework/hw2_diegobenavidesucf/ and saved it
+ as a zip file.
+
+ *****Out Thursday Jan 20 00:17:00 EST 2022
+
+*****IN Tuesday Jan 25 13:30:00 EST 2022
+
+While in class internet wasn't working for me so I have to go back and redo the
+shell command pdf demo on my own. I was only able to follow along reading, not actually working
+on the arch linux command prompt.
+
+***** Out Tuesday Jan 25 13:33:00 EST 2022
+
+***** IN Wednesday Jan 26 8:50:00 EST 2022
+Homework 3:
+
+1. Created a new folder for homework 3 saved as phz3150/handin/hw3_diegobenavidesucf.
+I created the new folder by just clicking create new folder within my directory.
+
+2a. I created a new github repository for my directory phz3150/.
+This was done by going to the github desktop app, clicking create new repository and choosing my
+phz3150/ directory as the files I would like to add. I then published that new repository from the github
+desktop app. So now the repository is also in my web version of Github.
+
+2b1. In order to add my log to my revision control through git I clicked add the add files tab
+that is on the github page for the phz3150 repository and adding my log from my directory
+desktop/phz3150/0-phz3150-diegobenavidesucf.log and then clicking commit in order to commit the
+file into my new github repository. Right before committing I typed a commit message that said:
+"Putting my log under revision control".
+
+2b2. I dragged and dropped my whole phz3150/ directory folder into my github web browser version in order to
+commit all of my files to the new repository I created in this homework. I now took a screenshot of the
+commit message page. The screenshot is saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot1.
+I took one more screenshot from within the committed phz3150/ folder in order to prove that my log
+is also in there, this was saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot2.
+
+I now moved these two screenshots into my hw3_diegobenavidesucf/ folder.
+
+***** OUT Wednesday Jan 26 9:48:00 EST 2022
+
+***** IN Wednesday Jan 26 18:58:00 EST 2022
+
+2c. Created a new folder within my desktop/ called test_git/.
+
+For some reason my github stopped syncing to my repository so I deleted and recreated it.
+
+I have recreated the repository one again to check if it will sync.
+
+Now it appears that I have correctly been able to sync the repository, and I did this by deleting and recreating
+the repository from github desktop app, github online, and my directory before recreating it.
+
+Now after deleting and recreating everything I created a folder called testgit/ and I was able to
+add it to revision control by making it within my phz3150/ repository before publishing it.
+
+It seems like creating a new folder won't appear to my changes in my github desktop app,
+so for now I will add an empty .txt file titled empty_file_for_change to hopefully bypass this issue.
+
+It appears to have worked, so now I can finally move on!
+
+2d. I now dragged and dropped the hw1-survey.txt file from canvas and put it into my
+new test_git/ folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot1.PNG .
+
+Now I will remove the survey after committing it and screenshot how something got removed
+from the test_git folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot2.PNG .
+
+Every time I committed the changes to my github I first wrote a descriptive message as to what the change was for and
+then clicked commit, and then clicked push to origin which committed my changes to my github online version of
+the repository in order to back up my work.
+
+I now took a screenshot of my committ history for the third screenshot of the assignment and saved
+it as: hw3_diegobenavidesucf_prob2d_screenshot3 .
+
+3. I opened up anaconda, jupyter notebook, and went to my desktop/phz3150/handin/hw3_diegobenavidesucf folder
+to open up a new python 3 jupyter notebook titled hw3_diegobenavidesucf_test_notebook.
+
+I then used a markdown cell in order to type a brief description of my notebook.
+
+I then followed and typed all of the code statements required by the rest of question 3.
+
+4. I updated my log, committed it on desktop github, then pushed it origin, and added a
+copy of my log to my hw3_diegobenavidesucf folder.
+
+I will now zip it, and turn in my assignment.
+
+***** OUT Wednesday Jan 26 22:20:00 EST 2022
+
+***** IN Tuesday Feb 1 20:25:00 EST 2022
+
+Homework 4:
+
+Problem 1: I created a new folder on my computer for homework 4 within my handin folder saved as:
+desktop/phz3150/handin/hw4_diegobenavidesucf
+
+I now went to my /phz3150/hw4_diegobenavidesucf folder through jupyter and created a new
+jupyter notebook by clicking new python 3 notebook inside of the folder and titled the notebook:
+hw4_diegobenavidesucf as the assignment required.
+
+I committed the new hw4_diegobenavidesucf folder and the hw4_diegobenavidesucf jupyter notebook
+to my github web version from my github desktop app repository by pushing to main and creating a descriptive commit message.
+
+I put my name, homework number, and date as comments at the top of my hw4_diegobenavidesucf jupyter notebook
+and put "problem 2" as a markdown in the notebook as required by the assignment
+by changing the cell to markdown and typing in the new cell.
+
+Problem 2: For the first part of problem 2 I typed the problem as a markdown cell and typed the F = ma (newtons second law)
+as directed by the problem. I also formatted my problem 2 work by following the example provided in the HW4 instructions.
+
+For the second part of problem 2 I created a function to get acceleration from force and mass. I typed this in my hw4_diegobenavidesucf notebook as:
+
+def force_to_acceleration( force , mass):
+    """This function will take in a value for force and mass, and divide force by mass in order
+    to calculate acceleration.
+    INPUT: Force[N] , Mass[kg]
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = force / mass
+
+    return a
+
+  As you can tell, I made sure to have a good docstring.
+
+  After running this cell a created variables for the different forces given by the assignment named F_1, F_2, F_3.
+  Then I created a variable for the one mass given, named m.
+
+  I then created separate print statements for each acceleration answer. Here are how the statements were written:
+
+  print('Problem 2:')
+
+print(f" Force is equal to {force_to_acceleration( 100 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 22 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 450 , 150)}")
+
+
+I now saved the work that I have for now by clicking save in jupyter and committing my work to my github repository by
+clicking push to origin and writing a descriptive commit message for what I have saved so far.
+
+***** OUT Tuesday Feb 1 22:18:00 EST 2022
+
+***** IN Wednesday Feb 2 09:15:00 EST 2022
+
+Homework 4 Continued:
+
+Problem 3: I started problem 3 by adding the problem 3 instructions as a markdown in the jupyter notebook and labeled it under
+another markdown cell that says "PROBLEM 3:" as directed by the assignment earlier in problem 2.
+
+For the first part of problem 3 I typed up the acceleration function inside of a .py file separate
+from the main homework jupyter notebook. I also made sure to have a good docstring.I saved the separate file my_saved_functions.py and I saved it inside of
+my hw4_diegobenavidesucf/ folder. The code for my function is:
+
+def acceleration( u1 , u2 , t1 , t2 ):
+    """This function will calculate acceleration from dividing its change in velocity[m/s] by the change in time[s]
+    or in other words its getting acceleration by calculating the rate of change of velocity
+    INPUT: Initial velocity, final velocity, inital time, final time.
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = (u2 - u1)/(t2 - t1)
+
+    return a
+
+I then imported the function to my hw4_diegobenavidesucf jupyter notebook by typing "from my_saved_functions import acceleration" inside
+of a cell.
+Then to calculate all of the acceleration values using the given data I typed this code in order to satisfy the assignment:
+
+print('Problem 3')
+
+ui_1 = 10
+uf_1 = 13
+ti_1 = 0
+tf_1 = 2
+
+ui_2 = 15
+uf_2 = 30
+ti_2 = 10
+tf_2 = 14
+
+ui_3 = 32
+uf_3 = 36
+ti_3 = 14
+tf_3 = 16
+
+ui_4 = 42
+uf_4 = 20
+ti_4 = 28
+tf_4 = 32
+
+ui_5 = 20
+uf_5 = 22
+ti_5 = 0
+tf_5 = 10
+
+print(f'The accelerarion is { acceleration( ui_1 , uf_1 , ti_1 , tf_1 ) }')
+print(f'The accelerarion is { acceleration( ui_2 , uf_2 , ti_2 , tf_2 ) }')
+print(f'The accelerarion is { acceleration( ui_3 , uf_3 , ti_3 , tf_3 ) }')
+print(f'The accelerarion is { acceleration( ui_4 , uf_4 , ti_4 , tf_4 ) }')
+print(f'The accelerarion is { acceleration( ui_5 , uf_5 , ti_5 , tf_5 ) }')
+
+
+I then answered the rest of problem 3 as a comment inside of jupyter by putting # before typing as directed by the assignment.
+
+***** OUT Wednesday Feb 2 10:02:00 EST 2022
+***** IN wednesday Feb 2 14:00:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+I started problem 4 by writing the two lists that were required by the assignment using the list and range functions.
+
+I then printed them as instructed by the HW4 assignment.
+
+I forgot to mention that I copy and pasted the problem 4 as markdown cell before typing my answers in a code cell.
+
+I then used the proper slicing and indexing conventions to slice and print the velocity list from the 3rd cell up to and including the 5th element,
+and then the 8th element.
+
+In a new cell I called the acceleration function and printed all of the assigned cases for acceleration using the proper indexing to
+get the proper answer for each case.
+
+***** OUT Feb 2 14:54:00 EST 2022
+
+***** IN Feb 2 20:08:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+After printing all of the acceleration cases required by the assignment I double checked the answers with
+a calculator and mentioned that fact as a comment within my code. My code for printing all of the
+acceleration values for this section of problem 4 is as follows:
+
+#printing the acceleration for the required velocity pairs and corresponding times.
+
+print('Problem 4:')
+
+print(f'The acceleration is {acceleration( velocity[2] , velocity[3] , time[2] , time[3] )}')
+print(f'The acceleration is {acceleration( velocity[3] , velocity[4] , time[3] , time[4] )}')
+print(f'The acceleration is {acceleration( velocity[4] , velocity[7] , time[4] , time[7] )}')
+
+For the last part of the assignment I change the value of the fifth element of the velocity list
+by indexing the element and setting it equal to 90. After printing it is clear that the value of the
+element was changed to 90, which is possible due to the mutability of lists in python.
+
+My code for this last section is:
+
+#Now I will change the value of the 5th element.
+
+velocity[4] = 90
+
+print('Problem 4:')
+
+print(velocity)
+
+After running this cell I mentioned the mutability of lists in python in a markdown cell.
+
+Problem 5: I now saved the jupyter notebook by clicking the save button at the top left and it is already saved within my
+/hw4_diegobenavidesucf/ folder.
+
+After double checking that I saved all of my files I committed my hw4_diegobenavidesucf notebook and pushed it github by
+clicking commit to main, typing a descriptive commit message, and clicking push to origin.
+
+After pushing to origin I screenshot it and saved the screen shot as hw4_diegobenavidesucf_prob5_screenshot inside
+of my hw4_diegobenavidesucf/ folder.
+
+I then committed and pushed the addition of the screenshot to github following the same process.
+
+I now saved the log, committed the changes to github by pushing to origin, dragged and dropped a copy of my log into
+my hw4_diegobenavidesucf/ folder with the rest of my hw4 files.
+
+I now zipped the hw4_diegobenavidesucf/ folder and it is ready to be submitted.
+
+I now committed that change to github by pushing to origin.
+
+***** OUT Feb 2 20:48:00 EST 2022
