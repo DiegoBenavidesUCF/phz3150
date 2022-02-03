@@ -316,3 +316,56 @@ In a new cell I called the acceleration function and printed all of the assigned
 get the proper answer for each case.
 
 ***** OUT Feb 2 14:54:00 EST 2022
+
+***** IN Feb 2 20:08:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+After printing all of the acceleration cases required by the assignment I double checked the answers with
+a calculator and mentioned that fact as a comment within my code. My code for printing all of the
+acceleration values for this section of problem 4 is as follows:
+
+#printing the acceleration for the required velocity pairs and corresponding times.
+
+print('Problem 4:')
+
+print(f'The acceleration is {acceleration( velocity[2] , velocity[3] , time[2] , time[3] )}')
+print(f'The acceleration is {acceleration( velocity[3] , velocity[4] , time[3] , time[4] )}')
+print(f'The acceleration is {acceleration( velocity[4] , velocity[7] , time[4] , time[7] )}')
+
+For the last part of the assignment I change the value of the fifth element of the velocity list
+by indexing the element and setting it equal to 90. After printing it is clear that the value of the
+element was changed to 90, which is possible due to the mutability of lists in python.
+
+My code for this last section is:
+
+#Now I will change the value of the 5th element.
+
+velocity[4] = 90
+
+print('Problem 4:')
+
+print(velocity)
+
+After running this cell I mentioned the mutability of lists in python in a markdown cell.
+
+Problem 5: I now saved the jupyter notebook by clicking the save button at the top left and it is already saved within my
+/hw4_diegobenavidesucf/ folder.
+
+After double checking that I saved all of my files I committed my hw4_diegobenavidesucf notebook and pushed it github by
+clicking commit to main, typing a descriptive commit message, and clicking push to origin.
+
+After pushing to origin I screenshot it and saved the screen shot as hw4_diegobenavidesucf_prob5_screenshot inside
+of my hw4_diegobenavidesucf/ folder.
+
+I then committed and pushed the addition of the screenshot to github following the same process.
+
+I now saved the log, committed the changes to github by pushing to origin, dragged and dropped a copy of my log into
+my hw4_diegobenavidesucf/ folder with the rest of my hw4 files.
+
+I now zipped the hw4_diegobenavidesucf/ folder and it is ready to be submitted.
+
+I now committed that change to github by pushing to origin.
+
+***** OUT Feb 2 20:48:00 EST 2022
