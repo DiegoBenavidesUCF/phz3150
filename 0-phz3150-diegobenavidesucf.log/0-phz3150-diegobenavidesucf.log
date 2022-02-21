@@ -898,3 +898,87 @@ for i in lst_1[:6]: # iterates through the first six words only
 Now I am going to save and push to origin all of my work so far for this homework using the github desktop app.
 
 ***** OUT feb 20 19:43:00 EST 2022
+
+***** IN feb 20 21:00:00 EST 2022
+
+Problem 3:
+
+I created a separate file for the function titled hw7_support_funct.py
+saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+which is where I will write my function for this problem.
+
+The function I made properly solves the equation for why and loops through the x array in order to return a y array
+which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+zeroes using np.zeros() for the y array, before using the function to populate it.
+
+Now I will import the function and input the given inputs from the problem.
+
+unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+and now I am getting a confusing run time error and its quite frustrating.
+
+I am going to email the professor with screenshots in hopes of getting help.
+
+***** OUT feb 20 23:41:00 EST 2022
+
+***** IN feb 21 8:36:00 EST 2022
+
+Problem 4:
+
+For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+I made a mark down cell denoting I am starting problem 4.
+
+To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+array in numerical order.
+I made sure to have a good docstring before writing the function.
+
+I created my function by making a nested for loop that switches the position of the numbers in each element
+if the next element is greater less than the prior so it should switch them until the array is sorted out
+in numerical order.
+
+Now I will import the function and check if it works.
+
+I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+was in the proper indent level.
+
+The function works and re-orders my array in numerical order.
+
+My code for problem 4 is as follows:
+
+from hw7_support_funct import order_array
+
+print('Problem 4:\n')
+
+test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+print(order_array(test_array))
+
+
+My code for the function on the hw7_support_funct.py file is:
+
+def order_array( input_array ):
+    """This function will take an array of numbers and sort them by numerical order
+    without using an built in functions on python such as .max() .min() or .sort().
+    INPUT: Not ordered array of numbers
+    OUTPUT: array of numbers that is in numerical order"""
+
+    for i in range(len( input_array )):
+
+        for j in range(i + 1, len( input_array )):
+
+            if (input_array[i] > input_array[j]):
+
+                input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+    return input_array
+
+
+    Now I have completed all of the problems except for 3 which I am still currently waiting for help for.
+
+    I will now push origin to github from my github desktop app for all of the work I currently have.
+
+    ***** OUT feb 21 9:12:00 EST 2022
+
+    
