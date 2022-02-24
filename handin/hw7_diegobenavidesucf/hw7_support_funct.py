@@ -18,15 +18,9 @@ def circle( x , x0 , y0 , r ):
     all y coordinates of the circle with radius r.
     INPUT: x coordinate array, x0 coordinate, y0 coordinate, radius r
     OUTPUT: y coordinate array"""
-    
-    y = np.zeros(220)
-    
-    for i in range(len(x)):
-        
-        for j in range(len(y)):
             
-            y[j] = np.sqrt((np.power(r,2))-(np.power((x[i] - x0),2))) + y0
-        
+    y = np.sqrt((np.power(r,2))-(np.power((x - x0),2))) + y0
+    
     return y
 
 def order_array( input_array ):

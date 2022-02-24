@@ -981,4 +981,216 @@ def order_array( input_array ):
 
     ***** OUT feb 21 9:12:00 EST 2022
 
-    
+
+
+
+    ***** IN feb 23 21:46:00 EST 2022
+
+homework 7:
+
+    Since this is my final entry before submitting homework 7 I will copy and paste my entries
+    for each problem here in order.
+
+    I will also re-order my jupyter notebook, by using copy and paste,  since I started my problems out of order.
+    I will also look through the rubric and update what I do for each problem if I missed something.
+
+    Problem 1:
+
+    To commence homework seven I made a folder titled hw7_diegobenavidesucf within my handin folder by clicking
+    new folder in my computer.
+
+    I then created a python 3 Jupyter note book titled hw7_diegobenavidesucf within handin/hw7_diegobenavidesucf by clicking
+    new and then clicking python 3. After that I put my name, date, and assignment as comments in the first cell of the notebook
+    as directed by the assignment. I then imported numpy as np and matplotlib.pyplot as plt just in case I need it later.
+
+    Before starting problems I pushed these new changes to github by pressing commit, making a descriptive commit statement, and clicking push origin.
+
+
+    Problem 2:
+
+    I solved the first part of problem 2 by creating a string of the given sentence, then I created a list that separates the first string
+    by whitespace using .split() and then using a for loop that iterates through the list to print out the words individually.
+
+    I solved the second part of problem two by creating a loop that initially had my guess max length word equal to the first of the sentence and then
+    I made an if statement that would change the guess max length word to the new word if the new word iterated over was longer than the guess. I did This
+    by taking advantage of the len() function.
+
+    unfortunately I failed to make it with a while loop. so i left that failed code as comments so the rest of my code can still run.
+
+    then I made a print statement that printed the guess max length word which is now the actual max length word.
+
+    I solved the last part of problem 3 by creating a for loop that iterates through only lst_1[:6] which is only the first six words of the sentence
+    as required by the problem. I then printed out the set(i) in order to only print out the unique characters per word. But it is important
+    to note that the set() function prints the unique letters in a random order.
+
+    My code for all of problem 2 is :
+
+    print('Problem 2 part 1:\n')
+
+    # first part of problem 2:
+
+    str_1 = " Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer"
+
+    lst_1 = str_1.split()
+
+    for word in lst_1:
+        print(word)
+
+    # second part of problem 2:
+
+    # with for loop
+
+    print('\n')
+    print('Problem 2 part 2:\n')
+
+    guess_max = lst_1[0]
+
+    for i in range( 1 , len(lst_1)):
+        if (len(lst_1[i]) > len(guess_max)):
+            guess_max = lst_1[i]
+    print(guess_max, '\n')
+
+    # with while loop
+
+    #guess_max2 = lst_1[0]
+
+    #while lst_1[i] != lst_1[i+1]:
+
+        #if ( len(guess_max2) < len(lst_1[i]) ):
+
+          #  guess_max2 = lst_1[i]
+
+           # i = i + 1
+
+       # print(guess_max2, '\n')
+
+    # Third part of problem 2:
+
+    print('Problem 2 part 3:\n')
+
+
+    for i in lst_1[:6]: # iterates through the first six words only
+
+        print(set(i)) # prints out the unique characters but randomly because it turns the letters into a set.
+
+
+
+  Problem 3:
+
+        I created a separate file for the function titled hw7_support_funct.py
+        saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+        which is where I will write my function for this problem.
+
+        The function I made properly solves the equation for why and loops through the x array in order to return a y array
+        which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+        zeroes using np.zeros() for the y array, before using the function to populate it.
+
+        Now I will import the function and input the given inputs from the problem.
+
+        unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+        and now I am getting a confusing run time error and its quite frustrating.
+
+        I am going to email the professor with screenshots in hopes of getting help.
+
+        Unfortunately even after getting help on problem 3 I was unable to figure out the issue, I am looking forward to
+        seeing the solution tomorrow in class.
+
+
+
+    Problem 4:
+
+        For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+        in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+        I made a mark down cell denoting I am starting problem 4.
+
+        To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+        array in numerical order.
+        I made sure to have a good docstring before writing the function.
+
+        I created my function by making a nested for loop that switches the position of the numbers in each element
+        if the next element is greater less than the prior so it should switch them until the array is sorted out
+        in numerical order.
+
+        Now I will import the function and check if it works.
+
+        I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+        was in the proper indent level.
+
+        The function works and re-orders my array in numerical order.
+
+        After that I checked if the answer would be the same using np.sort( ) and it was correctly
+        so my function worked.
+
+        My code for problem 4 is as follows:
+
+        from hw7_support_funct import order_array
+
+        print('Problem 4:\n')
+
+        test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+        print(order_array(test_array))
+
+
+        My code for the function on the hw7_support_funct.py file is:
+
+        def order_array( input_array ):
+            """This function will take an array of numbers and sort them by numerical order
+            without using an built in functions on python such as .max() .min() or .sort().
+            INPUT: Not ordered array of numbers
+            OUTPUT: array of numbers that is in numerical order"""
+
+            for i in range(len( input_array )):
+
+                for j in range(i + 1, len( input_array )):
+
+                    if (input_array[i] > input_array[j]):
+
+                        input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+            return input_array
+
+
+
+    Problem 5:
+
+        I made a markdown cell to state problem 5 in order to follow the conventions of organization of the homework for this course.
+
+        I decided to start off with problem 5 because when I read through the homework It seemed like the most simple problem so I am getting it out
+        of the way first.
+
+        I found this problem to be very straight forward so I made a list with the pyramid outputs and used a for loop to print out
+        the individual levels of the pyramid one by one.
+
+       here is my code for problem 5:
+
+            print('Problem 5:\n')
+
+            pyramid = [1 , 10 , 101 , 1010 , 10101 , 101010 , 10101 , 1010 , 101, 10 , 1]
+
+            for i in pyramid:
+                print(i)
+
+
+Problem 6:
+
+I am now going to save and submmit my work.
+
+I already had my jupyter hw7_diegobenavidesucf notebook in my handin/hw7_diegobenavidesucf folder
+and I also already had my hw7_support_funct.py file in the same folder as well so I did not have
+to take any deliberate steps to add it in last minute.
+
+I am now going to save this log, copy and paste my log into my handin/hw7_diegobenavidesucf folder, and then take a screenshot of my
+commit to github.
+
+I will commit my work to github by going into my github desktop app and clicking on all of my changes made right now and make
+a descriptive commit statement, and after all that I will click the push origin button.
+
+I will take a screenshot proving this and title it hw7_diegobenavidesucf_prob6_screenshot.png and save it to my
+handin/hw7_diegobenavidesucf folder.
+
+I will then zip the folder by clicking compress to zip file and submit my hw7_diegobenavidesucf folder.
+
+***** OUT feb 23 23:00:00 EST 2022
