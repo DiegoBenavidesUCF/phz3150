@@ -1,0 +1,1196 @@
+Diego Benavides
+Log for PHZ 3150, Spring 2022
+*****IN: Thursday Jan 13 21:56:00 EST 2022
+Made a directory for the class here:
+/home/diegobenavidesucf/phz3150/
+Opened Atom, started this log, saved as:
+/home/diegobenavidesucf/phz3150/0-phz3150-diegobenavidesucf.log
+
+Now copy and pasting hw1-survey.txt from webcourses into the log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Diego Benavides
+Email: dbenavides@knights.ucf.edu
+  Phone: 4073348903
+Major: Physics, Astronomy Track
+Year: 3
+ID: 4569724
+How did you hear about this course? From the course catalog.
+Do you have a laptop you can bring to class, install software on, etc.? Yes.
+What operating system and version does it run? Windows 11.
+How much free disk space does it have? 65GB.
+What operating systems are you comfortable working in? Windows.
+What computer classes have you taken, including high school,
+extracurricular, etc.? Intro to C.
+Have you ever programmed a computer? Yes I have learned a little bit of python on my own
+In what language(s)? Python 3.
+Summarize your experience: I have learned some of the basics, using numpy, pandas, and matplotlib.
+Have you taken statistics or probability? Yes I have taken statistics.
+Why are you taking this course? I am taking this course to feel more confident in my programming skills
+and apply this to my research credits, which I would like to start soon.
+Are there particular topics you hope to learn? I would like to learn more on how to visualize large amounts of data.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: In the intermediate physics lab course I used matplotlib and numpy to create
+basic charts, tables, and linear regressions.
+Have you ever been involved with a science club or similar?  If so,
+describe: I have not been active in scientific clubs.
+
+Now downloading the think python book into /home/diegobenavidesucf/phz3150/books/:
+Book was saved as /home/diegobenavidesucf/phz3150/books/thinkpython2
+The download URL : https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+*****OUT: Thursday Jan 13 22:25:00 EST 2022
+
+*****IN: Tuesday Jan 18 09:43:00 EST 2022
+The directory /home//home/diegobenavidesucf/phz3150 for this course was created
+through folders on my laptop which has a windows 11 OS
+
+*****OUT: Tuesday Jan 18 2022 09:50:00 EST 2022
+
+*****IN: Wednesday Jan 19 22:33:00 EST 2022
+ Homework 2:
+
+ 1a. Python 3 was downloaded from python.org about a year ago, and Anaconda navigator was downloaded
+ from a course from UDEMY about a year ago as well. URL: https://www.python.org/downloads/
+
+ The anaconda navigator included jupyter notebook along other programs.
+ The UDEMY course also included a zip file with numpy, pandas, scipy, and other packages.
+
+ Took a screenshot of my Jupyter notebook home page and saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot1
+
+ Took a screenshot of my version of python from Jupyter notebook saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot2
+
+ 1b. Downloaded github desktop version and synced it with the class during lecture
+ on Jan 18 10:30:00 EST 2022
+ Screenshot of the github saved as pdf titled:
+ hw2_diegobenavidesucf_prob1b_screenshot
+
+ 2. Correct syntax with incorrect tokens: B00k5 R fun 2 re4d.
+ Incorrect syntax with correct tokens: Books to read are fun.
+
+ The feature of natural languages that prevents them from being programming languages is
+ called ambiguity. Meaning that in natural languages people can determine proper meaning
+ regardless of syntax or token correctness since context clues can be used to determine the
+ meaning. Programming languages are unambiguous and rely on proper syntax and tokens in order to function
+ which is a feature known as literalness.
+
+ 3. Completed the hello-world tutorial, which included how to create branches, complete commits,
+ create pull request, merge branches, and delete merged branches.
+ URL: https://guides.github.com/activities/helloworld/
+
+ Added the survey into my github during class saved the screenshot of the changes displayed on
+ the desktop version of github in order to see the changes done to the repository as a pdf titled:
+ hw2_diegobenavidesucf_prob3_screenshot1
+
+ Committed the changes made from adding the hw1_survey.txt to the classroom repository
+ HW1 folder and pushed to origin.
+ The screenshot showing the updated classroom repository HW1 folder is a pdf saved as:
+ hw2_diegobenavidesucf_prob3_screenshot2
+
+ 4. I saved all of the pdf screenshots and this updated work log into:
+ /home/diegobenavidesucf/phz3150/homework/hw2_diegobenavidesucf/ and saved it
+ as a zip file.
+
+ *****Out Thursday Jan 20 00:17:00 EST 2022
+
+*****IN Tuesday Jan 25 13:30:00 EST 2022
+
+While in class internet wasn't working for me so I have to go back and redo the
+shell command pdf demo on my own. I was only able to follow along reading, not actually working
+on the arch linux command prompt.
+
+***** Out Tuesday Jan 25 13:33:00 EST 2022
+
+***** IN Wednesday Jan 26 8:50:00 EST 2022
+Homework 3:
+
+1. Created a new folder for homework 3 saved as phz3150/handin/hw3_diegobenavidesucf.
+I created the new folder by just clicking create new folder within my directory.
+
+2a. I created a new github repository for my directory phz3150/.
+This was done by going to the github desktop app, clicking create new repository and choosing my
+phz3150/ directory as the files I would like to add. I then published that new repository from the github
+desktop app. So now the repository is also in my web version of Github.
+
+2b1. In order to add my log to my revision control through git I clicked add the add files tab
+that is on the github page for the phz3150 repository and adding my log from my directory
+desktop/phz3150/0-phz3150-diegobenavidesucf.log and then clicking commit in order to commit the
+file into my new github repository. Right before committing I typed a commit message that said:
+"Putting my log under revision control".
+
+2b2. I dragged and dropped my whole phz3150/ directory folder into my github web browser version in order to
+commit all of my files to the new repository I created in this homework. I now took a screenshot of the
+commit message page. The screenshot is saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot1.
+I took one more screenshot from within the committed phz3150/ folder in order to prove that my log
+is also in there, this was saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot2.
+
+I now moved these two screenshots into my hw3_diegobenavidesucf/ folder.
+
+***** OUT Wednesday Jan 26 9:48:00 EST 2022
+
+***** IN Wednesday Jan 26 18:58:00 EST 2022
+
+2c. Created a new folder within my desktop/ called test_git/.
+
+For some reason my github stopped syncing to my repository so I deleted and recreated it.
+
+I have recreated the repository one again to check if it will sync.
+
+Now it appears that I have correctly been able to sync the repository, and I did this by deleting and recreating
+the repository from github desktop app, github online, and my directory before recreating it.
+
+Now after deleting and recreating everything I created a folder called testgit/ and I was able to
+add it to revision control by making it within my phz3150/ repository before publishing it.
+
+It seems like creating a new folder won't appear to my changes in my github desktop app,
+so for now I will add an empty .txt file titled empty_file_for_change to hopefully bypass this issue.
+
+It appears to have worked, so now I can finally move on!
+
+2d. I now dragged and dropped the hw1-survey.txt file from canvas and put it into my
+new test_git/ folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot1.PNG .
+
+Now I will remove the survey after committing it and screenshot how something got removed
+from the test_git folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot2.PNG .
+
+Every time I committed the changes to my github I first wrote a descriptive message as to what the change was for and
+then clicked commit, and then clicked push to origin which committed my changes to my github online version of
+the repository in order to back up my work.
+
+I now took a screenshot of my committ history for the third screenshot of the assignment and saved
+it as: hw3_diegobenavidesucf_prob2d_screenshot3 .
+
+3. I opened up anaconda, jupyter notebook, and went to my desktop/phz3150/handin/hw3_diegobenavidesucf folder
+to open up a new python 3 jupyter notebook titled hw3_diegobenavidesucf_test_notebook.
+
+I then used a markdown cell in order to type a brief description of my notebook.
+
+I then followed and typed all of the code statements required by the rest of question 3.
+
+4. I updated my log, committed it on desktop github, then pushed it origin, and added a
+copy of my log to my hw3_diegobenavidesucf folder.
+
+I will now zip it, and turn in my assignment.
+
+***** OUT Wednesday Jan 26 22:20:00 EST 2022
+
+***** IN Tuesday Feb 1 20:25:00 EST 2022
+
+Homework 4:
+
+Problem 1: I created a new folder on my computer for homework 4 within my handin folder saved as:
+desktop/phz3150/handin/hw4_diegobenavidesucf
+
+I now went to my /phz3150/hw4_diegobenavidesucf folder through jupyter and created a new
+jupyter notebook by clicking new python 3 notebook inside of the folder and titled the notebook:
+hw4_diegobenavidesucf as the assignment required.
+
+I committed the new hw4_diegobenavidesucf folder and the hw4_diegobenavidesucf jupyter notebook
+to my github web version from my github desktop app repository by pushing to main and creating a descriptive commit message.
+
+I put my name, homework number, and date as comments at the top of my hw4_diegobenavidesucf jupyter notebook
+and put "problem 2" as a markdown in the notebook as required by the assignment
+by changing the cell to markdown and typing in the new cell.
+
+Problem 2: For the first part of problem 2 I typed the problem as a markdown cell and typed the F = ma (newtons second law)
+as directed by the problem. I also formatted my problem 2 work by following the example provided in the HW4 instructions.
+
+For the second part of problem 2 I created a function to get acceleration from force and mass. I typed this in my hw4_diegobenavidesucf notebook as:
+
+def force_to_acceleration( force , mass):
+    """This function will take in a value for force and mass, and divide force by mass in order
+    to calculate acceleration.
+    INPUT: Force[N] , Mass[kg]
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = force / mass
+
+    return a
+
+  As you can tell, I made sure to have a good docstring.
+
+  After running this cell a created variables for the different forces given by the assignment named F_1, F_2, F_3.
+  Then I created a variable for the one mass given, named m.
+
+  I then created separate print statements for each acceleration answer. Here are how the statements were written:
+
+  print('Problem 2:')
+
+print(f" Force is equal to {force_to_acceleration( 100 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 22 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 450 , 150)}")
+
+
+I now saved the work that I have for now by clicking save in jupyter and committing my work to my github repository by
+clicking push to origin and writing a descriptive commit message for what I have saved so far.
+
+***** OUT Tuesday Feb 1 22:18:00 EST 2022
+
+***** IN Wednesday Feb 2 09:15:00 EST 2022
+
+Homework 4 Continued:
+
+Problem 3: I started problem 3 by adding the problem 3 instructions as a markdown in the jupyter notebook and labeled it under
+another markdown cell that says "PROBLEM 3:" as directed by the assignment earlier in problem 2.
+
+For the first part of problem 3 I typed up the acceleration function inside of a .py file separate
+from the main homework jupyter notebook. I also made sure to have a good docstring.I saved the separate file my_saved_functions.py and I saved it inside of
+my hw4_diegobenavidesucf/ folder. The code for my function is:
+
+def acceleration( u1 , u2 , t1 , t2 ):
+    """This function will calculate acceleration from dividing its change in velocity[m/s] by the change in time[s]
+    or in other words its getting acceleration by calculating the rate of change of velocity
+    INPUT: Initial velocity, final velocity, inital time, final time.
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = (u2 - u1)/(t2 - t1)
+
+    return a
+
+I then imported the function to my hw4_diegobenavidesucf jupyter notebook by typing "from my_saved_functions import acceleration" inside
+of a cell.
+Then to calculate all of the acceleration values using the given data I typed this code in order to satisfy the assignment:
+
+print('Problem 3')
+
+ui_1 = 10
+uf_1 = 13
+ti_1 = 0
+tf_1 = 2
+
+ui_2 = 15
+uf_2 = 30
+ti_2 = 10
+tf_2 = 14
+
+ui_3 = 32
+uf_3 = 36
+ti_3 = 14
+tf_3 = 16
+
+ui_4 = 42
+uf_4 = 20
+ti_4 = 28
+tf_4 = 32
+
+ui_5 = 20
+uf_5 = 22
+ti_5 = 0
+tf_5 = 10
+
+print(f'The accelerarion is { acceleration( ui_1 , uf_1 , ti_1 , tf_1 ) }')
+print(f'The accelerarion is { acceleration( ui_2 , uf_2 , ti_2 , tf_2 ) }')
+print(f'The accelerarion is { acceleration( ui_3 , uf_3 , ti_3 , tf_3 ) }')
+print(f'The accelerarion is { acceleration( ui_4 , uf_4 , ti_4 , tf_4 ) }')
+print(f'The accelerarion is { acceleration( ui_5 , uf_5 , ti_5 , tf_5 ) }')
+
+
+I then answered the rest of problem 3 as a comment inside of jupyter by putting # before typing as directed by the assignment.
+
+***** OUT Wednesday Feb 2 10:02:00 EST 2022
+***** IN wednesday Feb 2 14:00:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+I started problem 4 by writing the two lists that were required by the assignment using the list and range functions.
+
+I then printed them as instructed by the HW4 assignment.
+
+I forgot to mention that I copy and pasted the problem 4 as markdown cell before typing my answers in a code cell.
+
+I then used the proper slicing and indexing conventions to slice and print the velocity list from the 3rd cell up to and including the 5th element,
+and then the 8th element.
+
+In a new cell I called the acceleration function and printed all of the assigned cases for acceleration using the proper indexing to
+get the proper answer for each case.
+
+***** OUT Feb 2 14:54:00 EST 2022
+
+***** IN Feb 2 20:08:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+After printing all of the acceleration cases required by the assignment I double checked the answers with
+a calculator and mentioned that fact as a comment within my code. My code for printing all of the
+acceleration values for this section of problem 4 is as follows:
+
+#printing the acceleration for the required velocity pairs and corresponding times.
+
+print('Problem 4:')
+
+print(f'The acceleration is {acceleration( velocity[2] , velocity[3] , time[2] , time[3] )}')
+print(f'The acceleration is {acceleration( velocity[3] , velocity[4] , time[3] , time[4] )}')
+print(f'The acceleration is {acceleration( velocity[4] , velocity[7] , time[4] , time[7] )}')
+
+For the last part of the assignment I change the value of the fifth element of the velocity list
+by indexing the element and setting it equal to 90. After printing it is clear that the value of the
+element was changed to 90, which is possible due to the mutability of lists in python.
+
+My code for this last section is:
+
+#Now I will change the value of the 5th element.
+
+velocity[4] = 90
+
+print('Problem 4:')
+
+print(velocity)
+
+After running this cell I mentioned the mutability of lists in python in a markdown cell.
+
+Problem 5: I now saved the jupyter notebook by clicking the save button at the top left and it is already saved within my
+/hw4_diegobenavidesucf/ folder.
+
+After double checking that I saved all of my files I committed my hw4_diegobenavidesucf notebook and pushed it github by
+clicking commit to main, typing a descriptive commit message, and clicking push to origin.
+
+After pushing to origin I screenshot it and saved the screen shot as hw4_diegobenavidesucf_prob5_screenshot inside
+of my hw4_diegobenavidesucf/ folder.
+
+I then committed and pushed the addition of the screenshot to github following the same process.
+
+I now saved the log, committed the changes to github by pushing to origin, dragged and dropped a copy of my log into
+my hw4_diegobenavidesucf/ folder with the rest of my hw4 files.
+
+I now zipped the hw4_diegobenavidesucf/ folder and it is ready to be submitted.
+
+I now committed that change to github by pushing to origin.
+
+***** OUT Feb 2 20:48:00 EST 2022
+
+***** IN FEB 8 15:00:00 EST 2022
+
+Homework 5:
+Problem 1:
+
+ To commence homework 5 I created a folder for homework 5 titled hw5_diegobenavidesucf in my handing folder.
+ I then opened up jupyter notebook and created a note book under the folder titled hw5_diegobenavidesucf under my
+ /handin/hw5_diegobenavidesucf folder. I did this by clicking new and clicking python 3 notebook.
+
+ Once I opened the jupyter notebook I typed my name, assignment, and date as comments as directed by the assignment.
+
+Problem 2:
+
+before starting problem two I typed 'problem 2:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I then began problem 2 by creating a function that solves for the roots of a quadratic equation when the coefficients are given as the input:
+
+My code, docstring, and in-code comments also do a good job at describing my work:
+
+def my_solve_for_roots( a , b , c ):
+    """This function will calculate the roots of a quadratic equation, which are second order polynomials, given the three
+    coefficients of the equation.
+    INPUT: Coefficients of ax^2 + bx + c = 0 ( a , b , c )
+    OUTPUT: a list of the roots"""
+
+    # first I will calculate the discriminant to simplify the rest of the calculation of the calculation
+    #Hopefully making it more readable.
+
+    discriminant = (np.power( b , 2) - ( 4 * a * c ))
+
+    #plugging in discriminant to the rest of the quadratic formula
+
+    solution_set1 = (( -1 * b ) + np.sqrt(discriminant)) / ( 2 * a )
+
+    solution_set2 = (( -1 * b ) - np.sqrt(discriminant)) / ( 2 * a )
+
+    solution = [ solution_set1 , solution_set2]
+
+    return solution
+
+As you can tell the function properly returns a list of the roots as required by the assignment.
+
+In the next cell I printed out the results for the set of coefficients given to me by the homework.
+
+After printing the results I double checked my answers by doing the algebra by hand.
+
+
+Problem 3:
+
+Before starting problem two I typed 'problem 3:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+To commence the problem I created the student_h list and populated the list with the correct heights given by the assignment.
+
+I began to code my function and created a descriptive docstring but unfortunately after several hours of not being able to figure out
+how separate the mathematical operations at the decimal of the height values I am stumped on this problem and I am deciding to move on.
+
+***** OUT feb 8 20:12:00 EST 2022
+
+***** IN feb 9 8:40:00 EST 2022
+
+I will now copy and paste my prior HW5 log from my prior entry in order to have my work for this homework in one entry
+since this was stated at the top of the homework assignment.
+
+Homework 5:
+Problem 1:
+
+ To commence homework 5 I created a folder for homework 5 titled hw5_diegobenavidesucf in my handing folder.
+ I then opened up jupyter notebook and created a note book under the folder titled hw5_diegobenavidesucf under my
+ /handin/hw5_diegobenavidesucf folder. I did this by clicking new and clicking python 3 notebook.
+
+ Once I opened the jupyter notebook I typed my name, assignment, and date as comments as directed by the assignment.
+
+Problem 2:
+
+before starting problem two I typed 'problem 2:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I then began problem 2 by creating a function that solves for the roots of a quadratic equation when the coefficients are given as the input:
+
+My code, docstring, and in-code comments also do a good job at describing my work:
+
+def my_solve_for_roots( a , b , c ):
+    """This function will calculate the roots of a quadratic equation, which are second order polynomials, given the three
+    coefficients of the equation.
+    INPUT: Coefficients of ax^2 + bx + c = 0 ( a , b , c )
+    OUTPUT: a list of the roots"""
+
+    # first I will calculate the discriminant to simplify the rest of the calculation of the calculation
+    #Hopefully making it more readable.
+
+    discriminant = (np.power( b , 2) - ( 4 * a * c ))
+
+    #plugging in discriminant to the rest of the quadratic formula
+
+    solution_set1 = (( -1 * b ) + np.sqrt(discriminant)) / ( 2 * a )
+
+    solution_set2 = (( -1 * b ) - np.sqrt(discriminant)) / ( 2 * a )
+
+    solution = [ solution_set1 , solution_set2]
+
+    return solution
+
+As you can tell the function properly returns a list of the roots as required by the assignment.
+
+In the next cell I printed out the results for the set of coefficients given to me by the homework.
+
+After printing the results I double checked my answers by doing the algebra by hand.
+
+
+Problem 3:
+
+Before starting problem two I typed 'problem 3:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+To commence the problem I created the student_h list and populated the list with the correct heights given by the assignment.
+
+I began to code my function and created a descriptive docstring but unfortunately after several hours of not being able to figure out
+how separate the mathematical operations at the decimal of the height values I am stumped on this problem and I am deciding to move on.
+
+Problem 4:
+
+Before starting problem two I typed 'problem 4:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I began this problem by creating the function displacement(u_init, t, a) in a separate .py  file since that was what the instructions
+wanted.
+
+my code and doctstring for this function are:
+
+def displacement( u_init , t , a ):
+    """This function calculates the total displacement of a body that during a time interval of t, a constant
+    acceleration, and an initial velocity of zero.
+    INPUT: Initial velocity of 0[m/s] , constan accelerations [m/s^2] , time intervals [s]
+    OUTPUT: displacement [m]"""
+
+    #formula for displacement of an object with constant acceleration
+
+    s = ( u_init * t ) + ( 0.5 * a * ( t**2 ))
+
+    return s
+
+As you can see above my docstring is descriptive.
+
+For the next part of the problem I imported the function into my jupyter notebook using: from my_saved_functions import displacement .
+
+I then printed the answers for all of the requested pairs as follows (ny code for the outputs for the assignment problem 4):
+
+#velocity
+
+v_0 = 0
+
+#time intervals
+
+t_1= 2
+
+t_2 = 4
+
+t_3 = 14
+
+#Constant accelerations
+
+a_1 = 10
+
+a_2 = 20
+
+a_3 = 30
+
+
+
+print('Problem 4:')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 2s, and acceleration of 10 the displacement is {displacement( v_0 , t_1 , a_1 )} m \n')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 4s, and acceleration of 20 the displacement is {displacement( v_0 , t_2 , a_2 )} m \n')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 14s, and acceleration of 30 the displacement is {displacement( v_0 , t_3 , a_3 )} m \n')
+
+I then double checked my math here with a calculator and all of my values were correct.
+
+
+Problem 5:
+
+I then committed my homework file to github by clicking commit and push to origin after writing a descriptive commit comment for this commit.
+I took a screenshot of the commit and saved it as /handin/hw5_diegobenavidesucf/hw5_diegobenavidesucf_prob5_screenshot.png
+
+I will now save this log, copy it into my hw5_diegobenavidesucf folder by drag and dropping, and then zip the hw5_diegobenavidesucf folder by Right
+clicking and then clicking compress to zip file.
+
+I will then push these new changes to github by creating a descriptive commit comment and clicking push origin.
+
+***** OUT feb 9 11:00:00 EST 2022
+
+***** IN Feb 16 15:37:00 EST 2022
+Homework 6:
+
+Problem 1:
+I started by creating a folder titled hw6_diegobenavidesucf in order to comply with the course naming convention.
+I saved the folder under phz3150/handin/hw6_diegobenavidesucf.
+
+I then opened a new python 3 jupyter notebook inside of this folder by clicking new python 3 notebook inside of the phz3150/handin/hw6_diegobenavidesucf
+directory through jupyter so that the notebook may be inside of this homework folder.
+
+I then pushed this to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement and clicking
+push to origin inside of my github desktop app.
+
+I then put my name, assignment, and date at the top cell of this notebook as comments:
+# Diego Benavides
+# homework 6
+# Feb 16 2022
+
+Problem 2:
+
+I started by writing PROBLEM 2 as a markdown cell in order to identify that I am starting problem 2, as directed by the assignment.
+
+I now imported numpy and pyplot as:
+import numpy as np
+import matplotlib.pyplot as plt
+
+I now created the arrays that I was required to create by problem 2. My code is as follows:
+# creating array
+
+x = np.arange( 1 , 100.5 , 0.5)
+
+y = np.log10(x)
+
+z = np.sqrt(x)
+
+I now created a plot from the mentioned arrays containing two lines and I manually made specific lines, ticks, labels, colors, and markers
+as assigned by the assignment. I also saved the plot using plt.savefig() and made sure that my plot's titles and labels are legible.
+My code for problem 2 is as follows:
+
+# creating array
+
+x = np.arange( 1 , 100.5 , 0.5)
+
+y = np.log10(x)
+
+z = np.sqrt(x)
+
+#printing plot with all specifications from the assignment
+
+print('Problem 2:\n')
+
+plt.figure( figsize = ( 10 , 10 ) )
+
+plt.plot  ( x , y , color = 'green' , linestyle = '--' , linewidth = 1, label = 'y(x)  = (log10(x))', marker = 'o'  )
+
+plt.plot  ( x , z , color = 'blue' , linestyle = '--' , linewidth = 1 ,label = 'z(x) = (x)^1/2' , marker = 'x' )
+
+plt.tick_params(axis='both',which='major',length=12, width=4,direction='in')
+
+plt.xlabel( 'x - array', fontsize = 20 )
+
+plt.ylabel( 'y(x) and z(x)' , fontsize = 20 )
+
+plt.title( 'Plot for y-array and z-array as a function of x' , fontsize = 30 )
+
+plt.legend()
+
+plt.savefig('hw6_diegobenavidesucf_prob2_plot.pdf' , format = 'pdf' , dpi = 1200, bbox_inches = 'tight', pad_inches = 0.3 )
+
+
+Problem 3:
+
+I started by writing PROBLEM 3 as a markdown cell in order to identify that I am starting problem 3, as directed by the assignment.
+
+I then created the array, q, that was required by the assignment, I then printed the array, printed where the elements in the array
+greater than 50 using np.where() , and then I printed the value of the elements that were 50 < q < 70 using a boolean statement. This
+can all be seen by my code as follows:
+
+# creating array
+
+q =  np.array( [45 , 24 , 5  , 30 , 3 , 67 , 33 , 60 , 65 , 13 , 82 , 75 , 21 , 77 , 67 , 8 , 86 , 62 , 23 , 70 , 11 , 70 , 21 , 15 , 84 , 51 , 6 , 79 , 78 , 66 , 2 , 93 , 49 , 74 , 23 , 85 , 25 , 38 , 1 , 89 ])
+
+print('Problem 3:\n')
+
+print(q)
+
+print(np.where(q > 50))
+
+print(q[(q > 50) & (q < 70)])
+
+For the next part of problem 3 I started by making a list from q using the list() function.
+I then printed out the slice of the list from element 12 up to and including the 14th by using indexing and slicing.
+
+I then reassigned the 28th element from value 79 to 42 and printed the new value by indexing and it worked because list are mutable.
+
+my code for that part of problem 3 is:
+
+print('Problem 3:\n')
+
+q_list  = list(q)
+
+print(q_list[ 11 : 14 ])
+
+q_list[27] = 42.0
+
+print(q_list[27])
+
+
+For the next part of problem 3 I created a tuple out of q by using the tuple( ) function.
+
+I then printed the 20th element of the tuple by indexing.
+
+I then attempted to reassing the 21st element value of the tuple to be 44 but it fails because tuples are immutable.
+
+For the last part of problem three I was able to find which words had the letters e and which words had the letter a by
+doing a nested for loop in order to iterate through the list and then iterate through the stings,
+and in order to find the location index of the letters in each word I used the .find() function.
+
+I printed the results for both of these things on the same line.
+
+Then I made an if elif statement to check if there was the word star or bright within the word list.
+
+My code for the last part of problem 3 is:
+
+print('Problem 3:\n')
+
+word_list = [ 'twinkle', 'twinkle', 'little', 'star']
+
+#looking for words with 'e' in them
+
+for word in word_list:
+    for ch in word:
+        if ch == 'e':
+            print(f"The word {word} has an 'e' in it, the location of 'e' is {word.find('e')}")
+
+#.find() helps find location of letter occurance in a string
+
+print('\n')
+
+#looking for words with 'a' in them
+
+for word in word_list:
+    for ch in word:
+        if ch == 'a':
+            print(f"The word {word} has an 'a' in it, the location of the 'a' is {word.find('a')}")
+
+#checking if words are in the list
+print('\n')
+
+for word in word_list:
+    if word == 'star':
+        print('star is in wordlist')
+    elif word == 'bright':
+        print('bright is in wordlist')
+    elif word != 'bright':
+        print('bright is not in wordlist')
+    elif word != 'star':
+            print('star is not in wordlist')
+
+Problem 4:
+
+To commence PROBLEM 4 created a function word_to_number that takes in an english word that corresponds to a number from 0-20.
+I made sure to include an informative docstring.
+
+After making the function and the dictionary I printed the function for the numbers that I was required to call into the function
+from the assignment.
+
+My code for this problem is:
+
+def word_to_number( english_word ):
+    """This function will take an english word and return a corresponding number for that word from 0-20.
+    this function uses a dictionary in order to do so.
+    INPUT: english word for a number from 0-20
+    OUTPUT: corresponding number to english word"""
+
+    number_dict = {
+        'zero' : 0 ,
+        'one' : 1 ,
+        'two' : 2 ,
+        'three' : 3 ,
+        'four' : 4 ,
+        'five' : 5 ,
+        'six' : 6 ,
+        'seven' : 7 ,
+        'eight' : 8 ,
+        'nine' : 9 ,
+        'ten' : 10 ,
+        'eleven' : 11 ,
+        'twelve' : 12 ,
+        'thirteen' : 13 ,
+        'fourteen' : 14 ,
+        'fifteen' : 15 ,
+        'sixteen' : 16 ,
+        'seventeen' : 17 ,
+        'eighteen' : 18 ,
+        'nineteen' : 19 ,
+        'twenty' : 20 ,
+    }
+
+    return number_dict[english_word]
+
+print('Problem 4:\n')
+
+print(f"Three is {word_to_number( 'three' )}")
+print(f"Seven is {word_to_number( 'seven' )}")
+print(f"Twelve is {word_to_number( 'twelve' )}")
+print(f"Sixteen is {word_to_number( 'sixteen' )}")
+print(f"Nineteen is {word_to_number( 'nineteen' )}")
+
+Problem 5:
+
+Before doing problem 5 I realized I did not copy and paste the entire questions as markdown cells before each problem so I did that for each PROBLEM
+by clicking new cell and copy and pasting the problem into the new markdown cell.
+
+I already put my jupyter notebook into the proper folder before even starting the homework problems so my
+push to github screenshot will contain the entirety of the work I just did. Either way it still demonstrated that I pushed to github.
+
+I then pushed this to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement and clicking
+push to origin inside of my github desktop app.
+
+Now I will copy and paste this log into my hw6_diegobenavidesucf folder by dragging and dropping.
+
+then I will zip the folder by clicking compress to zip file and submit my homework.
+
+then I will push these final changes to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement
+and clicking push to origin inside of my github desktop app.
+
+***** OUT feb 16 19:41:00 EST 2022
+
+***** IN feb 20 17:14:00 EST 2022
+
+Homework 7:
+
+Problem 1:
+
+To commence homework seven I made a folder titled hw7_diegobenavidesucf within my handin folder by clicking
+new folder in my computer.
+
+I then created a python 3 Jupyter note book titled hw7_diegobenavidesucf within handin/hw7_diegobenavidesucf by clicking
+new and then clicking python 3. After that I put my name, date, and assignment as comments in the first cell of the notebook
+as directed by the assignment. I then imported numpy as np and matplotlib.pyplot as plt just in case I need it later.
+
+Before starting problems I pushed these new changes to github by pressing commit, making a descriptive commit statement, and clicking push origin.
+
+Problem 5:
+
+I made a markdown cell to state problem 5 in order to follow the conventions of organization of the homework for this course.
+
+I decided to start off with problem 5 because when I read through the homework It seemed like the most simple problem so I am getting it out
+of the way first.
+
+I found this problem to be very straight forward so I made a list with the pyramid outputs and used a for loop to print out
+the individual levels of the pyramid one by one.
+
+here is my code:
+
+print('Problem 5:\n')
+
+pyramid = [1 , 10 , 101 , 1010 , 10101 , 101010 , 10101 , 1010 , 101, 10 , 1]
+
+for i in pyramid:
+    print(i)
+
+Problem 2:
+
+I solved the first part of problem 2 by creating a string of the given sentence, then I created a list that separates the first string
+by whitespace using .split() and then using a for loop that iterates through the list to print out the words individually.
+
+I solved the second part of problem two by creating a loop that initially had my guess max length word equal to the first of the sentence and then
+I made an if statement that would change the guess max length word to the new word if the new word iterated over was longer than the guess. I did This
+by taking advantage of the len() function.
+
+unfortunately I failed to make it with a while loop. so i left that failed code as comments so the rest of my code can still run.
+
+then I made a print statement that printed the guess max length word which is now the actual max length word.
+
+I solved the last part of problem 3 by creating a for loop that iterates through only lst_1[:6] which is only the first six words of the sentence
+as required by the problem. I then printed out the set(i) in order to only print out the unique characters per word. But it is important
+to note that the set() function prints the unique letters in a random order.
+
+My code for all of problem 2 is :
+
+print('Problem 2 part 1:\n')
+
+# first part of problem 2:
+
+str_1 = " Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer"
+
+lst_1 = str_1.split()
+
+for word in lst_1:
+    print(word)
+
+# second part of problem 2:
+
+# with for loop
+
+print('\n')
+print('Problem 2 part 2:\n')
+
+guess_max = lst_1[0]
+
+for i in range( 1 , len(lst_1)):
+    if (len(lst_1[i]) > len(guess_max)):
+        guess_max = lst_1[i]
+print(guess_max, '\n')
+
+# with while loop
+
+#guess_max2 = lst_1[0]
+
+#while lst_1[i] != lst_1[i+1]:
+
+    #if ( len(guess_max2) < len(lst_1[i]) ):
+
+      #  guess_max2 = lst_1[i]
+
+       # i = i + 1
+
+   # print(guess_max2, '\n')
+
+# Third part of problem 2:
+
+print('Problem 2 part 3:\n')
+
+
+for i in lst_1[:6]: # iterates through the first six words only
+
+    print(set(i)) # prints out the unique characters but randomly because it turns the letters into a set.
+
+
+Now I am going to save and push to origin all of my work so far for this homework using the github desktop app.
+
+***** OUT feb 20 19:43:00 EST 2022
+
+***** IN feb 20 21:00:00 EST 2022
+
+Problem 3:
+
+I created a separate file for the function titled hw7_support_funct.py
+saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+which is where I will write my function for this problem.
+
+The function I made properly solves the equation for why and loops through the x array in order to return a y array
+which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+zeroes using np.zeros() for the y array, before using the function to populate it.
+
+Now I will import the function and input the given inputs from the problem.
+
+unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+and now I am getting a confusing run time error and its quite frustrating.
+
+I am going to email the professor with screenshots in hopes of getting help.
+
+***** OUT feb 20 23:41:00 EST 2022
+
+***** IN feb 21 8:36:00 EST 2022
+
+Problem 4:
+
+For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+I made a mark down cell denoting I am starting problem 4.
+
+To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+array in numerical order.
+I made sure to have a good docstring before writing the function.
+
+I created my function by making a nested for loop that switches the position of the numbers in each element
+if the next element is greater less than the prior so it should switch them until the array is sorted out
+in numerical order.
+
+Now I will import the function and check if it works.
+
+I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+was in the proper indent level.
+
+The function works and re-orders my array in numerical order.
+
+My code for problem 4 is as follows:
+
+from hw7_support_funct import order_array
+
+print('Problem 4:\n')
+
+test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+print(order_array(test_array))
+
+
+My code for the function on the hw7_support_funct.py file is:
+
+def order_array( input_array ):
+    """This function will take an array of numbers and sort them by numerical order
+    without using an built in functions on python such as .max() .min() or .sort().
+    INPUT: Not ordered array of numbers
+    OUTPUT: array of numbers that is in numerical order"""
+
+    for i in range(len( input_array )):
+
+        for j in range(i + 1, len( input_array )):
+
+            if (input_array[i] > input_array[j]):
+
+                input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+    return input_array
+
+
+    Now I have completed all of the problems except for 3 which I am still currently waiting for help for.
+
+    I will now push origin to github from my github desktop app for all of the work I currently have.
+
+    ***** OUT feb 21 9:12:00 EST 2022
+
+
+
+
+    ***** IN feb 23 21:46:00 EST 2022
+
+homework 7:
+
+    Since this is my final entry before submitting homework 7 I will copy and paste my entries
+    for each problem here in order.
+
+    I will also re-order my jupyter notebook, by using copy and paste,  since I started my problems out of order.
+    I will also look through the rubric and update what I do for each problem if I missed something.
+
+    Problem 1:
+
+    To commence homework seven I made a folder titled hw7_diegobenavidesucf within my handin folder by clicking
+    new folder in my computer.
+
+    I then created a python 3 Jupyter note book titled hw7_diegobenavidesucf within handin/hw7_diegobenavidesucf by clicking
+    new and then clicking python 3. After that I put my name, date, and assignment as comments in the first cell of the notebook
+    as directed by the assignment. I then imported numpy as np and matplotlib.pyplot as plt just in case I need it later.
+
+    Before starting problems I pushed these new changes to github by pressing commit, making a descriptive commit statement, and clicking push origin.
+
+
+    Problem 2:
+
+    I solved the first part of problem 2 by creating a string of the given sentence, then I created a list that separates the first string
+    by whitespace using .split() and then using a for loop that iterates through the list to print out the words individually.
+
+    I solved the second part of problem two by creating a loop that initially had my guess max length word equal to the first of the sentence and then
+    I made an if statement that would change the guess max length word to the new word if the new word iterated over was longer than the guess. I did This
+    by taking advantage of the len() function.
+
+    unfortunately I failed to make it with a while loop. so i left that failed code as comments so the rest of my code can still run.
+
+    then I made a print statement that printed the guess max length word which is now the actual max length word.
+
+    I solved the last part of problem 3 by creating a for loop that iterates through only lst_1[:6] which is only the first six words of the sentence
+    as required by the problem. I then printed out the set(i) in order to only print out the unique characters per word. But it is important
+    to note that the set() function prints the unique letters in a random order.
+
+    My code for all of problem 2 is :
+
+    print('Problem 2 part 1:\n')
+
+    # first part of problem 2:
+
+    str_1 = " Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer"
+
+    lst_1 = str_1.split()
+
+    for word in lst_1:
+        print(word)
+
+    # second part of problem 2:
+
+    # with for loop
+
+    print('\n')
+    print('Problem 2 part 2:\n')
+
+    guess_max = lst_1[0]
+
+    for i in range( 1 , len(lst_1)):
+        if (len(lst_1[i]) > len(guess_max)):
+            guess_max = lst_1[i]
+    print(guess_max, '\n')
+
+    # with while loop
+
+    #guess_max2 = lst_1[0]
+
+    #while lst_1[i] != lst_1[i+1]:
+
+        #if ( len(guess_max2) < len(lst_1[i]) ):
+
+          #  guess_max2 = lst_1[i]
+
+           # i = i + 1
+
+       # print(guess_max2, '\n')
+
+    # Third part of problem 2:
+
+    print('Problem 2 part 3:\n')
+
+
+    for i in lst_1[:6]: # iterates through the first six words only
+
+        print(set(i)) # prints out the unique characters but randomly because it turns the letters into a set.
+
+
+
+  Problem 3:
+
+        I created a separate file for the function titled hw7_support_funct.py
+        saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+        which is where I will write my function for this problem.
+
+        The function I made properly solves the equation for why and loops through the x array in order to return a y array
+        which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+        zeroes using np.zeros() for the y array, before using the function to populate it.
+
+        Now I will import the function and input the given inputs from the problem.
+
+        unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+        and now I am getting a confusing run time error and its quite frustrating.
+
+        I am going to email the professor with screenshots in hopes of getting help.
+
+        Unfortunately even after getting help on problem 3 I was unable to figure out the issue, I am looking forward to
+        seeing the solution tomorrow in class.
+
+
+
+    Problem 4:
+
+        For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+        in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+        I made a mark down cell denoting I am starting problem 4.
+
+        To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+        array in numerical order.
+        I made sure to have a good docstring before writing the function.
+
+        I created my function by making a nested for loop that switches the position of the numbers in each element
+        if the next element is greater less than the prior so it should switch them until the array is sorted out
+        in numerical order.
+
+        Now I will import the function and check if it works.
+
+        I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+        was in the proper indent level.
+
+        The function works and re-orders my array in numerical order.
+
+        After that I checked if the answer would be the same using np.sort( ) and it was correctly
+        so my function worked.
+
+        My code for problem 4 is as follows:
+
+        from hw7_support_funct import order_array
+
+        print('Problem 4:\n')
+
+        test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+        print(order_array(test_array))
+
+
+        My code for the function on the hw7_support_funct.py file is:
+
+        def order_array( input_array ):
+            """This function will take an array of numbers and sort them by numerical order
+            without using an built in functions on python such as .max() .min() or .sort().
+            INPUT: Not ordered array of numbers
+            OUTPUT: array of numbers that is in numerical order"""
+
+            for i in range(len( input_array )):
+
+                for j in range(i + 1, len( input_array )):
+
+                    if (input_array[i] > input_array[j]):
+
+                        input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+            return input_array
+
+
+
+    Problem 5:
+
+        I made a markdown cell to state problem 5 in order to follow the conventions of organization of the homework for this course.
+
+        I decided to start off with problem 5 because when I read through the homework It seemed like the most simple problem so I am getting it out
+        of the way first.
+
+        I found this problem to be very straight forward so I made a list with the pyramid outputs and used a for loop to print out
+        the individual levels of the pyramid one by one.
+
+       here is my code for problem 5:
+
+            print('Problem 5:\n')
+
+            pyramid = [1 , 10 , 101 , 1010 , 10101 , 101010 , 10101 , 1010 , 101, 10 , 1]
+
+            for i in pyramid:
+                print(i)
+
+
+Problem 6:
+
+I am now going to save and submmit my work.
+
+I already had my jupyter hw7_diegobenavidesucf notebook in my handin/hw7_diegobenavidesucf folder
+and I also already had my hw7_support_funct.py file in the same folder as well so I did not have
+to take any deliberate steps to add it in last minute.
+
+I am now going to save this log, copy and paste my log into my handin/hw7_diegobenavidesucf folder, and then take a screenshot of my
+commit to github.
+
+I will commit my work to github by going into my github desktop app and clicking on all of my changes made right now and make
+a descriptive commit statement, and after all that I will click the push origin button.
+
+I will take a screenshot proving this and title it hw7_diegobenavidesucf_prob6_screenshot.png and save it to my
+handin/hw7_diegobenavidesucf folder.
+
+I will then zip the folder by clicking compress to zip file and submit my hw7_diegobenavidesucf folder.
+
+***** OUT feb 23 23:00:00 EST 2022
