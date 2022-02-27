@@ -19,7 +19,7 @@ def circle( x , x0 , y0 , r ):
     INPUT: x coordinate array, x0 coordinate, y0 coordinate, radius r
     OUTPUT: y coordinate array"""
             
-    y = np.sqrt((np.power(r,2))-(np.power((x - x0),2))) + y0
+    y = np.sqrt(np.abs((np.power(r,2))-(np.power((x - x0),2))))+ y0
     
     return y
 
