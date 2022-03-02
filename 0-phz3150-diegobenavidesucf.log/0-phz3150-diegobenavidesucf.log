@@ -1194,3 +1194,105 @@ handin/hw7_diegobenavidesucf folder.
 I will then zip the folder by clicking compress to zip file and submit my hw7_diegobenavidesucf folder.
 
 ***** OUT feb 23 23:00:00 EST 2022
+
+***** IN feb 25 7:30:00 EST 2022
+
+Midterm:
+
+To commence the midterm I will begin by creating a folder named midterm_diegobenavidesucf
+and it will be stored in /handin/midterm_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the midterm project
+and moved them to my handin/midterm_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook midterm_diegobenavidesucf which is already in my
+midterm_diegobenavidesucf folder.
+
+At the top cell of this folder I put my name, date, and assignment as comments using '#'.
+
+Problem 1:
+
+I did problem 1 by typing import numpy as np for the numpy package and I typed import matplotlib.pyplot as plt
+because I anticipate that I will be using these packages.
+
+I also spent some time reading all of the prompts ahead of time so I may think of them
+throughout the day in my head.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT feb 25 8:02:00 EST 2022
+
+***** IN feb 26 12:00:00 EST 2022
+
+midterm:
+
+Problem 2A:
+
+To answer the first part of problem two I created a variable that is an input so the user can
+type in the two locations of their journey: where it starts and where it ends. I also made a print statement to
+ask them to type it in.
+
+Problem 2B:
+
+To answer the problem I just made a simple list containing the 14 bodies of the solar system given by the prompt.
+It is a list of strings.
+
+Problem 2C:
+
+For the first part of problem 2C I made a nested if statement. The first if statement o check whether the start body is in the list, and the nested if
+statement to check if the destination body is in the list, and if the bodies are in both I print a statement that says they are valid locations to
+the user. The else statement is indented with the first if and if either body is invalid the else statement prints an error message, tells
+the user what bodies are valid, and allows them to enter new bodies that are valid.
+
+I then took screen shots for test case D-1 and D-2 and saved the PNGs to my folder /handin/midterm_diegobenavidesucf
+titled as midterm_diegobenavidesucf_prob2_D-1_screenshot.png and midterm_diegobenavidesucf_prob2_D-2_screenshot.png
+
+I am taking a break so I will not push origin yet.
+
+***** OUT feb 26 13:46:00 EST 2022
+
+***** IN feb 26 14:30:00 EST 2022
+
+midterm:
+
+Problem 3A:
+
+For 3A I just used np.loadtxt() in order to read in the first data file with the solar system distances.
+
+Problem 3B:
+
+For problem 3 B it took me a little bit of reviewing and going through my demo notebooks,
+because I first tried to use np.where() but I noticed that it made no sense for a string, in fact it
+wasn't possible to use np.where() here. So after looking around I used .index() in order to get the indices of the
+starting body and the destination body from the list I made in 2B, so that I what their index is in the data file
+by indexing it in the data file using two dimensional indexing.
+
+problem 3C:
+
+For problem 3C I simply made a new variable for the distance of travel that is defined by indexing the data file
+where I use the index location of the destination as the column index and the index location of the start as the row index.
+
+I double checked that the resulting distance was correct by manually counting on the data file.
+
+problem 3D:
+
+For problem 3D I solved it by defining a time in year variable to be the division of the distance by the speed given, which is equal to a time
+in hours so I divided by 24 and 365 in order to get the number in years. In order to remove the decimal remainder I used the int() function.
+
+For the next part I subtracted my full time in years by the int() time in years in order to isolate the decimal remainder.
+I then converted it to days from years.
+
+I followed this same process to get the time in hours and minutes.
+
+When it came to printing I simply printed the int() of each of these times so it was printed as desired by the assignment.
+
+I was able to get the test case correct!
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT feb 26 17:06:00 EST 2022
+
+***** IN feb 27 9:00:00 EST 2022
+
+Problem 4A:

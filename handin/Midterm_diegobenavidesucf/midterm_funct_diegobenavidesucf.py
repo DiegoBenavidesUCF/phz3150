@@ -25,6 +25,12 @@ def planet_tour( start , destination ):
     
     planets_and_moons = ['Mercury' , 'Venus' , 'Earth' , 'Moon' , 'Ceres' , 'Mars' , 'Jupiter' , 'Io' , 'Europa' , 'Saturn' , 'Titan' , 'Neptune' , 'Pluto' , 'Charon']
     
+    print('Type in your starting location and then type in your desired destination location:\n')
+    
+    start = str(input())
+    
+    destination = str(input())
+    
     start_location = start
     
     destination_location = destination
@@ -35,12 +41,12 @@ def planet_tour( start , destination ):
             print(f'Both {start_location} and {destination_location} are valid locations. The Journey will proceed!\n')
         else:
             print(f'One or more of your locations is invalid.\nYour possible options are {planets_and_moons}.\nInput new locations:\n')
-            new_start_location = str(input())
-            new_destination_location = str(input())
+            start_location = str(input())
+            destination_location = str(input())
     else:
         print(f'One or more of your locations is invalid.\nYour possible options are {planets_and_moons}.\nInput new locations:\n')
-        new_start_location = str(input())
-        new_destination_location = str(input())
+        start_location = str(input())
+        destination_location = str(input())
         
         
     
