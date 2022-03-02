@@ -60,7 +60,6 @@ def planet_tour( start , destination ):
     
     list_of_distances = [ distance_date_1 , distance_date_2 , distance_date_3]
 
-    list_of_dates = [ space_distances_date_1 , space_distances_date_2 , space_distances_date_3 ]
 
     best_date_distance = np.min(list_of_distances)
     
