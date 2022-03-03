@@ -1288,11 +1288,285 @@ When it came to printing I simply printed the int() of each of these times so it
 
 I was able to get the test case correct!
 
+Problem 3E:
+
+For problem 3E I copy and pasted all of my code cells prior to this and put it in a cell to test it, I then copy and pasted it into a
+separate file midterm_funct_diegobenavidesucf.py , when I saved it to a separate file I turned the cell with the function into comments using # and
+restarted the kernel so that I can prove the function is actually being imported from midterm_funct_diegobenavidesucf.py file.
+
+I then tested it out and the function by importing it and it works! (using from midterm_funct_diegobenavidesucf import planet_tour())
+
 I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
 and clicking the push origin button.
 
 ***** OUT feb 26 17:06:00 EST 2022
 
 ***** IN feb 27 9:00:00 EST 2022
+midterm:
 
 Problem 4A:
+
+For problem 4A:
+
+I divided the distance by the refuel distance that was given and subtracted that quotient by 1 since the last stop (when rounded up)
+would just be the arrival. I also looked ahead and the test case for earth and mars has 3 stops and that is what testing out my code gives
+, so it looks like I'm correct in subtracting that quotient by one.
+I then made a good print statement informing the user how many stops are required.
+
+I then copied and pasted this code into my planet_tour() file function in midterm_funct_diegobenavidesucf.py.
+
+Problem 4B:
+
+This problem was pretty time consuming, I had to go back and review the proper way to read and write files and close them. I also had
+trouble with some of the indent structure of my if statements. In hindsight this problem is not so difficult after figuring it out.
+I used a combination of an if statement for when the stops are greater than 1 to turn the amount of stops into an array
+using np.arange() and  then I iterate through the amount of stops and multiply that by the refuel distance in order to get
+the respective distances of the stops. I let the user know the amount of stops they had and where using .write(). and if the
+trip had no expected stops then I print a .write() file saying that they have not expected stops.
+The file written in is message_to_stations.txt as directed by the assignment.
+
+Problem 4C:
+
+I copied and pasted my prior cells in this problem into my midterm_funct_diegobenavidesucf.py file and imported in.
+I saved each .txt file for each test case as directed. I even added one because it seems that the problem doesn't tell you
+to make a .txt file for that test case. The names of my test cases in order as they are on my midterm is are: message_to_stations.txt,
+message_to_stations_1.txt, message_to_stations_2.txt, and message_to_stations_2b.txt.
+
+It is important to note that due to a bug I had to restart the kernel and my .py file before changing the names of my .txt files.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+*****  OUT feb 27 11:54:00 EST 2022
+
+***** IN Mar 1 19:00:00 EST 2022
+midterm:
+
+Problem 5A:
+
+For the isolated cells in 5A it is important to note that you must run the cells prior to make sure all of my code in the isolated
+cells will run, since they use previously defined variables. This is a cumulative project afterall.
+
+I started 5A by reading in all of the data files using np.loadtxt().
+I then defined the distance for each data file by making the index of the destination planet the row index
+of each repective data file and making the index of the start planet the column index of each
+respective data file.
+I then made a list composed of the three distances and used np.min() to get the shortest distance.
+Then I made if statements for each distance where if that distance was the minimum of the three it would
+make a string saying that the respective date was the one with the minimum distance. Then I made a formatted statement
+saying what day was the best to travel.
+
+Problem 5B:
+
+For problem 5B I typed a sample code of how I will give the expected station locations 4-digit accuracy using the
+''%.4f' % (some_variable) format. The example code shows it works.
+
+Then I made my message to station file writing section of the function print out the station locations using this format
+and It works perfectly.
+
+I moved the code from 5A into my midterm_funct_diegobenavidesucf file as well at this point.
+
+Problem 5C:
+
+I started by restarting my Kernel in order to get the full function updated and imported.
+
+I then imported the function. Before importing and restarting the Kernel I also made the .txt writing section
+of my code write a file titled message_to_stations_3.txt as directed by the prompt of the problem. Of course this was saved to
+my midterm_diegobenavidesucf folder.
+
+The test case worked.
+
+
+Problem 6:
+
+I am unfortunately totally stuck on problem 6. I tried to get something for the code but I am unable to get any solution to work.
+So, I will unfortunately have to leave this blank as I have been stuck for hours. I will save my files and prepare to submit in class this
+Thursday March 3rd.
+
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+***** OUT Mar 1 23:00:00 EST 2022
+
+***** IN Mar 3 12:00:00 EST 2022
+midterm :
+
+I will begin this entry by copy and pasting my entries for each problem of the midterm in this entry since it is my latest
+and is the one being graded.
+
+Midterm:
+
+To commence the midterm I will begin by creating a folder named midterm_diegobenavidesucf
+and it will be stored in /handin/midterm_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the midterm project
+and moved them to my handin/midterm_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook midterm_diegobenavidesucf which is already in my
+midterm_diegobenavidesucf folder.
+
+At the top cell of this folder I put my name, date, and assignment as comments using '#'.
+
+Problem 1:
+
+I did problem 1 by typing import numpy as np for the numpy package and I typed import matplotlib.pyplot as plt
+because I anticipate that I will be using these packages.
+
+I also spent some time reading all of the prompts ahead of time so I may think of them
+throughout the day in my head.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 2A:
+
+To answer the first part of problem two I created a variable that is an input so the user can
+type in the two locations of their journey: where it starts and where it ends. I also made a print statement to
+ask them to type it in.
+
+Problem 2B:
+
+To answer the problem I just made a simple list containing the 14 bodies of the solar system given by the prompt.
+It is a list of strings.
+
+Problem 2C:
+
+For the first part of problem 2C I made a nested if statement. The first if statement o check whether the start body is in the list, and the nested if
+statement to check if the destination body is in the list, and if the bodies are in both I print a statement that says they are valid locations to
+the user. The else statement is indented with the first if and if either body is invalid the else statement prints an error message, tells
+the user what bodies are valid, and allows them to enter new bodies that are valid.
+
+I then took screen shots for test case D-1 and D-2 and saved the PNGs to my folder /handin/midterm_diegobenavidesucf
+titled as midterm_diegobenavidesucf_prob2_D-1_screenshot.png and midterm_diegobenavidesucf_prob2_D-2_screenshot.png
+
+I am taking a break so I will not push origin yet.
+
+
+Problem 3A:
+
+For 3A I just used np.loadtxt() in order to read in the first data file with the solar system distances.
+
+Problem 3B:
+
+For problem 3 B it took me a little bit of reviewing and going through my demo notebooks,
+because I first tried to use np.where() but I noticed that it made no sense for a string, in fact it
+wasn't possible to use np.where() here. So after looking around I used .index() in order to get the indices of the
+starting body and the destination body from the list I made in 2B, so that I what their index is in the data file
+by indexing it in the data file using two dimensional indexing.
+
+problem 3C:
+
+For problem 3C I simply made a new variable for the distance of travel that is defined by indexing the data file
+where I use the index location of the destination as the column index and the index location of the start as the row index.
+
+I double checked that the resulting distance was correct by manually counting on the data file.
+
+problem 3D:
+
+For problem 3D I solved it by defining a time in year variable to be the division of the distance by the speed given, which is equal to a time
+in hours so I divided by 24 and 365 in order to get the number in years. In order to remove the decimal remainder I used the int() function.
+
+For the next part I subtracted my full time in years by the int() time in years in order to isolate the decimal remainder.
+I then converted it to days from years.
+
+I followed this same process to get the time in hours and minutes.
+
+When it came to printing I simply printed the int() of each of these times so it was printed as desired by the assignment.
+
+I was able to get the test case correct!
+
+Problem 3E:
+
+For problem 3E I copy and pasted all of my code cells prior to this and put it in a cell to test it, I then copy and pasted it into a
+separate file midterm_funct_diegobenavidesucf.py , when I saved it to a separate file I turned the cell with the function into comments using # and
+restarted the kernel so that I can prove the function is actually being imported from midterm_funct_diegobenavidesucf.py file.
+
+I then tested it out and the function by importing it and it works! (using from midterm_funct_diegobenavidesucf import planet_tour())
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 4A:
+
+For problem 4A:
+
+I divided the distance by the refuel distance that was given and subtracted that quotient by 1 since the last stop (when rounded up)
+would just be the arrival. I also looked ahead and the test case for earth and mars has 3 stops and that is what testing out my code gives
+, so it looks like I'm correct in subtracting that quotient by one.
+I then made a good print statement informing the user how many stops are required.
+
+I then copied and pasted this code into my planet_tour() file function in midterm_funct_diegobenavidesucf.py.
+
+Problem 4B:
+
+This problem was pretty time consuming, I had to go back and review the proper way to read and write files and close them. I also had
+trouble with some of the indent structure of my if statements. In hindsight this problem is not so difficult after figuring it out.
+I used a combination of an if statement for when the stops are greater than 1 to turn the amount of stops into an array
+using np.arange() and  then I iterate through the amount of stops and multiply that by the refuel distance in order to get
+the respective distances of the stops. I let the user know the amount of stops they had and where using .write(). and if the
+trip had no expected stops then I print a .write() file saying that they have not expected stops.
+The file written in is message_to_stations.txt as directed by the assignment.
+
+Problem 4C:
+
+I copied and pasted my prior cells in this problem into my midterm_funct_diegobenavidesucf.py file and imported in.
+I saved each .txt file for each test case as directed. I even added one because it seems that the problem doesn't tell you
+to make a .txt file for that test case. The names of my test cases in order as they are on my midterm is are: message_to_stations.txt,
+message_to_stations_1.txt, message_to_stations_2.txt, and message_to_stations_2b.txt.
+
+It is important to note that due to a bug I had to restart the kernel and my .py file before changing the names of my .txt files.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 5A:
+
+For the isolated cells in 5A it is important to note that you must run the cells prior to make sure all of my code in the isolated
+cells will run, since they use previously defined variables. This is a cumulative project afterall.
+
+I started 5A by reading in all of the data files using np.loadtxt().
+I then defined the distance for each data file by making the index of the destination planet the row index
+of each repective data file and making the index of the start planet the column index of each
+respective data file.
+I then made a list composed of the three distances and used np.min() to get the shortest distance.
+Then I made if statements for each distance where if that distance was the minimum of the three it would
+make a string saying that the respective date was the one with the minimum distance. Then I made a formatted statement
+saying what day was the best to travel.
+
+Problem 5B:
+
+For problem 5B I typed a sample code of how I will give the expected station locations 4-digit accuracy using the
+''%.4f' % (some_variable) format. The example code shows it works.
+
+Then I made my message to station file writing section of the function print out the station locations using this format
+and It works perfectly.
+
+I moved the code from 5A into my midterm_funct_diegobenavidesucf file as well at this point.
+
+Problem 5C:
+
+I started by restarting my Kernel in order to get the full function updated and imported.
+
+I then imported the function. Before importing and restarting the Kernel I also made the .txt writing section
+of my code write a file titled message_to_stations_3.txt as directed by the prompt of the problem. Of course this was saved to
+my midterm_diegobenavidesucf folder.
+
+The test case worked.
+
+
+Problem 6:
+
+I am unfortunately totally stuck on problem 6. I tried to get something for the code but I am unable to get any solution to work.
+So, I will unfortunately have to leave this blank as I have been stuck for hours. I will save my files and prepare to submit in class this
+Thursday March 3rd.
+
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 7:
