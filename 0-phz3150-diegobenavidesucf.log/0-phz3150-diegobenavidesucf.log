@@ -1579,3 +1579,60 @@ midterm_diegobenavidesucf_prob7_screenshot.png  and save it to my midterm_diegob
 I will then compress the folder to a zip by right clicking and clicking compress to zip and submit it.
 
 ***** OUT Mar 3 12:05:00 EST 2022
+
+***** IN Mar 15 14:00:00 EST 2022
+
+Homework 8:
+
+Problem 1:
+
+I commenced problem one by going into my phz3150/handin repository and creating a new folder called hw8_diegobenavidesucf.
+I then opened a new jupyter notebook titled hw8_diegobenavidesucf.
+I put my name, date, and assignment in the first cell of the hw8_diegobenavidesucf notebook.
+I then imported numpy and matplotlib.pylot since I expect to use the packages.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 2:
+
+
+I commenced problem two by typing a print statement that denotes that it is problem 2.
+I then created a .py file titled hw8_support_funct,py in order to type in the necessary function for the problem.
+I also imported numpy as np in the .py file since I expect to use it.
+
+I titled my function kepler_3rd(period), where the orbital period is the parameter period.
+
+I wrote the docstring for my kepler_3rd function and imported the function into my main hw8_diegobenavidesucf notebook.
+The code for my function is:
+
+import numpy as np
+
+def kepler_3rd( period ):
+    """This function takes in orbital period in days and converts it into years and returns the distance from the sun in AU
+    INPUT: The orbital period in days given by the table in problem 2.
+    OUTPUT: The distance from sun in AU."""
+
+    p_years = period / 365.25
+
+    p_years_squared = np.power( p_years , 2 )
+
+    a = np.power( p_years_squared , 1/3 )
+
+    return a
+
+I then manually printed the function for each period given by the table in problem 2.
+I also included a test case for earth which should result in a distance from the sun of 1 AU. It worked.
+
+I then plotted the list of actual distance versus a list of the distances I calculated using the ax method of advanced plotting.
+I gave each of the plots a different color and marker type. I also included a legend to show which plot is mine
+and which the plot of the actual distances.
+
+Bonus question: I used ax.set_xticklabels() in order to make the ticks the names of the planets.
+Unfortunately this did not work so disregard the Bonus, it did not work.
+
+***** OUT Mar 15 16:10:00 EST 2022
+
+Homework 8:
+
+Problem 3:

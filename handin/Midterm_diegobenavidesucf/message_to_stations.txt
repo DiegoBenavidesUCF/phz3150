@@ -1,4 +1,4 @@
-My trip starts at Earth and ends at Neptune. I will need to encounter a stop at 0.6500 AU.
+My trip starts at Earth and ends at Pluto. I will need to encounter a stop at 0.6500 AU.
 I will need to encounter a stop at 1.3000 AU.
 I will need to encounter a stop at 1.9500 AU.
 I will need to encounter a stop at 2.6000 AU.
@@ -42,3 +42,11 @@ I will need to encounter a stop at 26.6500 AU.
 I will need to encounter a stop at 27.3000 AU.
 I will need to encounter a stop at 27.9500 AU.
 I will need to encounter a stop at 28.6000 AU.
+I will need to encounter a stop at 29.2500 AU.
+I will need to encounter a stop at 29.9000 AU.
+I will need to encounter a stop at 30.5500 AU.
+I will need to encounter a stop at 31.2000 AU.
+I will need to encounter a stop at 31.8500 AU.
+I will need to encounter a stop at 32.5000 AU.
+I will need to encounter a stop at 33.1500 AU.
+I will need to encounter a stop at 33.8000 AU.
