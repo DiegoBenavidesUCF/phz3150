@@ -24,4 +24,22 @@ def kepler_3rd( period ):
     return a
 
 
+def piston( V , P0 , V0 , T0 , gamma ):
+    """This function takes in an array of volumes, inital pressure, initial volume, and initial temperature, and gamma 
+    in order to calculate the array of pressures and array of temperatures. The function returns the arrays of 
+    pressure, volume and temperature in a 3D array. I transposed the array so that the columns are the pressure, volume and temperature
+    not the rows."""
+    #for the array of pressures:
+    
+    constant_1 = P0*V0/T0
+    
+    P_new = constant_1 / np.power(V,gamma)
+    
+    #for the temperatures:
+    
+    constant_2 = P0*(np.power(V,gamma))
+    
+    T_new = P_new*V/constant_2
+    
+    return np.transpose(np.array([P_new , V , T_new]))
 
