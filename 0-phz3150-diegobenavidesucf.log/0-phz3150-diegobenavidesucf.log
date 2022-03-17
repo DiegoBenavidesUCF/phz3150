@@ -1631,8 +1631,59 @@ and which the plot of the actual distances.
 Bonus question: I used ax.set_xticklabels() in order to make the ticks the names of the planets.
 Unfortunately this did not work so disregard the Bonus, it did not work.
 
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
 ***** OUT Mar 15 16:10:00 EST 2022
 
+***** IN Mar 16 8:00:00 EST 2022
 Homework 8:
 
 Problem 3:
+
+problem 3a: for problem 3a I created all of the assigned numpy arrays for x,y, and z. I then followed all of the plotting instructions in order to
+make sure I created a plot identical to the sample plot. I followed the methods from the advanced plotting notebooks in order to make the plot.
+
+problem 3b: for problem 3b I used for loops and if statements within the for loops in order to print the desired elements and its conditions
+from the assignment. I used this process for both of the assigned cases of problem 3b.
+
+problem 3c: to make the two arrays data and data2 I used np.zeros() and I made the x dimensions and y dimensions for each 2D array usinf the
+len() function in order to make the dimensions the lengths of the arrays as required by the assignment. for example: data = np.zeros([len(x),len(y)]).
+
+problem 3d: for problem 3d I used nested for loops, one for the i dimension and one for the j dimension, and then I applied the math required by the
+assignment in the nested loop in order to populate the 2D arrays. I actually found two ways to do this and I included the alternative way
+inside the same cell I have for problem 3d as comments.
+
+problem 3e: for problem 3e I simply indexed the z array with the conditional statements required by the assignment and printed the result. I did this
+for the two required cases in the problem, it was relatively simple after I fixed a minor syntax error of using & instead of and.
+
+problem 3f: for problem 3f I simply used np.transpose() in order to create datar as the transpose of data. In PHZ 3113 last semester
+I learned that the transpose of a matrix is simply the orignal matrix with its rows and columns swapped.
+
+problem 3g: for problem 3g all I did was index the two 2D arrays and plotted them using the methods I learned in the advanced plotting
+notebooks. I first had the axes flipped because I was always taught by other professors to assume the structure of a versus plot mention the y axis first,
+but after plotting I see that the professor mentioned the x axis first when stating the versus plot. Either way I flipped the axes and made the plot
+look identical to the sample.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT Mar 16 10:20:00 EST 2022
+
+***** IN Mar 16 21:50:00 EST 2022
+
+homework 8:
+
+problem 4:
+
+problem 4 a: for problem 4 a I followed all of the math steps required by the assignment, but I'm unsure if I solved this properly. I made the functions
+in my hw8_support_funct file and then imported it into my main hw8_diegobenavidesucf jupyter notebook and tested it on the test case. This function takes in an array of
+volumes, inital pressure, initial volume, and initial temperature, and gamma
+in order to calculate the array of pressures and array of temperatures. The function returns the arrays of
+pressure, volume and temperature in a 3D array. I transposed the array so that the columns are the pressure, volume and temperature not the rows.
+
+problem 4b: 
+
+
+***** OUT
