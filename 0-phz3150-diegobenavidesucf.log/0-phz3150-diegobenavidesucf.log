@@ -1806,3 +1806,20 @@ folder.
 Now I can zip the folder by pressing compress to zip and submit.
 
 ***** OUT Mar 16 23:26:00 EST 2022
+
+
+
+
+
+***** IN Mar 21 19:20:00 EST 2022
+
+HW9:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw9_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw9_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 21 19:06:00 EST 2022
