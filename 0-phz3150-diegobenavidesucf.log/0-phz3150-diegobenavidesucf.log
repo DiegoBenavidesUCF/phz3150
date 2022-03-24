@@ -1823,3 +1823,150 @@ I then saved my files, went to my github desktop app, clicked changes, wrote a d
 push origin button on the github desktop app.
 
 ***** OUT Mar 21 19:06:00 EST 2022
+
+
+***** IN Mar 22 21:00:00 EST 2022
+
+Hw 9:
+
+Problem 2a: For problem 2a I created a numpy array sports of the average sport distances given by the assignment using np.array().
+I also mapped the names from the given table with the athlete names to numbers in ascending order using
+a dictionary named name_map. I then created a (6,4) by using a 2D array and np.reshape().
+
+Problem 2b: I created the function triathlon_times( sports , athletes_times). This function takes in the average distance of each sport from
+the array sports and takes in the athlete times per sport from the array athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I used simple division, indexing, and the name map I mentioned earlier to calculate who finished first and last,
+and their race times in hours.
+I made a descriptive print statement to print the results.
+The function also includes a descriptive docstring.
+
+Problem 2c:  I changed the prior sports array into a dictionary where the sports are the key and the items are the distance.
+But I gave the dictionary a new name: sports_dict, in order to avoid any errors/bugs later on.
+I then created a dictionary for the athletes times where the names are the key and the items are a list of all their times.
+I also changed the name of the dictionary to athletes_times_dict in order to avoid bugs later.
+
+Problem 2d: I then created a function: triathlon_time_dict( sports_dict , athletes_times_dict ), where This function takes in the average distance of each sport from the dictionary sports
+and takes in the athlete times per sport from the dictionary athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I summed up all of the distances and athletes respective times in order to easily calculate their finish times in order to
+determine who is the fastest.
+I used a for loop that iterated through the dictionaries nested with a conditional loops
+in order to print out the fastest and slowest person. I then used np.max() and np.min() in order to get the fastest and slowest times.
+
+Problem 2e: For problem 2e I simply called the functions I made in 2b and 2d  in order to
+print out my solution.
+I double checked these solutions via calculator.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 23 00:30:00 EST 2022
+
+***** IN Mar 23 13:30:00 EST 2022
+
+HW9:
+
+Problem 3a: For problem 3a I described my assignment, identified the class, and which lab it was in my class.
+I placed my solution within my hw9_diegobenavidesucf folder as a pdf titled hw9_diegobenavidesucf_prob3a_Interferometry_Results_Revision_Group_8.
+I couldn't include it as a png due to the content length of the assignment I chose.
+This is also a very open ended course where there are no professor given solutions, and there are few instructions.
+The class gives students a lot of freedom.
+
+Problem 3b: for problem 3b I copied and paseted my code from my experiment assignment into my
+problem 3b cell.
+
+
+Problem 4: For problem 4 all I really did was follow the homework step by step,
+while having the python classes lecture from our class demos open in order to systematically
+create the class graduation_presents.
+The math for area and volume were simple to add as a function, and I simply used
+if statements to ensure that the gifts fit and that there is enough wrapping paper to wrap the box.
+
+I then printed each case assigned by the homework.
+
+
+Problem 5: I will now save all of the files in my hw9_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw9_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw9_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw9_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 23 16:05:00 EST 2022
+
+***** IN Mar 23 22:02:00 EST 2022
+
+I will now copy and paste my prior entries into this entry for submission.
+
+HW9:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw9_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw9_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+Problem 2a: For problem 2a I created a numpy array sports of the average sport distances given by the assignment using np.array().
+I also mapped the names from the given table with the athlete names to numbers in ascending order using
+a dictionary named name_map. I then created a (6,4) by using a 2D array and np.reshape().
+
+Problem 2b: I created the function triathlon_times( sports , athletes_times). This function takes in the average distance of each sport from
+the array sports and takes in the athlete times per sport from the array athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I used simple division, indexing, and the name map I mentioned earlier to calculate who finished first and last,
+and their race times in hours.
+I made a descriptive print statement to print the results.
+The function also includes a descriptive docstring.
+
+Problem 2c:  I changed the prior sports array into a dictionary where the sports are the key and the items are the distance.
+But I gave the dictionary a new name: sports_dict, in order to avoid any errors/bugs later on.
+I then created a dictionary for the athletes times where the names are the key and the items are a list of all their times.
+I also changed the name of the dictionary to athletes_times_dict in order to avoid bugs later.
+
+Problem 2d: I then created a function: triathlon_time_dict( sports_dict , athletes_times_dict ), where This function takes in the average distance of each sport from the dictionary sports
+and takes in the athlete times per sport from the dictionary athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I summed up all of the distances and athletes respective times in order to easily calculate their finish times in order to
+determine who is the fastest.
+I used a for loop that iterated through the dictionaries nested with a conditional loops
+in order to print out the fastest and slowest person. I then used np.max() and np.min() in order to get the fastest and slowest times.
+
+Problem 2e: For problem 2e I simply called the functions I made in 2b and 2d  in order to
+print out my solution.
+I double checked these solutions via calculator.
+
+
+Problem 3a: For problem 3a I described my assignment, identified the class, and which lab it was in my class.
+I placed my solution within my hw9_diegobenavidesucf folder as a pdf titled hw9_diegobenavidesucf_prob3a_Interferometry_Results_Revision_Group_8.
+I couldn't include it as a png due to the content length of the assignment I chose.
+This is also a very open ended course where there are no professor given solutions, and there are few instructions.
+The class gives students a lot of freedom.
+
+Problem 3b: for problem 3b I copied and paseted my code from my experiment assignment into my
+problem 3b cell.
+
+
+Problem 4: For problem 4 all I really did was follow the homework step by step,
+while having the python classes lecture from our class demos open in order to systematically
+create the class graduation_presents.
+The math for area and volume were simple to add as a function, and I simply used
+if statements to ensure that the gifts fit and that there is enough wrapping paper to wrap the box.
+
+I then printed each case assigned by the homework.
+
+
+
+Problem 5: I will now save all of the files in my hw9_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw9_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw9_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw9_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 23 22:06:00 EST 2022
