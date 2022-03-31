@@ -1970,3 +1970,35 @@ folder.
 Now I can zip the folder by pressing compress to zip and submit.
 
 ***** OUT Mar 23 22:06:00 EST 2022
+
+***** IN Mar 28 13:30:00 EST 2022
+
+HW 10:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw10_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw10_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 2: For problem 2 I checked the first cell and I don't think there are any bugs in the first cell, but I checked to make sure
+that the numpy arrays had identical shapes. For the second cell I changed the my_data to the my_control_data, added parantheses to
+data_control to ensure that the multipication happened first, I swapped the range of the rows and columns so that they were correct, I then
+switched i and j to l1 and l2 since that would be the proper way to loop here, I turned the less than or equal to to a less than for the
+first conditional which was for the good data , I also turned both boolean statements to less than or equal to and greater than or equal to for the
+second conditional of the 2 data, And last but not least I fixed the indentation of the last conditional. For the third cell for the second conditional
+of plotting the 2 values I made the boolean statement proper with ==2 instead of =2, and then I fixed the indentation of the n+=1 in the for loop. After all
+of this the code ran all the way through so I hope that was all of the bugs.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 28 14:45:00 EST 2022
+
+***** IN Mar 29 17:00:00 EST 2022
+
+HW 10:
+
+Problem 3:
