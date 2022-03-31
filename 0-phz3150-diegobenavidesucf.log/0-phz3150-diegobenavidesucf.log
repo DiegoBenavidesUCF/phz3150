@@ -2001,4 +2001,38 @@ push origin button on the github desktop app.
 
 HW 10:
 
-Problem 3:
+Problem 3: For problem three I started by making the my_circuit function. This function takes in a string that will state whether the circuit's resistors
+are in parallel or series, the number of resistors, a numpy array of the values of the resistors, and the voltage or current depending on the circuit.
+The function returns the total resistance and the total voltage for a series circuit and amperage for a parallel circuit. I made sure to write a proper
+docstring for the function and I checked the math I made for the function using a calculator. It works. I then called the function for
+the test cases required by the assignment.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 29 17:40:00 EST 2022
+
+***** IN Mar 30 8:30:00 EST 2022
+
+HW 10:
+
+Problem 4a: For problem 4a I made the function period(a) and the dictionary for the planet names and the orbital distances in au.
+This function takes in values of a solar system planet's average orbital distance in AU from
+the sun and returns the period of the planets orbit in earth days. I made sure to include an informative docstring as well. I also double checked the
+math of my function using a calculator and it does work. I used a for loop iterating over the whole dictionary in order to call the period(a) function
+for all of the planets in the dictionary I was required to make in the assignment.
+For the plotting part a made a np.linspace variable for theta, from 0 to 2pi, in order to have a theta value for the parametric equations.
+I then made the parametric equations for x and y as assigned by the homework and I used numpy for sine and cosine. I then plotted this
+for each planet using their respective average orbital distance from the sun as the radius being multiplied in the equations: x = R*scos(theta) And
+y = R*sin(theta). I then saved the plot as hw10_diegobenavidesucf_prob4a_screenshot.png in my hw10_diegobenavidesucf handin folder.
+
+I opted out of doing the bonus problem.
+
+Problem 5: I will now save all of the files in my hw10_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw10_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw10_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw10_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 30 10:05:00 EST 2022
