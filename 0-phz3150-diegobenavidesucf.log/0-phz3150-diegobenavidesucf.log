@@ -2095,3 +2095,25 @@ folder.
 Now I can zip the folder by pressing compress to zip and submit.
 
 ***** OUT Mar 31 9:47:00 EST 2022
+
+
+***** IN APRIL 3 17:39:00 EST 2022
+
+HW 11:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw11_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw11_diegobenavidesucf within the folder I just created.
+I then put my name, date, and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+Problem 3a: For problem 3a I used the given equation to calculate windchill from the temperature and wind speed. I titled the function
+wind_chill as directed by the assignment. The function takes in the temperature in Fahrenheit and the speed of the wind in miles per hour,
+in order to return the wind chill factor and wind chill temperature, both in Fahrenheit. I ran the test case given by the assignment, and
+my function returns the wind chill factor and wind chill temperature in an informative statement.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 3 18:30:00 EST 2022
