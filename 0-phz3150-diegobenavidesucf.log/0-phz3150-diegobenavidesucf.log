@@ -2113,6 +2113,7 @@ wind_chill as directed by the assignment. The function takes in the temperature 
 in order to return the wind chill factor and wind chill temperature, both in Fahrenheit. I ran the test case given by the assignment, and
 my function returns the wind chill factor and wind chill temperature in an informative statement.
 I double checked the math using a calculator.
+I made sure to write a proper doctstring.
 
 I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
 push origin button on the github desktop app.
@@ -2130,8 +2131,27 @@ Then in my parallax_to_distance function I made a for loop to iterate over the i
 input dictionary to have a value of distance using the math I previously mentioned which is d = 1/parallax.
 I then ran the function for the given test case and it works.
 I double checked the math using a calculator.
+I made sure to write a proper doctstring.
 
 I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
 push origin button on the github desktop app.
 
 ***** OUT APRIL 3 22:40:00 EST 2022
+
+
+***** IN APRIL 4 8:40:00 EST 2022
+HW 11:
+
+Problem 3c: For problem 3c I started by creating the function lists_to_dict. This function takes in two lists, where one list is a list of strings
+and the other is a list of values. The function then checks which list is the list of strings and makes that list the keys of the new dictionary,
+and makes the other list the values of the dictionary. This new dictionary is returned. The function starts by creating an empty dictionary
+and then I use If and Elif statements to check which list contains strings and making that list be the keywords and the other list the values.
+Within the if elif statements I populated the new dictionary using the two respective lists accordingly by using a for loop and the .update()
+function of dictionaries.
+This problem took me a lot of trial and error which is why it took me some time, specifically in the populating of the dictionary.
+I made sure to write a proper doctstring.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 4 9:56:00 EST 2022
