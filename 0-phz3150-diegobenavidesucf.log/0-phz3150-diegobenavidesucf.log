@@ -2112,8 +2112,26 @@ Problem 3a: For problem 3a I used the given equation to calculate windchill from
 wind_chill as directed by the assignment. The function takes in the temperature in Fahrenheit and the speed of the wind in miles per hour,
 in order to return the wind chill factor and wind chill temperature, both in Fahrenheit. I ran the test case given by the assignment, and
 my function returns the wind chill factor and wind chill temperature in an informative statement.
+I double checked the math using a calculator.
 
 I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
 push origin button on the github desktop app.
 
 ***** OUT APRIL 3 18:30:00 EST 2022
+
+***** IN APRIL 3 22:00:00 EST 2022
+HW 11:
+
+Problem 3b: For problem 3b I used the equation for getting distance in parsecs from  parallax in arcseconds in order to complete the problem.
+I first I converted the given parallaxes to arcseconds instead of milliarcseconds by multiplying the parallaxes by 0.001. I then made the
+parallax_to_distance function, the function takes in a dictionary with stars' names as keys and their parallax in arcseconds as values. And
+returns a dictionary of the stars' names as keys and their distances from earth in parsecs as values.
+Then in my parallax_to_distance function I made a for loop to iterate over the input dictionary and update the new dictionary for every key in the
+input dictionary to have a value of distance using the math I previously mentioned which is d = 1/parallax.
+I then ran the function for the given test case and it works.
+I double checked the math using a calculator.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 3 22:40:00 EST 2022
