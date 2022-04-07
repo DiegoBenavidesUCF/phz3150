@@ -2155,3 +2155,27 @@ I now saved my files, by going to my github desktop app, clicked changes, wrote 
 push origin button on the github desktop app.
 
 ***** OUT APRIL 4 9:56:00 EST 2022
+
+***** IN APRIL 4 16:53:00 EST 2022
+HW11:
+
+Problem 3d: I personally found this problem very difficult but I was able to make it work for the first two test cases, but for the third test case
+my function failed to return the proper matrix multiplication. The reason my fucntion did not work for the third case is because:
+test case 3 is multiplication between a vector and a matrix, so I couldn't seem to get the function to work in this case. It seems that my function only
+works for two 2-d matrices being multiplied, not a matrix and a vector.
+As for solving the problem I first made an if statement to determine whether or not the matrices being multiplied are compatible, where
+it is known that a Matrix can be multiplied when the amount of columns of the first matrix match the amount of rows of the second matrix.
+I then initialized a matrix of zeros the shape of the expected matrix multiplication product by making the dimensions equal to the row count
+of the first input matrix and the amount of columns of the second input matrix. I knew to do this and the math for matrix multiplication because
+I have seen matrices before in my mathematical methods for physical sciences class (PHZ 3113). I then continued to populate the matrix with the proper
+values by multiplying the rows and columns in the proper order through a nested for loop. I learned how to do this nested for loop from a geeksforgeeks.org
+post, then I applied it to this problem. I then ran the test cases, and as previously mentioned, only the third case failed due to the fact that my function
+only works for matrices, not vectors and im unsure how to further generalize my function to also work with matrix and vector multiplication. Also, to
+get my general values and variables for rows and columns I used 2-d array indexing techniques from class.
+I double checked my answers using np.matmul().
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+***** OUT APRIL 4 18:32:00 EST 2022
