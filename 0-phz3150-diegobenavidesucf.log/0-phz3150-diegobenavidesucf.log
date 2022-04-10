@@ -2157,7 +2157,7 @@ push origin button on the github desktop app.
 ***** OUT APRIL 4 9:56:00 EST 2022
 
 ***** IN APRIL 4 16:53:00 EST 2022
-HW11:
+HW 11:
 
 Problem 3d: I personally found this problem very difficult but I was able to make it work for the first two test cases, but for the third test case
 my function failed to return the proper matrix multiplication. The reason my fucntion did not work for the third case is because:
@@ -2179,3 +2179,14 @@ push origin button on the github desktop app.
 
 
 ***** OUT APRIL 4 18:32:00 EST 2022
+
+***** IN April 9 22:20:00 EST 2022
+
+Hw 11:
+
+Problem 2: For problem 2 I simply followed the best-fit modeling from least squares technique from the lecture on april 5th in class.
+I made a nested for loop to model the linear regression from the a, b , and x arrays from the problem. Within this nested for-loop I also modeled the
+chi square and indexed where the chi square is smallest for a and b. After indexing for these values I printed an informative statement including the
+best-fit model parameters. I also plotted the data and the linear regression and it fits the data well.
+
+***** OUT APRIL 9 23:26:00 EST 2022
