@@ -1,0 +1,2266 @@
+Diego Benavides
+Log for PHZ 3150, Spring 2022
+*****IN: Thursday Jan 13 21:56:00 EST 2022
+Made a directory for the class here:
+/home/diegobenavidesucf/phz3150/
+Opened Atom, started this log, saved as:
+/home/diegobenavidesucf/phz3150/0-phz3150-diegobenavidesucf.log
+
+Now copy and pasting hw1-survey.txt from webcourses into the log:
+
+UCF Physics PHZ 3150: Introduction to Numerical Computing
+Name: Diego Benavides
+Email: dbenavides@knights.ucf.edu
+  Phone: 4073348903
+Major: Physics, Astronomy Track
+Year: 3
+ID: 4569724
+How did you hear about this course? From the course catalog.
+Do you have a laptop you can bring to class, install software on, etc.? Yes.
+What operating system and version does it run? Windows 11.
+How much free disk space does it have? 65GB.
+What operating systems are you comfortable working in? Windows.
+What computer classes have you taken, including high school,
+extracurricular, etc.? Intro to C.
+Have you ever programmed a computer? Yes I have learned a little bit of python on my own
+In what language(s)? Python 3.
+Summarize your experience: I have learned some of the basics, using numpy, pandas, and matplotlib.
+Have you taken statistics or probability? Yes I have taken statistics.
+Why are you taking this course? I am taking this course to feel more confident in my programming skills
+and apply this to my research credits, which I would like to start soon.
+Are there particular topics you hope to learn? I would like to learn more on how to visualize large amounts of data.
+If you have worked with scientific data or modeling before, briefly
+describe your experience: In the intermediate physics lab course I used matplotlib and numpy to create
+basic charts, tables, and linear regressions.
+Have you ever been involved with a science club or similar?  If so,
+describe: I have not been active in scientific clubs.
+
+Now downloading the think python book into /home/diegobenavidesucf/phz3150/books/:
+Book was saved as /home/diegobenavidesucf/phz3150/books/thinkpython2
+The download URL : https://greenteapress.com/thinkpython2/thinkpython2.pdf
+
+*****OUT: Thursday Jan 13 22:25:00 EST 2022
+
+*****IN: Tuesday Jan 18 09:43:00 EST 2022
+The directory /home//home/diegobenavidesucf/phz3150 for this course was created
+through folders on my laptop which has a windows 11 OS
+
+*****OUT: Tuesday Jan 18 2022 09:50:00 EST 2022
+
+*****IN: Wednesday Jan 19 22:33:00 EST 2022
+ Homework 2:
+
+ 1a. Python 3 was downloaded from python.org about a year ago, and Anaconda navigator was downloaded
+ from a course from UDEMY about a year ago as well. URL: https://www.python.org/downloads/
+
+ The anaconda navigator included jupyter notebook along other programs.
+ The UDEMY course also included a zip file with numpy, pandas, scipy, and other packages.
+
+ Took a screenshot of my Jupyter notebook home page and saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot1
+
+ Took a screenshot of my version of python from Jupyter notebook saved the pdf as:
+ hw2_diegobenavidesucf_prob1a_screenshot2
+
+ 1b. Downloaded github desktop version and synced it with the class during lecture
+ on Jan 18 10:30:00 EST 2022
+ Screenshot of the github saved as pdf titled:
+ hw2_diegobenavidesucf_prob1b_screenshot
+
+ 2. Correct syntax with incorrect tokens: B00k5 R fun 2 re4d.
+ Incorrect syntax with correct tokens: Books to read are fun.
+
+ The feature of natural languages that prevents them from being programming languages is
+ called ambiguity. Meaning that in natural languages people can determine proper meaning
+ regardless of syntax or token correctness since context clues can be used to determine the
+ meaning. Programming languages are unambiguous and rely on proper syntax and tokens in order to function
+ which is a feature known as literalness.
+
+ 3. Completed the hello-world tutorial, which included how to create branches, complete commits,
+ create pull request, merge branches, and delete merged branches.
+ URL: https://guides.github.com/activities/helloworld/
+
+ Added the survey into my github during class saved the screenshot of the changes displayed on
+ the desktop version of github in order to see the changes done to the repository as a pdf titled:
+ hw2_diegobenavidesucf_prob3_screenshot1
+
+ Committed the changes made from adding the hw1_survey.txt to the classroom repository
+ HW1 folder and pushed to origin.
+ The screenshot showing the updated classroom repository HW1 folder is a pdf saved as:
+ hw2_diegobenavidesucf_prob3_screenshot2
+
+ 4. I saved all of the pdf screenshots and this updated work log into:
+ /home/diegobenavidesucf/phz3150/homework/hw2_diegobenavidesucf/ and saved it
+ as a zip file.
+
+ *****Out Thursday Jan 20 00:17:00 EST 2022
+
+*****IN Tuesday Jan 25 13:30:00 EST 2022
+
+While in class internet wasn't working for me so I have to go back and redo the
+shell command pdf demo on my own. I was only able to follow along reading, not actually working
+on the arch linux command prompt.
+
+***** Out Tuesday Jan 25 13:33:00 EST 2022
+
+***** IN Wednesday Jan 26 8:50:00 EST 2022
+Homework 3:
+
+1. Created a new folder for homework 3 saved as phz3150/handin/hw3_diegobenavidesucf.
+I created the new folder by just clicking create new folder within my directory.
+
+2a. I created a new github repository for my directory phz3150/.
+This was done by going to the github desktop app, clicking create new repository and choosing my
+phz3150/ directory as the files I would like to add. I then published that new repository from the github
+desktop app. So now the repository is also in my web version of Github.
+
+2b1. In order to add my log to my revision control through git I clicked add the add files tab
+that is on the github page for the phz3150 repository and adding my log from my directory
+desktop/phz3150/0-phz3150-diegobenavidesucf.log and then clicking commit in order to commit the
+file into my new github repository. Right before committing I typed a commit message that said:
+"Putting my log under revision control".
+
+2b2. I dragged and dropped my whole phz3150/ directory folder into my github web browser version in order to
+commit all of my files to the new repository I created in this homework. I now took a screenshot of the
+commit message page. The screenshot is saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot1.
+I took one more screenshot from within the committed phz3150/ folder in order to prove that my log
+is also in there, this was saved as a PNG titled: hw3_diegobenavidesucf_prob2b2_screenshot2.
+
+I now moved these two screenshots into my hw3_diegobenavidesucf/ folder.
+
+***** OUT Wednesday Jan 26 9:48:00 EST 2022
+
+***** IN Wednesday Jan 26 18:58:00 EST 2022
+
+2c. Created a new folder within my desktop/ called test_git/.
+
+For some reason my github stopped syncing to my repository so I deleted and recreated it.
+
+I have recreated the repository one again to check if it will sync.
+
+Now it appears that I have correctly been able to sync the repository, and I did this by deleting and recreating
+the repository from github desktop app, github online, and my directory before recreating it.
+
+Now after deleting and recreating everything I created a folder called testgit/ and I was able to
+add it to revision control by making it within my phz3150/ repository before publishing it.
+
+It seems like creating a new folder won't appear to my changes in my github desktop app,
+so for now I will add an empty .txt file titled empty_file_for_change to hopefully bypass this issue.
+
+It appears to have worked, so now I can finally move on!
+
+2d. I now dragged and dropped the hw1-survey.txt file from canvas and put it into my
+new test_git/ folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot1.PNG .
+
+Now I will remove the survey after committing it and screenshot how something got removed
+from the test_git folder.
+
+I now took a screenshot of how my github desktop app looks with the changes made
+and saved othe screenshot as hw3_diegobenavidesucf_prob2d_screenshot2.PNG .
+
+Every time I committed the changes to my github I first wrote a descriptive message as to what the change was for and
+then clicked commit, and then clicked push to origin which committed my changes to my github online version of
+the repository in order to back up my work.
+
+I now took a screenshot of my committ history for the third screenshot of the assignment and saved
+it as: hw3_diegobenavidesucf_prob2d_screenshot3 .
+
+3. I opened up anaconda, jupyter notebook, and went to my desktop/phz3150/handin/hw3_diegobenavidesucf folder
+to open up a new python 3 jupyter notebook titled hw3_diegobenavidesucf_test_notebook.
+
+I then used a markdown cell in order to type a brief description of my notebook.
+
+I then followed and typed all of the code statements required by the rest of question 3.
+
+4. I updated my log, committed it on desktop github, then pushed it origin, and added a
+copy of my log to my hw3_diegobenavidesucf folder.
+
+I will now zip it, and turn in my assignment.
+
+***** OUT Wednesday Jan 26 22:20:00 EST 2022
+
+***** IN Tuesday Feb 1 20:25:00 EST 2022
+
+Homework 4:
+
+Problem 1: I created a new folder on my computer for homework 4 within my handin folder saved as:
+desktop/phz3150/handin/hw4_diegobenavidesucf
+
+I now went to my /phz3150/hw4_diegobenavidesucf folder through jupyter and created a new
+jupyter notebook by clicking new python 3 notebook inside of the folder and titled the notebook:
+hw4_diegobenavidesucf as the assignment required.
+
+I committed the new hw4_diegobenavidesucf folder and the hw4_diegobenavidesucf jupyter notebook
+to my github web version from my github desktop app repository by pushing to main and creating a descriptive commit message.
+
+I put my name, homework number, and date as comments at the top of my hw4_diegobenavidesucf jupyter notebook
+and put "problem 2" as a markdown in the notebook as required by the assignment
+by changing the cell to markdown and typing in the new cell.
+
+Problem 2: For the first part of problem 2 I typed the problem as a markdown cell and typed the F = ma (newtons second law)
+as directed by the problem. I also formatted my problem 2 work by following the example provided in the HW4 instructions.
+
+For the second part of problem 2 I created a function to get acceleration from force and mass. I typed this in my hw4_diegobenavidesucf notebook as:
+
+def force_to_acceleration( force , mass):
+    """This function will take in a value for force and mass, and divide force by mass in order
+    to calculate acceleration.
+    INPUT: Force[N] , Mass[kg]
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = force / mass
+
+    return a
+
+  As you can tell, I made sure to have a good docstring.
+
+  After running this cell a created variables for the different forces given by the assignment named F_1, F_2, F_3.
+  Then I created a variable for the one mass given, named m.
+
+  I then created separate print statements for each acceleration answer. Here are how the statements were written:
+
+  print('Problem 2:')
+
+print(f" Force is equal to {force_to_acceleration( 100 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 22 , 150)}")
+
+print(f" Force is equal to {force_to_acceleration( 450 , 150)}")
+
+
+I now saved the work that I have for now by clicking save in jupyter and committing my work to my github repository by
+clicking push to origin and writing a descriptive commit message for what I have saved so far.
+
+***** OUT Tuesday Feb 1 22:18:00 EST 2022
+
+***** IN Wednesday Feb 2 09:15:00 EST 2022
+
+Homework 4 Continued:
+
+Problem 3: I started problem 3 by adding the problem 3 instructions as a markdown in the jupyter notebook and labeled it under
+another markdown cell that says "PROBLEM 3:" as directed by the assignment earlier in problem 2.
+
+For the first part of problem 3 I typed up the acceleration function inside of a .py file separate
+from the main homework jupyter notebook. I also made sure to have a good docstring.I saved the separate file my_saved_functions.py and I saved it inside of
+my hw4_diegobenavidesucf/ folder. The code for my function is:
+
+def acceleration( u1 , u2 , t1 , t2 ):
+    """This function will calculate acceleration from dividing its change in velocity[m/s] by the change in time[s]
+    or in other words its getting acceleration by calculating the rate of change of velocity
+    INPUT: Initial velocity, final velocity, inital time, final time.
+    OUTPUT: Acceleration[m/s^2]"""
+
+    a = (u2 - u1)/(t2 - t1)
+
+    return a
+
+I then imported the function to my hw4_diegobenavidesucf jupyter notebook by typing "from my_saved_functions import acceleration" inside
+of a cell.
+Then to calculate all of the acceleration values using the given data I typed this code in order to satisfy the assignment:
+
+print('Problem 3')
+
+ui_1 = 10
+uf_1 = 13
+ti_1 = 0
+tf_1 = 2
+
+ui_2 = 15
+uf_2 = 30
+ti_2 = 10
+tf_2 = 14
+
+ui_3 = 32
+uf_3 = 36
+ti_3 = 14
+tf_3 = 16
+
+ui_4 = 42
+uf_4 = 20
+ti_4 = 28
+tf_4 = 32
+
+ui_5 = 20
+uf_5 = 22
+ti_5 = 0
+tf_5 = 10
+
+print(f'The accelerarion is { acceleration( ui_1 , uf_1 , ti_1 , tf_1 ) }')
+print(f'The accelerarion is { acceleration( ui_2 , uf_2 , ti_2 , tf_2 ) }')
+print(f'The accelerarion is { acceleration( ui_3 , uf_3 , ti_3 , tf_3 ) }')
+print(f'The accelerarion is { acceleration( ui_4 , uf_4 , ti_4 , tf_4 ) }')
+print(f'The accelerarion is { acceleration( ui_5 , uf_5 , ti_5 , tf_5 ) }')
+
+
+I then answered the rest of problem 3 as a comment inside of jupyter by putting # before typing as directed by the assignment.
+
+***** OUT Wednesday Feb 2 10:02:00 EST 2022
+***** IN wednesday Feb 2 14:00:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+I started problem 4 by writing the two lists that were required by the assignment using the list and range functions.
+
+I then printed them as instructed by the HW4 assignment.
+
+I forgot to mention that I copy and pasted the problem 4 as markdown cell before typing my answers in a code cell.
+
+I then used the proper slicing and indexing conventions to slice and print the velocity list from the 3rd cell up to and including the 5th element,
+and then the 8th element.
+
+In a new cell I called the acceleration function and printed all of the assigned cases for acceleration using the proper indexing to
+get the proper answer for each case.
+
+***** OUT Feb 2 14:54:00 EST 2022
+
+***** IN Feb 2 20:08:00 EST 2022
+
+homework 4 continued:
+Problem 4:
+
+After printing all of the acceleration cases required by the assignment I double checked the answers with
+a calculator and mentioned that fact as a comment within my code. My code for printing all of the
+acceleration values for this section of problem 4 is as follows:
+
+#printing the acceleration for the required velocity pairs and corresponding times.
+
+print('Problem 4:')
+
+print(f'The acceleration is {acceleration( velocity[2] , velocity[3] , time[2] , time[3] )}')
+print(f'The acceleration is {acceleration( velocity[3] , velocity[4] , time[3] , time[4] )}')
+print(f'The acceleration is {acceleration( velocity[4] , velocity[7] , time[4] , time[7] )}')
+
+For the last part of the assignment I change the value of the fifth element of the velocity list
+by indexing the element and setting it equal to 90. After printing it is clear that the value of the
+element was changed to 90, which is possible due to the mutability of lists in python.
+
+My code for this last section is:
+
+#Now I will change the value of the 5th element.
+
+velocity[4] = 90
+
+print('Problem 4:')
+
+print(velocity)
+
+After running this cell I mentioned the mutability of lists in python in a markdown cell.
+
+Problem 5: I now saved the jupyter notebook by clicking the save button at the top left and it is already saved within my
+/hw4_diegobenavidesucf/ folder.
+
+After double checking that I saved all of my files I committed my hw4_diegobenavidesucf notebook and pushed it github by
+clicking commit to main, typing a descriptive commit message, and clicking push to origin.
+
+After pushing to origin I screenshot it and saved the screen shot as hw4_diegobenavidesucf_prob5_screenshot inside
+of my hw4_diegobenavidesucf/ folder.
+
+I then committed and pushed the addition of the screenshot to github following the same process.
+
+I now saved the log, committed the changes to github by pushing to origin, dragged and dropped a copy of my log into
+my hw4_diegobenavidesucf/ folder with the rest of my hw4 files.
+
+I now zipped the hw4_diegobenavidesucf/ folder and it is ready to be submitted.
+
+I now committed that change to github by pushing to origin.
+
+***** OUT Feb 2 20:48:00 EST 2022
+
+***** IN FEB 8 15:00:00 EST 2022
+
+Homework 5:
+Problem 1:
+
+ To commence homework 5 I created a folder for homework 5 titled hw5_diegobenavidesucf in my handing folder.
+ I then opened up jupyter notebook and created a note book under the folder titled hw5_diegobenavidesucf under my
+ /handin/hw5_diegobenavidesucf folder. I did this by clicking new and clicking python 3 notebook.
+
+ Once I opened the jupyter notebook I typed my name, assignment, and date as comments as directed by the assignment.
+
+Problem 2:
+
+before starting problem two I typed 'problem 2:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I then began problem 2 by creating a function that solves for the roots of a quadratic equation when the coefficients are given as the input:
+
+My code, docstring, and in-code comments also do a good job at describing my work:
+
+def my_solve_for_roots( a , b , c ):
+    """This function will calculate the roots of a quadratic equation, which are second order polynomials, given the three
+    coefficients of the equation.
+    INPUT: Coefficients of ax^2 + bx + c = 0 ( a , b , c )
+    OUTPUT: a list of the roots"""
+
+    # first I will calculate the discriminant to simplify the rest of the calculation of the calculation
+    #Hopefully making it more readable.
+
+    discriminant = (np.power( b , 2) - ( 4 * a * c ))
+
+    #plugging in discriminant to the rest of the quadratic formula
+
+    solution_set1 = (( -1 * b ) + np.sqrt(discriminant)) / ( 2 * a )
+
+    solution_set2 = (( -1 * b ) - np.sqrt(discriminant)) / ( 2 * a )
+
+    solution = [ solution_set1 , solution_set2]
+
+    return solution
+
+As you can tell the function properly returns a list of the roots as required by the assignment.
+
+In the next cell I printed out the results for the set of coefficients given to me by the homework.
+
+After printing the results I double checked my answers by doing the algebra by hand.
+
+
+Problem 3:
+
+Before starting problem two I typed 'problem 3:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+To commence the problem I created the student_h list and populated the list with the correct heights given by the assignment.
+
+I began to code my function and created a descriptive docstring but unfortunately after several hours of not being able to figure out
+how separate the mathematical operations at the decimal of the height values I am stumped on this problem and I am deciding to move on.
+
+***** OUT feb 8 20:12:00 EST 2022
+
+***** IN feb 9 8:40:00 EST 2022
+
+I will now copy and paste my prior HW5 log from my prior entry in order to have my work for this homework in one entry
+since this was stated at the top of the homework assignment.
+
+Homework 5:
+Problem 1:
+
+ To commence homework 5 I created a folder for homework 5 titled hw5_diegobenavidesucf in my handing folder.
+ I then opened up jupyter notebook and created a note book under the folder titled hw5_diegobenavidesucf under my
+ /handin/hw5_diegobenavidesucf folder. I did this by clicking new and clicking python 3 notebook.
+
+ Once I opened the jupyter notebook I typed my name, assignment, and date as comments as directed by the assignment.
+
+Problem 2:
+
+before starting problem two I typed 'problem 2:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I then began problem 2 by creating a function that solves for the roots of a quadratic equation when the coefficients are given as the input:
+
+My code, docstring, and in-code comments also do a good job at describing my work:
+
+def my_solve_for_roots( a , b , c ):
+    """This function will calculate the roots of a quadratic equation, which are second order polynomials, given the three
+    coefficients of the equation.
+    INPUT: Coefficients of ax^2 + bx + c = 0 ( a , b , c )
+    OUTPUT: a list of the roots"""
+
+    # first I will calculate the discriminant to simplify the rest of the calculation of the calculation
+    #Hopefully making it more readable.
+
+    discriminant = (np.power( b , 2) - ( 4 * a * c ))
+
+    #plugging in discriminant to the rest of the quadratic formula
+
+    solution_set1 = (( -1 * b ) + np.sqrt(discriminant)) / ( 2 * a )
+
+    solution_set2 = (( -1 * b ) - np.sqrt(discriminant)) / ( 2 * a )
+
+    solution = [ solution_set1 , solution_set2]
+
+    return solution
+
+As you can tell the function properly returns a list of the roots as required by the assignment.
+
+In the next cell I printed out the results for the set of coefficients given to me by the homework.
+
+After printing the results I double checked my answers by doing the algebra by hand.
+
+
+Problem 3:
+
+Before starting problem two I typed 'problem 3:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+To commence the problem I created the student_h list and populated the list with the correct heights given by the assignment.
+
+I began to code my function and created a descriptive docstring but unfortunately after several hours of not being able to figure out
+how separate the mathematical operations at the decimal of the height values I am stumped on this problem and I am deciding to move on.
+
+Problem 4:
+
+Before starting problem two I typed 'problem 4:' as a markdown and copy and pasted the problem into a new cell
+as a markdown as required by the conventions for assignments in this class.
+
+I began this problem by creating the function displacement(u_init, t, a) in a separate .py  file since that was what the instructions
+wanted.
+
+my code and doctstring for this function are:
+
+def displacement( u_init , t , a ):
+    """This function calculates the total displacement of a body that during a time interval of t, a constant
+    acceleration, and an initial velocity of zero.
+    INPUT: Initial velocity of 0[m/s] , constan accelerations [m/s^2] , time intervals [s]
+    OUTPUT: displacement [m]"""
+
+    #formula for displacement of an object with constant acceleration
+
+    s = ( u_init * t ) + ( 0.5 * a * ( t**2 ))
+
+    return s
+
+As you can see above my docstring is descriptive.
+
+For the next part of the problem I imported the function into my jupyter notebook using: from my_saved_functions import displacement .
+
+I then printed the answers for all of the requested pairs as follows (ny code for the outputs for the assignment problem 4):
+
+#velocity
+
+v_0 = 0
+
+#time intervals
+
+t_1= 2
+
+t_2 = 4
+
+t_3 = 14
+
+#Constant accelerations
+
+a_1 = 10
+
+a_2 = 20
+
+a_3 = 30
+
+
+
+print('Problem 4:')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 2s, and acceleration of 10 the displacement is {displacement( v_0 , t_1 , a_1 )} m \n')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 4s, and acceleration of 20 the displacement is {displacement( v_0 , t_2 , a_2 )} m \n')
+
+print(f'The displacement for an initial velocity of 0 m/s, time interval of 14s, and acceleration of 30 the displacement is {displacement( v_0 , t_3 , a_3 )} m \n')
+
+I then double checked my math here with a calculator and all of my values were correct.
+
+
+Problem 5:
+
+I then committed my homework file to github by clicking commit and push to origin after writing a descriptive commit comment for this commit.
+I took a screenshot of the commit and saved it as /handin/hw5_diegobenavidesucf/hw5_diegobenavidesucf_prob5_screenshot.png
+
+I will now save this log, copy it into my hw5_diegobenavidesucf folder by drag and dropping, and then zip the hw5_diegobenavidesucf folder by Right
+clicking and then clicking compress to zip file.
+
+I will then push these new changes to github by creating a descriptive commit comment and clicking push origin.
+
+***** OUT feb 9 11:00:00 EST 2022
+
+***** IN Feb 16 15:37:00 EST 2022
+Homework 6:
+
+Problem 1:
+I started by creating a folder titled hw6_diegobenavidesucf in order to comply with the course naming convention.
+I saved the folder under phz3150/handin/hw6_diegobenavidesucf.
+
+I then opened a new python 3 jupyter notebook inside of this folder by clicking new python 3 notebook inside of the phz3150/handin/hw6_diegobenavidesucf
+directory through jupyter so that the notebook may be inside of this homework folder.
+
+I then pushed this to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement and clicking
+push to origin inside of my github desktop app.
+
+I then put my name, assignment, and date at the top cell of this notebook as comments:
+# Diego Benavides
+# homework 6
+# Feb 16 2022
+
+Problem 2:
+
+I started by writing PROBLEM 2 as a markdown cell in order to identify that I am starting problem 2, as directed by the assignment.
+
+I now imported numpy and pyplot as:
+import numpy as np
+import matplotlib.pyplot as plt
+
+I now created the arrays that I was required to create by problem 2. My code is as follows:
+# creating array
+
+x = np.arange( 1 , 100.5 , 0.5)
+
+y = np.log10(x)
+
+z = np.sqrt(x)
+
+I now created a plot from the mentioned arrays containing two lines and I manually made specific lines, ticks, labels, colors, and markers
+as assigned by the assignment. I also saved the plot using plt.savefig() and made sure that my plot's titles and labels are legible.
+My code for problem 2 is as follows:
+
+# creating array
+
+x = np.arange( 1 , 100.5 , 0.5)
+
+y = np.log10(x)
+
+z = np.sqrt(x)
+
+#printing plot with all specifications from the assignment
+
+print('Problem 2:\n')
+
+plt.figure( figsize = ( 10 , 10 ) )
+
+plt.plot  ( x , y , color = 'green' , linestyle = '--' , linewidth = 1, label = 'y(x)  = (log10(x))', marker = 'o'  )
+
+plt.plot  ( x , z , color = 'blue' , linestyle = '--' , linewidth = 1 ,label = 'z(x) = (x)^1/2' , marker = 'x' )
+
+plt.tick_params(axis='both',which='major',length=12, width=4,direction='in')
+
+plt.xlabel( 'x - array', fontsize = 20 )
+
+plt.ylabel( 'y(x) and z(x)' , fontsize = 20 )
+
+plt.title( 'Plot for y-array and z-array as a function of x' , fontsize = 30 )
+
+plt.legend()
+
+plt.savefig('hw6_diegobenavidesucf_prob2_plot.pdf' , format = 'pdf' , dpi = 1200, bbox_inches = 'tight', pad_inches = 0.3 )
+
+
+Problem 3:
+
+I started by writing PROBLEM 3 as a markdown cell in order to identify that I am starting problem 3, as directed by the assignment.
+
+I then created the array, q, that was required by the assignment, I then printed the array, printed where the elements in the array
+greater than 50 using np.where() , and then I printed the value of the elements that were 50 < q < 70 using a boolean statement. This
+can all be seen by my code as follows:
+
+# creating array
+
+q =  np.array( [45 , 24 , 5  , 30 , 3 , 67 , 33 , 60 , 65 , 13 , 82 , 75 , 21 , 77 , 67 , 8 , 86 , 62 , 23 , 70 , 11 , 70 , 21 , 15 , 84 , 51 , 6 , 79 , 78 , 66 , 2 , 93 , 49 , 74 , 23 , 85 , 25 , 38 , 1 , 89 ])
+
+print('Problem 3:\n')
+
+print(q)
+
+print(np.where(q > 50))
+
+print(q[(q > 50) & (q < 70)])
+
+For the next part of problem 3 I started by making a list from q using the list() function.
+I then printed out the slice of the list from element 12 up to and including the 14th by using indexing and slicing.
+
+I then reassigned the 28th element from value 79 to 42 and printed the new value by indexing and it worked because list are mutable.
+
+my code for that part of problem 3 is:
+
+print('Problem 3:\n')
+
+q_list  = list(q)
+
+print(q_list[ 11 : 14 ])
+
+q_list[27] = 42.0
+
+print(q_list[27])
+
+
+For the next part of problem 3 I created a tuple out of q by using the tuple( ) function.
+
+I then printed the 20th element of the tuple by indexing.
+
+I then attempted to reassing the 21st element value of the tuple to be 44 but it fails because tuples are immutable.
+
+For the last part of problem three I was able to find which words had the letters e and which words had the letter a by
+doing a nested for loop in order to iterate through the list and then iterate through the stings,
+and in order to find the location index of the letters in each word I used the .find() function.
+
+I printed the results for both of these things on the same line.
+
+Then I made an if elif statement to check if there was the word star or bright within the word list.
+
+My code for the last part of problem 3 is:
+
+print('Problem 3:\n')
+
+word_list = [ 'twinkle', 'twinkle', 'little', 'star']
+
+#looking for words with 'e' in them
+
+for word in word_list:
+    for ch in word:
+        if ch == 'e':
+            print(f"The word {word} has an 'e' in it, the location of 'e' is {word.find('e')}")
+
+#.find() helps find location of letter occurance in a string
+
+print('\n')
+
+#looking for words with 'a' in them
+
+for word in word_list:
+    for ch in word:
+        if ch == 'a':
+            print(f"The word {word} has an 'a' in it, the location of the 'a' is {word.find('a')}")
+
+#checking if words are in the list
+print('\n')
+
+for word in word_list:
+    if word == 'star':
+        print('star is in wordlist')
+    elif word == 'bright':
+        print('bright is in wordlist')
+    elif word != 'bright':
+        print('bright is not in wordlist')
+    elif word != 'star':
+            print('star is not in wordlist')
+
+Problem 4:
+
+To commence PROBLEM 4 created a function word_to_number that takes in an english word that corresponds to a number from 0-20.
+I made sure to include an informative docstring.
+
+After making the function and the dictionary I printed the function for the numbers that I was required to call into the function
+from the assignment.
+
+My code for this problem is:
+
+def word_to_number( english_word ):
+    """This function will take an english word and return a corresponding number for that word from 0-20.
+    this function uses a dictionary in order to do so.
+    INPUT: english word for a number from 0-20
+    OUTPUT: corresponding number to english word"""
+
+    number_dict = {
+        'zero' : 0 ,
+        'one' : 1 ,
+        'two' : 2 ,
+        'three' : 3 ,
+        'four' : 4 ,
+        'five' : 5 ,
+        'six' : 6 ,
+        'seven' : 7 ,
+        'eight' : 8 ,
+        'nine' : 9 ,
+        'ten' : 10 ,
+        'eleven' : 11 ,
+        'twelve' : 12 ,
+        'thirteen' : 13 ,
+        'fourteen' : 14 ,
+        'fifteen' : 15 ,
+        'sixteen' : 16 ,
+        'seventeen' : 17 ,
+        'eighteen' : 18 ,
+        'nineteen' : 19 ,
+        'twenty' : 20 ,
+    }
+
+    return number_dict[english_word]
+
+print('Problem 4:\n')
+
+print(f"Three is {word_to_number( 'three' )}")
+print(f"Seven is {word_to_number( 'seven' )}")
+print(f"Twelve is {word_to_number( 'twelve' )}")
+print(f"Sixteen is {word_to_number( 'sixteen' )}")
+print(f"Nineteen is {word_to_number( 'nineteen' )}")
+
+Problem 5:
+
+Before doing problem 5 I realized I did not copy and paste the entire questions as markdown cells before each problem so I did that for each PROBLEM
+by clicking new cell and copy and pasting the problem into the new markdown cell.
+
+I already put my jupyter notebook into the proper folder before even starting the homework problems so my
+push to github screenshot will contain the entirety of the work I just did. Either way it still demonstrated that I pushed to github.
+
+I then pushed this to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement and clicking
+push to origin inside of my github desktop app.
+
+Now I will copy and paste this log into my hw6_diegobenavidesucf folder by dragging and dropping.
+
+then I will zip the folder by clicking compress to zip file and submit my homework.
+
+then I will push these final changes to github by clicking the all of the changes under the changes tab and creating a descriptive commit statement
+and clicking push to origin inside of my github desktop app.
+
+***** OUT feb 16 19:41:00 EST 2022
+
+***** IN feb 20 17:14:00 EST 2022
+
+Homework 7:
+
+Problem 1:
+
+To commence homework seven I made a folder titled hw7_diegobenavidesucf within my handin folder by clicking
+new folder in my computer.
+
+I then created a python 3 Jupyter note book titled hw7_diegobenavidesucf within handin/hw7_diegobenavidesucf by clicking
+new and then clicking python 3. After that I put my name, date, and assignment as comments in the first cell of the notebook
+as directed by the assignment. I then imported numpy as np and matplotlib.pyplot as plt just in case I need it later.
+
+Before starting problems I pushed these new changes to github by pressing commit, making a descriptive commit statement, and clicking push origin.
+
+Problem 5:
+
+I made a markdown cell to state problem 5 in order to follow the conventions of organization of the homework for this course.
+
+I decided to start off with problem 5 because when I read through the homework It seemed like the most simple problem so I am getting it out
+of the way first.
+
+I found this problem to be very straight forward so I made a list with the pyramid outputs and used a for loop to print out
+the individual levels of the pyramid one by one.
+
+here is my code:
+
+print('Problem 5:\n')
+
+pyramid = [1 , 10 , 101 , 1010 , 10101 , 101010 , 10101 , 1010 , 101, 10 , 1]
+
+for i in pyramid:
+    print(i)
+
+Problem 2:
+
+I solved the first part of problem 2 by creating a string of the given sentence, then I created a list that separates the first string
+by whitespace using .split() and then using a for loop that iterates through the list to print out the words individually.
+
+I solved the second part of problem two by creating a loop that initially had my guess max length word equal to the first of the sentence and then
+I made an if statement that would change the guess max length word to the new word if the new word iterated over was longer than the guess. I did This
+by taking advantage of the len() function.
+
+unfortunately I failed to make it with a while loop. so i left that failed code as comments so the rest of my code can still run.
+
+then I made a print statement that printed the guess max length word which is now the actual max length word.
+
+I solved the last part of problem 3 by creating a for loop that iterates through only lst_1[:6] which is only the first six words of the sentence
+as required by the problem. I then printed out the set(i) in order to only print out the unique characters per word. But it is important
+to note that the set() function prints the unique letters in a random order.
+
+My code for all of problem 2 is :
+
+print('Problem 2 part 1:\n')
+
+# first part of problem 2:
+
+str_1 = " Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer"
+
+lst_1 = str_1.split()
+
+for word in lst_1:
+    print(word)
+
+# second part of problem 2:
+
+# with for loop
+
+print('\n')
+print('Problem 2 part 2:\n')
+
+guess_max = lst_1[0]
+
+for i in range( 1 , len(lst_1)):
+    if (len(lst_1[i]) > len(guess_max)):
+        guess_max = lst_1[i]
+print(guess_max, '\n')
+
+# with while loop
+
+#guess_max2 = lst_1[0]
+
+#while lst_1[i] != lst_1[i+1]:
+
+    #if ( len(guess_max2) < len(lst_1[i]) ):
+
+      #  guess_max2 = lst_1[i]
+
+       # i = i + 1
+
+   # print(guess_max2, '\n')
+
+# Third part of problem 2:
+
+print('Problem 2 part 3:\n')
+
+
+for i in lst_1[:6]: # iterates through the first six words only
+
+    print(set(i)) # prints out the unique characters but randomly because it turns the letters into a set.
+
+
+Now I am going to save and push to origin all of my work so far for this homework using the github desktop app.
+
+***** OUT feb 20 19:43:00 EST 2022
+
+***** IN feb 20 21:00:00 EST 2022
+
+Problem 3:
+
+I created a separate file for the function titled hw7_support_funct.py
+saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+which is where I will write my function for this problem.
+
+The function I made properly solves the equation for why and loops through the x array in order to return a y array
+which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+zeroes using np.zeros() for the y array, before using the function to populate it.
+
+Now I will import the function and input the given inputs from the problem.
+
+unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+and now I am getting a confusing run time error and its quite frustrating.
+
+I am going to email the professor with screenshots in hopes of getting help.
+
+***** OUT feb 20 23:41:00 EST 2022
+
+***** IN feb 21 8:36:00 EST 2022
+
+Problem 4:
+
+For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+I made a mark down cell denoting I am starting problem 4.
+
+To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+array in numerical order.
+I made sure to have a good docstring before writing the function.
+
+I created my function by making a nested for loop that switches the position of the numbers in each element
+if the next element is greater less than the prior so it should switch them until the array is sorted out
+in numerical order.
+
+Now I will import the function and check if it works.
+
+I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+was in the proper indent level.
+
+The function works and re-orders my array in numerical order.
+
+My code for problem 4 is as follows:
+
+from hw7_support_funct import order_array
+
+print('Problem 4:\n')
+
+test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+print(order_array(test_array))
+
+
+My code for the function on the hw7_support_funct.py file is:
+
+def order_array( input_array ):
+    """This function will take an array of numbers and sort them by numerical order
+    without using an built in functions on python such as .max() .min() or .sort().
+    INPUT: Not ordered array of numbers
+    OUTPUT: array of numbers that is in numerical order"""
+
+    for i in range(len( input_array )):
+
+        for j in range(i + 1, len( input_array )):
+
+            if (input_array[i] > input_array[j]):
+
+                input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+    return input_array
+
+
+    Now I have completed all of the problems except for 3 which I am still currently waiting for help for.
+
+    I will now push origin to github from my github desktop app for all of the work I currently have.
+
+    ***** OUT feb 21 9:12:00 EST 2022
+
+
+
+
+    ***** IN feb 23 21:46:00 EST 2022
+
+homework 7:
+
+    Since this is my final entry before submitting homework 7 I will copy and paste my entries
+    for each problem here in order.
+
+    I will also re-order my jupyter notebook, by using copy and paste,  since I started my problems out of order.
+    I will also look through the rubric and update what I do for each problem if I missed something.
+
+    Problem 1:
+
+    To commence homework seven I made a folder titled hw7_diegobenavidesucf within my handin folder by clicking
+    new folder in my computer.
+
+    I then created a python 3 Jupyter note book titled hw7_diegobenavidesucf within handin/hw7_diegobenavidesucf by clicking
+    new and then clicking python 3. After that I put my name, date, and assignment as comments in the first cell of the notebook
+    as directed by the assignment. I then imported numpy as np and matplotlib.pyplot as plt just in case I need it later.
+
+    Before starting problems I pushed these new changes to github by pressing commit, making a descriptive commit statement, and clicking push origin.
+
+
+    Problem 2:
+
+    I solved the first part of problem 2 by creating a string of the given sentence, then I created a list that separates the first string
+    by whitespace using .split() and then using a for loop that iterates through the list to print out the words individually.
+
+    I solved the second part of problem two by creating a loop that initially had my guess max length word equal to the first of the sentence and then
+    I made an if statement that would change the guess max length word to the new word if the new word iterated over was longer than the guess. I did This
+    by taking advantage of the len() function.
+
+    unfortunately I failed to make it with a while loop. so i left that failed code as comments so the rest of my code can still run.
+
+    then I made a print statement that printed the guess max length word which is now the actual max length word.
+
+    I solved the last part of problem 3 by creating a for loop that iterates through only lst_1[:6] which is only the first six words of the sentence
+    as required by the problem. I then printed out the set(i) in order to only print out the unique characters per word. But it is important
+    to note that the set() function prints the unique letters in a random order.
+
+    My code for all of problem 2 is :
+
+    print('Problem 2 part 1:\n')
+
+    # first part of problem 2:
+
+    str_1 = " Deleting an item from a list or array while iterating over it is a Python problem that is well known to any experienced software developer"
+
+    lst_1 = str_1.split()
+
+    for word in lst_1:
+        print(word)
+
+    # second part of problem 2:
+
+    # with for loop
+
+    print('\n')
+    print('Problem 2 part 2:\n')
+
+    guess_max = lst_1[0]
+
+    for i in range( 1 , len(lst_1)):
+        if (len(lst_1[i]) > len(guess_max)):
+            guess_max = lst_1[i]
+    print(guess_max, '\n')
+
+    # with while loop
+
+    #guess_max2 = lst_1[0]
+
+    #while lst_1[i] != lst_1[i+1]:
+
+        #if ( len(guess_max2) < len(lst_1[i]) ):
+
+          #  guess_max2 = lst_1[i]
+
+           # i = i + 1
+
+       # print(guess_max2, '\n')
+
+    # Third part of problem 2:
+
+    print('Problem 2 part 3:\n')
+
+
+    for i in lst_1[:6]: # iterates through the first six words only
+
+        print(set(i)) # prints out the unique characters but randomly because it turns the letters into a set.
+
+
+
+  Problem 3:
+
+        I created a separate file for the function titled hw7_support_funct.py
+        saved in handin/hw7_diegobenavidesucf/hw7_support_funct.
+        which is where I will write my function for this problem.
+
+        The function I made properly solves the equation for why and loops through the x array in order to return a y array
+        which contains the solutions for y per every x value from the x array. In order to do this I had to initialize an array of
+        zeroes using np.zeros() for the y array, before using the function to populate it.
+
+        Now I will import the function and input the given inputs from the problem.
+
+        unfortunately I got stuck trying problem 3 because at first it looked easy enough but then I seriously struggled
+        and now I am getting a confusing run time error and its quite frustrating.
+
+        I am going to email the professor with screenshots in hopes of getting help.
+
+        Unfortunately even after getting help on problem 3 I was unable to figure out the issue, I am looking forward to
+        seeing the solution tomorrow in class.
+
+
+
+    Problem 4:
+
+        For now I am skipping the rest of problem 3 in order to complete problem 4, so that I can finish this homework early in order to start the midterm
+        in reasonable time. Plus I am just waiting for the professor to email me back on problem 3.
+
+        I made a mark down cell denoting I am starting problem 4.
+
+        To commence problem 4 I created a function titled order_array in my handin/hw7_diegobenavidesucf/hw7_support_funct .py file that takes in an array of numbers as input and returns the
+        array in numerical order.
+        I made sure to have a good docstring before writing the function.
+
+        I created my function by making a nested for loop that switches the position of the numbers in each element
+        if the next element is greater less than the prior so it should switch them until the array is sorted out
+        in numerical order.
+
+        Now I will import the function and check if it works.
+
+        I had a minor typo in the function so I just solved the issue by pressing space to make sure my return statement of the function
+        was in the proper indent level.
+
+        The function works and re-orders my array in numerical order.
+
+        After that I checked if the answer would be the same using np.sort( ) and it was correctly
+        so my function worked.
+
+        My code for problem 4 is as follows:
+
+        from hw7_support_funct import order_array
+
+        print('Problem 4:\n')
+
+        test_array = np.array([ 4 , 5 , 2 , 10 , 42 , 22 , 8 , 12 ])
+
+        print(order_array(test_array))
+
+
+        My code for the function on the hw7_support_funct.py file is:
+
+        def order_array( input_array ):
+            """This function will take an array of numbers and sort them by numerical order
+            without using an built in functions on python such as .max() .min() or .sort().
+            INPUT: Not ordered array of numbers
+            OUTPUT: array of numbers that is in numerical order"""
+
+            for i in range(len( input_array )):
+
+                for j in range(i + 1, len( input_array )):
+
+                    if (input_array[i] > input_array[j]):
+
+                        input_array[i] , input_array[j] = input_array[j] , input_array[i]
+
+
+            return input_array
+
+
+
+    Problem 5:
+
+        I made a markdown cell to state problem 5 in order to follow the conventions of organization of the homework for this course.
+
+        I decided to start off with problem 5 because when I read through the homework It seemed like the most simple problem so I am getting it out
+        of the way first.
+
+        I found this problem to be very straight forward so I made a list with the pyramid outputs and used a for loop to print out
+        the individual levels of the pyramid one by one.
+
+       here is my code for problem 5:
+
+            print('Problem 5:\n')
+
+            pyramid = [1 , 10 , 101 , 1010 , 10101 , 101010 , 10101 , 1010 , 101, 10 , 1]
+
+            for i in pyramid:
+                print(i)
+
+
+Problem 6:
+
+I am now going to save and submmit my work.
+
+I already had my jupyter hw7_diegobenavidesucf notebook in my handin/hw7_diegobenavidesucf folder
+and I also already had my hw7_support_funct.py file in the same folder as well so I did not have
+to take any deliberate steps to add it in last minute.
+
+I am now going to save this log, copy and paste my log into my handin/hw7_diegobenavidesucf folder, and then take a screenshot of my
+commit to github.
+
+I will commit my work to github by going into my github desktop app and clicking on all of my changes made right now and make
+a descriptive commit statement, and after all that I will click the push origin button.
+
+I will take a screenshot proving this and title it hw7_diegobenavidesucf_prob6_screenshot.png and save it to my
+handin/hw7_diegobenavidesucf folder.
+
+I will then zip the folder by clicking compress to zip file and submit my hw7_diegobenavidesucf folder.
+
+***** OUT feb 23 23:00:00 EST 2022
+
+***** IN feb 25 7:30:00 EST 2022
+
+Midterm:
+
+To commence the midterm I will begin by creating a folder named midterm_diegobenavidesucf
+and it will be stored in /handin/midterm_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the midterm project
+and moved them to my handin/midterm_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook midterm_diegobenavidesucf which is already in my
+midterm_diegobenavidesucf folder.
+
+At the top cell of this folder I put my name, date, and assignment as comments using '#'.
+
+Problem 1:
+
+I did problem 1 by typing import numpy as np for the numpy package and I typed import matplotlib.pyplot as plt
+because I anticipate that I will be using these packages.
+
+I also spent some time reading all of the prompts ahead of time so I may think of them
+throughout the day in my head.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT feb 25 8:02:00 EST 2022
+
+***** IN feb 26 12:00:00 EST 2022
+
+midterm:
+
+Problem 2A:
+
+To answer the first part of problem two I created a variable that is an input so the user can
+type in the two locations of their journey: where it starts and where it ends. I also made a print statement to
+ask them to type it in.
+
+Problem 2B:
+
+To answer the problem I just made a simple list containing the 14 bodies of the solar system given by the prompt.
+It is a list of strings.
+
+Problem 2C:
+
+For the first part of problem 2C I made a nested if statement. The first if statement o check whether the start body is in the list, and the nested if
+statement to check if the destination body is in the list, and if the bodies are in both I print a statement that says they are valid locations to
+the user. The else statement is indented with the first if and if either body is invalid the else statement prints an error message, tells
+the user what bodies are valid, and allows them to enter new bodies that are valid.
+
+I then took screen shots for test case D-1 and D-2 and saved the PNGs to my folder /handin/midterm_diegobenavidesucf
+titled as midterm_diegobenavidesucf_prob2_D-1_screenshot.png and midterm_diegobenavidesucf_prob2_D-2_screenshot.png
+
+I am taking a break so I will not push origin yet.
+
+***** OUT feb 26 13:46:00 EST 2022
+
+***** IN feb 26 14:30:00 EST 2022
+
+midterm:
+
+Problem 3A:
+
+For 3A I just used np.loadtxt() in order to read in the first data file with the solar system distances.
+
+Problem 3B:
+
+For problem 3 B it took me a little bit of reviewing and going through my demo notebooks,
+because I first tried to use np.where() but I noticed that it made no sense for a string, in fact it
+wasn't possible to use np.where() here. So after looking around I used .index() in order to get the indices of the
+starting body and the destination body from the list I made in 2B, so that I what their index is in the data file
+by indexing it in the data file using two dimensional indexing.
+
+problem 3C:
+
+For problem 3C I simply made a new variable for the distance of travel that is defined by indexing the data file
+where I use the index location of the destination as the column index and the index location of the start as the row index.
+
+I double checked that the resulting distance was correct by manually counting on the data file.
+
+problem 3D:
+
+For problem 3D I solved it by defining a time in year variable to be the division of the distance by the speed given, which is equal to a time
+in hours so I divided by 24 and 365 in order to get the number in years. In order to remove the decimal remainder I used the int() function.
+
+For the next part I subtracted my full time in years by the int() time in years in order to isolate the decimal remainder.
+I then converted it to days from years.
+
+I followed this same process to get the time in hours and minutes.
+
+When it came to printing I simply printed the int() of each of these times so it was printed as desired by the assignment.
+
+I was able to get the test case correct!
+
+Problem 3E:
+
+For problem 3E I copy and pasted all of my code cells prior to this and put it in a cell to test it, I then copy and pasted it into a
+separate file midterm_funct_diegobenavidesucf.py , when I saved it to a separate file I turned the cell with the function into comments using # and
+restarted the kernel so that I can prove the function is actually being imported from midterm_funct_diegobenavidesucf.py file.
+
+I then tested it out and the function by importing it and it works! (using from midterm_funct_diegobenavidesucf import planet_tour())
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT feb 26 17:06:00 EST 2022
+
+***** IN feb 27 9:00:00 EST 2022
+midterm:
+
+Problem 4A:
+
+For problem 4A:
+
+I divided the distance by the refuel distance that was given and subtracted that quotient by 1 since the last stop (when rounded up)
+would just be the arrival. I also looked ahead and the test case for earth and mars has 3 stops and that is what testing out my code gives
+, so it looks like I'm correct in subtracting that quotient by one.
+I then made a good print statement informing the user how many stops are required.
+
+I then copied and pasted this code into my planet_tour() file function in midterm_funct_diegobenavidesucf.py.
+
+Problem 4B:
+
+This problem was pretty time consuming, I had to go back and review the proper way to read and write files and close them. I also had
+trouble with some of the indent structure of my if statements. In hindsight this problem is not so difficult after figuring it out.
+I used a combination of an if statement for when the stops are greater than 1 to turn the amount of stops into an array
+using np.arange() and  then I iterate through the amount of stops and multiply that by the refuel distance in order to get
+the respective distances of the stops. I let the user know the amount of stops they had and where using .write(). and if the
+trip had no expected stops then I print a .write() file saying that they have not expected stops.
+The file written in is message_to_stations.txt as directed by the assignment.
+
+Problem 4C:
+
+I copied and pasted my prior cells in this problem into my midterm_funct_diegobenavidesucf.py file and imported in.
+I saved each .txt file for each test case as directed. I even added one because it seems that the problem doesn't tell you
+to make a .txt file for that test case. The names of my test cases in order as they are on my midterm is are: message_to_stations.txt,
+message_to_stations_1.txt, message_to_stations_2.txt, and message_to_stations_2b.txt.
+
+It is important to note that due to a bug I had to restart the kernel and my .py file before changing the names of my .txt files.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+*****  OUT feb 27 11:54:00 EST 2022
+
+***** IN Mar 1 19:00:00 EST 2022
+midterm:
+
+Problem 5A:
+
+For the isolated cells in 5A it is important to note that you must run the cells prior to make sure all of my code in the isolated
+cells will run, since they use previously defined variables. This is a cumulative project afterall.
+
+I started 5A by reading in all of the data files using np.loadtxt().
+I then defined the distance for each data file by making the index of the destination planet the row index
+of each repective data file and making the index of the start planet the column index of each
+respective data file.
+I then made a list composed of the three distances and used np.min() to get the shortest distance.
+Then I made if statements for each distance where if that distance was the minimum of the three it would
+make a string saying that the respective date was the one with the minimum distance. Then I made a formatted statement
+saying what day was the best to travel.
+
+Problem 5B:
+
+For problem 5B I typed a sample code of how I will give the expected station locations 4-digit accuracy using the
+''%.4f' % (some_variable) format. The example code shows it works.
+
+Then I made my message to station file writing section of the function print out the station locations using this format
+and It works perfectly.
+
+I moved the code from 5A into my midterm_funct_diegobenavidesucf file as well at this point.
+
+Problem 5C:
+
+I started by restarting my Kernel in order to get the full function updated and imported.
+
+I then imported the function. Before importing and restarting the Kernel I also made the .txt writing section
+of my code write a file titled message_to_stations_3.txt as directed by the prompt of the problem. Of course this was saved to
+my midterm_diegobenavidesucf folder.
+
+The test case worked.
+
+
+Problem 6:
+
+I am unfortunately totally stuck on problem 6. I tried to get something for the code but I am unable to get any solution to work.
+So, I will unfortunately have to leave this blank as I have been stuck for hours. I will save my files and prepare to submit in class this
+Thursday March 3rd.
+
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+***** OUT Mar 1 23:00:00 EST 2022
+
+***** IN Mar 3 11:56:00 EST 2022
+midterm :
+
+I will begin this entry by copy and pasting my entries for each problem of the midterm in this entry since it is my latest
+and is the one being graded.
+
+Midterm:
+
+To commence the midterm I will begin by creating a folder named midterm_diegobenavidesucf
+and it will be stored in /handin/midterm_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the midterm project
+and moved them to my handin/midterm_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook midterm_diegobenavidesucf which is already in my
+midterm_diegobenavidesucf folder.
+
+At the top cell of this folder I put my name, date, and assignment as comments using '#'.
+
+Problem 1:
+
+I did problem 1 by typing import numpy as np for the numpy package and I typed import matplotlib.pyplot as plt
+because I anticipate that I will be using these packages.
+
+I also spent some time reading all of the prompts ahead of time so I may think of them
+throughout the day in my head.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 2A:
+
+To answer the first part of problem two I created a variable that is an input so the user can
+type in the two locations of their journey: where it starts and where it ends. I also made a print statement to
+ask them to type it in.
+
+Problem 2B:
+
+To answer the problem I just made a simple list containing the 14 bodies of the solar system given by the prompt.
+It is a list of strings.
+
+Problem 2C:
+
+For the first part of problem 2C I made a nested if statement. The first if statement o check whether the start body is in the list, and the nested if
+statement to check if the destination body is in the list, and if the bodies are in both I print a statement that says they are valid locations to
+the user. The else statement is indented with the first if and if either body is invalid the else statement prints an error message, tells
+the user what bodies are valid, and allows them to enter new bodies that are valid.
+
+I then took screen shots for test case D-1 and D-2 and saved the PNGs to my folder /handin/midterm_diegobenavidesucf
+titled as midterm_diegobenavidesucf_prob2_D-1_screenshot.png and midterm_diegobenavidesucf_prob2_D-2_screenshot.png
+
+I am taking a break so I will not push origin yet.
+
+
+Problem 3A:
+
+For 3A I just used np.loadtxt() in order to read in the first data file with the solar system distances.
+
+Problem 3B:
+
+For problem 3 B it took me a little bit of reviewing and going through my demo notebooks,
+because I first tried to use np.where() but I noticed that it made no sense for a string, in fact it
+wasn't possible to use np.where() here. So after looking around I used .index() in order to get the indices of the
+starting body and the destination body from the list I made in 2B, so that I what their index is in the data file
+by indexing it in the data file using two dimensional indexing.
+
+problem 3C:
+
+For problem 3C I simply made a new variable for the distance of travel that is defined by indexing the data file
+where I use the index location of the destination as the column index and the index location of the start as the row index.
+
+I double checked that the resulting distance was correct by manually counting on the data file.
+
+problem 3D:
+
+For problem 3D I solved it by defining a time in year variable to be the division of the distance by the speed given, which is equal to a time
+in hours so I divided by 24 and 365 in order to get the number in years. In order to remove the decimal remainder I used the int() function.
+
+For the next part I subtracted my full time in years by the int() time in years in order to isolate the decimal remainder.
+I then converted it to days from years.
+
+I followed this same process to get the time in hours and minutes.
+
+When it came to printing I simply printed the int() of each of these times so it was printed as desired by the assignment.
+
+I was able to get the test case correct!
+
+Problem 3E:
+
+For problem 3E I copy and pasted all of my code cells prior to this and put it in a cell to test it, I then copy and pasted it into a
+separate file midterm_funct_diegobenavidesucf.py , when I saved it to a separate file I turned the cell with the function into comments using # and
+restarted the kernel so that I can prove the function is actually being imported from midterm_funct_diegobenavidesucf.py file.
+
+I then tested it out and the function by importing it and it works! (using from midterm_funct_diegobenavidesucf import planet_tour())
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 4A:
+
+For problem 4A:
+
+I divided the distance by the refuel distance that was given and subtracted that quotient by 1 since the last stop (when rounded up)
+would just be the arrival. I also looked ahead and the test case for earth and mars has 3 stops and that is what testing out my code gives
+, so it looks like I'm correct in subtracting that quotient by one.
+I then made a good print statement informing the user how many stops are required.
+
+I then copied and pasted this code into my planet_tour() file function in midterm_funct_diegobenavidesucf.py.
+
+Problem 4B:
+
+This problem was pretty time consuming, I had to go back and review the proper way to read and write files and close them. I also had
+trouble with some of the indent structure of my if statements. In hindsight this problem is not so difficult after figuring it out.
+I used a combination of an if statement for when the stops are greater than 1 to turn the amount of stops into an array
+using np.arange() and  then I iterate through the amount of stops and multiply that by the refuel distance in order to get
+the respective distances of the stops. I let the user know the amount of stops they had and where using .write(). and if the
+trip had no expected stops then I print a .write() file saying that they have not expected stops.
+The file written in is message_to_stations.txt as directed by the assignment.
+
+Problem 4C:
+
+I copied and pasted my prior cells in this problem into my midterm_funct_diegobenavidesucf.py file and imported in.
+I saved each .txt file for each test case as directed. I even added one because it seems that the problem doesn't tell you
+to make a .txt file for that test case. The names of my test cases in order as they are on my midterm is are: message_to_stations.txt,
+message_to_stations_1.txt, message_to_stations_2.txt, and message_to_stations_2b.txt.
+
+It is important to note that due to a bug I had to restart the kernel and my .py file before changing the names of my .txt files.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+Problem 5A:
+
+For the isolated cells in 5A it is important to note that you must run the cells prior to make sure all of my code in the isolated
+cells will run, since they use previously defined variables. This is a cumulative project afterall.
+
+I started 5A by reading in all of the data files using np.loadtxt().
+I then defined the distance for each data file by making the index of the destination planet the row index
+of each repective data file and making the index of the start planet the column index of each
+respective data file.
+I then made a list composed of the three distances and used np.min() to get the shortest distance.
+Then I made if statements for each distance where if that distance was the minimum of the three it would
+make a string saying that the respective date was the one with the minimum distance. Then I made a formatted statement
+saying what day was the best to travel.
+
+Problem 5B:
+
+For problem 5B I typed a sample code of how I will give the expected station locations 4-digit accuracy using the
+''%.4f' % (some_variable) format. The example code shows it works.
+
+Then I made my message to station file writing section of the function print out the station locations using this format
+and It works perfectly.
+
+I moved the code from 5A into my midterm_funct_diegobenavidesucf file as well at this point.
+
+Problem 5C:
+
+I started by restarting my Kernel in order to get the full function updated and imported.
+
+I then imported the function. Before importing and restarting the Kernel I also made the .txt writing section
+of my code write a file titled message_to_stations_3.txt as directed by the prompt of the problem. Of course this was saved to
+my midterm_diegobenavidesucf folder.
+
+The test case worked.
+
+
+Problem 6:
+
+I am unfortunately totally stuck on problem 6. I tried to get something for the code but I am unable to get any solution to work.
+So, I will unfortunately have to leave this blank as I have been stuck for hours. I will save my files and prepare to submit in class this
+Thursday March 3rd.
+
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 7:
+
+I will now copy my log into my midterm_diegobenavidesucf folder after typing this out by dragging and dropping. I will then
+double check that all of my files are saved into my midterm_diegobenavidesucf folder. I will then go to my github desktop app
+and click on my changes, make a descriptive commit message, and click push origin. I will then take a screenshot of my commit and title it
+midterm_diegobenavidesucf_prob7_screenshot.png  and save it to my midterm_diegobenavidesucf folder.
+
+I will then compress the folder to a zip by right clicking and clicking compress to zip and submit it.
+
+***** OUT Mar 3 12:05:00 EST 2022
+
+***** IN Mar 15 14:00:00 EST 2022
+
+Homework 8:
+
+Problem 1:
+
+I commenced problem one by going into my phz3150/handin repository and creating a new folder called hw8_diegobenavidesucf.
+I then opened a new jupyter notebook titled hw8_diegobenavidesucf.
+I put my name, date, and assignment in the first cell of the hw8_diegobenavidesucf notebook.
+I then imported numpy and matplotlib.pylot since I expect to use the packages.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 2:
+
+
+I commenced problem two by typing a print statement that denotes that it is problem 2.
+I then created a .py file titled hw8_support_funct,py in order to type in the necessary function for the problem.
+I also imported numpy as np in the .py file since I expect to use it.
+
+I titled my function kepler_3rd(period), where the orbital period is the parameter period.
+
+I wrote the docstring for my kepler_3rd function and imported the function into my main hw8_diegobenavidesucf notebook.
+The code for my function is:
+
+import numpy as np
+
+def kepler_3rd( period ):
+    """This function takes in orbital period in days and converts it into years and returns the distance from the sun in AU
+    INPUT: The orbital period in days given by the table in problem 2.
+    OUTPUT: The distance from sun in AU."""
+
+    p_years = period / 365.25
+
+    p_years_squared = np.power( p_years , 2 )
+
+    a = np.power( p_years_squared , 1/3 )
+
+    return a
+
+I then manually printed the function for each period given by the table in problem 2.
+I also included a test case for earth which should result in a distance from the sun of 1 AU. It worked.
+
+I then plotted the list of actual distance versus a list of the distances I calculated using the ax method of advanced plotting.
+I gave each of the plots a different color and marker type. I also included a legend to show which plot is mine
+and which the plot of the actual distances.
+
+Bonus question: I used ax.set_xticklabels() in order to make the ticks the names of the planets.
+Unfortunately this did not work so disregard the Bonus, it did not work.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+
+***** OUT Mar 15 16:10:00 EST 2022
+
+***** IN Mar 16 8:00:00 EST 2022
+Homework 8:
+
+Problem 3:
+
+problem 3a: for problem 3a I created all of the assigned numpy arrays for x,y, and z. I then followed all of the plotting instructions in order to
+make sure I created a plot identical to the sample plot. I followed the methods from the advanced plotting notebooks in order to make the plot.
+
+problem 3b: for problem 3b I used for loops and if statements within the for loops in order to print the desired elements and its conditions
+from the assignment. I used this process for both of the assigned cases of problem 3b.
+
+problem 3c: to make the two arrays data and data2 I used np.zeros() and I made the x dimensions and y dimensions for each 2D array usinf the
+len() function in order to make the dimensions the lengths of the arrays as required by the assignment. for example: data = np.zeros([len(x),len(y)]).
+
+problem 3d: for problem 3d I used nested for loops, one for the i dimension and one for the j dimension, and then I applied the math required by the
+assignment in the nested loop in order to populate the 2D arrays. I actually found two ways to do this and I included the alternative way
+inside the same cell I have for problem 3d as comments.
+
+problem 3e: for problem 3e I simply indexed the z array with the conditional statements required by the assignment and printed the result. I did this
+for the two required cases in the problem, it was relatively simple after I fixed a minor syntax error of using & instead of and.
+
+problem 3f: for problem 3f I simply used np.transpose() in order to create datar as the transpose of data. In PHZ 3113 last semester
+I learned that the transpose of a matrix is simply the orignal matrix with its rows and columns swapped.
+
+problem 3g: for problem 3g all I did was index the two 2D arrays and plotted them using the methods I learned in the advanced plotting
+notebooks. I first had the axes flipped because I was always taught by other professors to assume the structure of a versus plot mention the y axis first,
+but after plotting I see that the professor mentioned the x axis first when stating the versus plot. Either way I flipped the axes and made the plot
+look identical to the sample.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+***** OUT Mar 16 10:20:00 EST 2022
+
+***** IN Mar 16 21:50:00 EST 2022
+
+homework 8:
+
+problem 4:
+
+problem 4 a: for problem 4 a I followed all of the math steps required by the assignment, but I'm unsure if I solved this properly. I made the functions
+in my hw8_support_funct file and then imported it into my main hw8_diegobenavidesucf jupyter notebook and tested it on the test case. This function takes in an array of
+volumes, inital pressure, initial volume, and initial temperature, and gamma
+in order to calculate the array of pressures and array of temperatures. The function returns the arrays of
+pressure, volume and temperature in a 3D array. I transposed the array so that the columns are the pressure, volume and temperature not the rows.
+
+problem 4b: for problem 4 I got the x, y, and z axis by indexing the piston function result I made in problem 4a and then I plotted
+the data in 3D using the contour plot method from the advanced plotting jupyter notebook from class. I saved the plot as hw8_diegobenavidesucf_prob4b_plot.png.
+
+Problem 5:
+
+I will now save all of the files in my hw8_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw8_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw8_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw8_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 16 23:20:00 EST 2022
+
+
+
+
+***** IN Mar 16 23:23:00 EST 2022
+
+I need to put all of my HW 8 entried into one entry before submission:
+
+Homework 8:
+
+Problem 1:
+
+I commenced problem one by going into my phz3150/handin repository and creating a new folder called hw8_diegobenavidesucf.
+I then opened a new jupyter notebook titled hw8_diegobenavidesucf.
+I put my name, date, and assignment in the first cell of the hw8_diegobenavidesucf notebook.
+I then imported numpy and matplotlib.pylot since I expect to use the packages.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 2:
+
+
+I commenced problem two by typing a print statement that denotes that it is problem 2.
+I then created a .py file titled hw8_support_funct,py in order to type in the necessary function for the problem.
+I also imported numpy as np in the .py file since I expect to use it.
+
+I titled my function kepler_3rd(period), where the orbital period is the parameter period.
+
+I wrote the docstring for my kepler_3rd function and imported the function into my main hw8_diegobenavidesucf notebook.
+The code for my function is:
+
+import numpy as np
+
+def kepler_3rd( period ):
+    """This function takes in orbital period in days and converts it into years and returns the distance from the sun in AU
+    INPUT: The orbital period in days given by the table in problem 2.
+    OUTPUT: The distance from sun in AU."""
+
+    p_years = period / 365.25
+
+    p_years_squared = np.power( p_years , 2 )
+
+    a = np.power( p_years_squared , 1/3 )
+
+    return a
+
+I then manually printed the function for each period given by the table in problem 2.
+I also included a test case for earth which should result in a distance from the sun of 1 AU. It worked.
+
+I then plotted the list of actual distance versus a list of the distances I calculated using the ax method of advanced plotting.
+I gave each of the plots a different color and marker type. I also included a legend to show which plot is mine
+and which the plot of the actual distances.
+
+Bonus question: I used ax.set_xticklabels() in order to make the ticks the names of the planets.
+Unfortunately this did not work so disregard the Bonus, it did not work.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+Problem 3:
+
+problem 3a: for problem 3a I created all of the assigned numpy arrays for x,y, and z. I then followed all of the plotting instructions in order to
+make sure I created a plot identical to the sample plot. I followed the methods from the advanced plotting notebooks in order to make the plot.
+
+problem 3b: for problem 3b I used for loops and if statements within the for loops in order to print the desired elements and its conditions
+from the assignment. I used this process for both of the assigned cases of problem 3b.
+
+problem 3c: to make the two arrays data and data2 I used np.zeros() and I made the x dimensions and y dimensions for each 2D array usinf the
+len() function in order to make the dimensions the lengths of the arrays as required by the assignment. for example: data = np.zeros([len(x),len(y)]).
+
+problem 3d: for problem 3d I used nested for loops, one for the i dimension and one for the j dimension, and then I applied the math required by the
+assignment in the nested loop in order to populate the 2D arrays. I actually found two ways to do this and I included the alternative way
+inside the same cell I have for problem 3d as comments.
+
+problem 3e: for problem 3e I simply indexed the z array with the conditional statements required by the assignment and printed the result. I did this
+for the two required cases in the problem, it was relatively simple after I fixed a minor syntax error of using & instead of and.
+
+problem 3f: for problem 3f I simply used np.transpose() in order to create datar as the transpose of data. In PHZ 3113 last semester
+I learned that the transpose of a matrix is simply the orignal matrix with its rows and columns swapped.
+
+problem 3g: for problem 3g all I did was index the two 2D arrays and plotted them using the methods I learned in the advanced plotting
+notebooks. I first had the axes flipped because I was always taught by other professors to assume the structure of a versus plot mention the y axis first,
+but after plotting I see that the professor mentioned the x axis first when stating the versus plot. Either way I flipped the axes and made the plot
+look identical to the sample.
+
+I will save my files and now push origin from github desktop app by clicking my changes, typing a descriptive commit message,
+and clicking the push origin button.
+
+problem 4:
+
+problem 4 a: for problem 4 a I followed all of the math steps required by the assignment, but I'm unsure if I solved this properly. I made the functions
+in my hw8_support_funct file and then imported it into my main hw8_diegobenavidesucf jupyter notebook and tested it on the test case. This function takes in an array of
+volumes, inital pressure, initial volume, and initial temperature, and gamma
+in order to calculate the array of pressures and array of temperatures. The function returns the arrays of
+pressure, volume and temperature in a 3D array. I transposed the array so that the columns are the pressure, volume and temperature not the rows.
+
+problem 4b: for problem 4 I got the x, y, and z axis by indexing the piston function result I made in problem 4a and then I plotted
+the data in 3D using the contour plot method from the advanced plotting jupyter notebook from class. I saved the plot as hw8_diegobenavidesucf_prob4b_plot.png.
+
+Problem 5:
+
+I will now save all of the files in my hw8_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw8_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw8_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw8_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 16 23:26:00 EST 2022
+
+
+
+
+
+***** IN Mar 21 19:20:00 EST 2022
+
+HW9:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw9_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw9_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 21 19:06:00 EST 2022
+
+
+***** IN Mar 22 21:00:00 EST 2022
+
+Hw 9:
+
+Problem 2a: For problem 2a I created a numpy array sports of the average sport distances given by the assignment using np.array().
+I also mapped the names from the given table with the athlete names to numbers in ascending order using
+a dictionary named name_map. I then created a (6,4) by using a 2D array and np.reshape().
+
+Problem 2b: I created the function triathlon_times( sports , athletes_times). This function takes in the average distance of each sport from
+the array sports and takes in the athlete times per sport from the array athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I used simple division, indexing, and the name map I mentioned earlier to calculate who finished first and last,
+and their race times in hours.
+I made a descriptive print statement to print the results.
+The function also includes a descriptive docstring.
+
+Problem 2c:  I changed the prior sports array into a dictionary where the sports are the key and the items are the distance.
+But I gave the dictionary a new name: sports_dict, in order to avoid any errors/bugs later on.
+I then created a dictionary for the athletes times where the names are the key and the items are a list of all their times.
+I also changed the name of the dictionary to athletes_times_dict in order to avoid bugs later.
+
+Problem 2d: I then created a function: triathlon_time_dict( sports_dict , athletes_times_dict ), where This function takes in the average distance of each sport from the dictionary sports
+and takes in the athlete times per sport from the dictionary athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I summed up all of the distances and athletes respective times in order to easily calculate their finish times in order to
+determine who is the fastest.
+I used a for loop that iterated through the dictionaries nested with a conditional loops
+in order to print out the fastest and slowest person. I then used np.max() and np.min() in order to get the fastest and slowest times.
+
+Problem 2e: For problem 2e I simply called the functions I made in 2b and 2d  in order to
+print out my solution.
+I double checked these solutions via calculator.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 23 00:30:00 EST 2022
+
+***** IN Mar 23 13:30:00 EST 2022
+
+HW9:
+
+Problem 3a: For problem 3a I described my assignment, identified the class, and which lab it was in my class.
+I placed my solution within my hw9_diegobenavidesucf folder as a pdf titled hw9_diegobenavidesucf_prob3a_Interferometry_Results_Revision_Group_8.
+I couldn't include it as a png due to the content length of the assignment I chose.
+This is also a very open ended course where there are no professor given solutions, and there are few instructions.
+The class gives students a lot of freedom.
+
+Problem 3b: for problem 3b I copied and paseted my code from my experiment assignment into my
+problem 3b cell.
+
+
+Problem 4: For problem 4 all I really did was follow the homework step by step,
+while having the python classes lecture from our class demos open in order to systematically
+create the class graduation_presents.
+The math for area and volume were simple to add as a function, and I simply used
+if statements to ensure that the gifts fit and that there is enough wrapping paper to wrap the box.
+
+I then printed each case assigned by the homework.
+
+
+Problem 5: I will now save all of the files in my hw9_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw9_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw9_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw9_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 23 16:05:00 EST 2022
+
+***** IN Mar 23 22:02:00 EST 2022
+
+I will now copy and paste my prior entries into this entry for submission.
+
+HW9:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw9_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw9_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+Problem 2a: For problem 2a I created a numpy array sports of the average sport distances given by the assignment using np.array().
+I also mapped the names from the given table with the athlete names to numbers in ascending order using
+a dictionary named name_map. I then created a (6,4) by using a 2D array and np.reshape().
+
+Problem 2b: I created the function triathlon_times( sports , athletes_times). This function takes in the average distance of each sport from
+the array sports and takes in the athlete times per sport from the array athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I used simple division, indexing, and the name map I mentioned earlier to calculate who finished first and last,
+and their race times in hours.
+I made a descriptive print statement to print the results.
+The function also includes a descriptive docstring.
+
+Problem 2c:  I changed the prior sports array into a dictionary where the sports are the key and the items are the distance.
+But I gave the dictionary a new name: sports_dict, in order to avoid any errors/bugs later on.
+I then created a dictionary for the athletes times where the names are the key and the items are a list of all their times.
+I also changed the name of the dictionary to athletes_times_dict in order to avoid bugs later.
+
+Problem 2d: I then created a function: triathlon_time_dict( sports_dict , athletes_times_dict ), where This function takes in the average distance of each sport from the dictionary sports
+and takes in the athlete times per sport from the dictionary athletes_times and output
+outputs an informative message about which participant will finish first and their expected time in hours,
+and which one will finish last and their expected time in hours.
+I summed up all of the distances and athletes respective times in order to easily calculate their finish times in order to
+determine who is the fastest.
+I used a for loop that iterated through the dictionaries nested with a conditional loops
+in order to print out the fastest and slowest person. I then used np.max() and np.min() in order to get the fastest and slowest times.
+
+Problem 2e: For problem 2e I simply called the functions I made in 2b and 2d  in order to
+print out my solution.
+I double checked these solutions via calculator.
+
+
+Problem 3a: For problem 3a I described my assignment, identified the class, and which lab it was in my class.
+I placed my solution within my hw9_diegobenavidesucf folder as a pdf titled hw9_diegobenavidesucf_prob3a_Interferometry_Results_Revision_Group_8.
+I couldn't include it as a png due to the content length of the assignment I chose.
+This is also a very open ended course where there are no professor given solutions, and there are few instructions.
+The class gives students a lot of freedom.
+
+Problem 3b: for problem 3b I copied and paseted my code from my experiment assignment into my
+problem 3b cell. I saved my plot as hw9_diegobenavidesucf_prob3b_Interferometry_wav_from_slope in my hw9_diegobenavidesucf folder.
+
+
+Problem 4: For problem 4 all I really did was follow the homework step by step,
+while having the python classes lecture from our class demos open in order to systematically
+create the class graduation_presents.
+The math for area and volume were simple to add as a function, and I simply used
+if statements to ensure that the gifts fit and that there is enough wrapping paper to wrap the box.
+
+I then printed each case assigned by the homework.
+
+
+
+Problem 5: I will now save all of the files in my hw9_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw9_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw9_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw9_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 23 22:06:00 EST 2022
+
+***** IN Mar 28 13:30:00 EST 2022
+
+HW 10:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw10_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw10_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 2: For problem 2 I checked the first cell and I don't think there are any bugs in the first cell, but I checked to make sure
+that the numpy arrays had identical shapes. For the second cell I changed the my_data to the my_control_data, added parantheses to
+data_control to ensure that the multipication happened first, I swapped the range of the rows and columns so that they were correct, I then
+switched i and j to l1 and l2 since that would be the proper way to loop here, I turned the less than or equal to to a less than for the
+first conditional which was for the good data , I also turned both boolean statements to less than or equal to and greater than or equal to for the
+second conditional of the 2 data, And last but not least I fixed the indentation of the last conditional. For the third cell for the second conditional
+of plotting the 2 values I made the boolean statement proper with ==2 instead of =2, and then I fixed the indentation of the n+=1 in the for loop. After all
+of this the code ran all the way through so I hope that was all of the bugs.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 28 14:45:00 EST 2022
+
+***** IN Mar 29 17:00:00 EST 2022
+
+HW 10:
+
+Problem 3: For problem three I started by making the my_circuit function. This function takes in a string that will state whether the circuit's resistors
+are in parallel or series, the number of resistors, a numpy array of the values of the resistors, and the voltage or current depending on the circuit.
+The function returns the total resistance and the total voltage for a series circuit and amperage for a parallel circuit. I made sure to write a proper
+docstring for the function and I checked the math I made for the function using a calculator. It works. I then called the function for
+the test cases required by the assignment.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT Mar 29 17:40:00 EST 2022
+
+***** IN Mar 30 8:30:00 EST 2022
+
+HW 10:
+
+Problem 4a: For problem 4a I made the function period(a) and the dictionary for the planet names and the orbital distances in au.
+This function takes in values of a solar system planet's average orbital distance in AU from
+the sun and returns the period of the planets orbit in earth days. I made sure to include an informative docstring as well. I also double checked the
+math of my function using a calculator and it does work. I used a for loop iterating over the whole dictionary in order to call the period(a) function
+for all of the planets in the dictionary I was required to make in the assignment.
+For the plotting part a made a np.linspace variable for theta, from 0 to 2pi, in order to have a theta value for the parametric equations.
+I then made the parametric equations for x and y as assigned by the homework and I used numpy for sine and cosine. I then plotted this
+for each planet using their respective average orbital distance from the sun as the radius being multiplied in the equations: x = R*scos(theta) And
+y = R*sin(theta). I then saved the plot as hw10_diegobenavidesucf_prob4a_screenshot.png in my hw10_diegobenavidesucf handin folder.
+
+I opted out of doing the bonus problem.
+
+Problem 5: I will now save all of the files in my hw10_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw10_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw10_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw10_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 30 10:05:00 EST 2022
+
+***** IN Mar 31 9:43:00 EST 2022
+
+HW 10:
+
+I will now copy and paste my prior entries into this entry for submission.
+
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw10_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw10_diegobenavidesucf within the folder I just created.
+I then put my name date and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 2: For problem 2 I checked the first cell and I don't think there are any bugs in the first cell, but I checked to make sure
+that the numpy arrays had identical shapes. For the second cell I changed the my_data to the my_control_data, added parantheses to
+data_control to ensure that the multipication happened first, I swapped the range of the rows and columns so that they were correct, I then
+switched i and j to l1 and l2 since that would be the proper way to loop here, I turned the less than or equal to to a less than for the
+first conditional which was for the good data , I also turned both boolean statements to less than or equal to and greater than or equal to for the
+second conditional of the 2 data, And last but not least I fixed the indentation of the last conditional. For the third cell for the second conditional
+of plotting the 2 values I made the boolean statement proper with ==2 instead of =2, and then I fixed the indentation of the n+=1 in the for loop. After all
+of this the code ran all the way through so I hope that was all of the bugs.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 3: For problem three I started by making the my_circuit function. This function takes in a string that will state whether the circuit's resistors
+are in parallel or series, the number of resistors, a numpy array of the values of the resistors, and the voltage or current depending on the circuit.
+The function returns the total resistance and the total voltage for a series circuit and amperage for a parallel circuit. I made sure to write a proper
+docstring for the function and I checked the math I made for the function using a calculator. It works. I then called the function for
+the test cases required by the assignment.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 4a: For problem 4a I made the function period(a) and the dictionary for the planet names and the orbital distances in au.
+This function takes in values of a solar system planet's average orbital distance in AU from
+the sun and returns the period of the planets orbit in earth days. I made sure to include an informative docstring as well. I also double checked the
+math of my function using a calculator and it does work. I used a for loop iterating over the whole dictionary in order to call the period(a) function
+for all of the planets in the dictionary I was required to make in the assignment.
+For the plotting part a made a np.linspace variable for theta, from 0 to 2pi, in order to have a theta value for the parametric equations.
+I then made the parametric equations for x and y as assigned by the homework and I used numpy for sine and cosine. I then plotted this
+for each planet using their respective average orbital distance from the sun as the radius being multiplied in the equations: x = R*scos(theta) And
+y = R*sin(theta). I then saved the plot as hw10_diegobenavidesucf_prob4a_screenshot.png in my hw10_diegobenavidesucf handin folder.
+
+I opted out of doing the bonus problem.
+
+Problem 5: I will now save all of the files in my hw10_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw10_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw10_diegobenavidesucf_prob5_screenshot, this screen shot will be saved in my hw10_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT Mar 31 9:47:00 EST 2022
+
+
+***** IN APRIL 3 17:39:00 EST 2022
+
+HW 11:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw11_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw11_diegobenavidesucf within the folder I just created.
+I then put my name, date, and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+Problem 3a: For problem 3a I used the given equation to calculate windchill from the temperature and wind speed. I titled the function
+wind_chill as directed by the assignment. The function takes in the temperature in Fahrenheit and the speed of the wind in miles per hour,
+in order to return the wind chill factor and wind chill temperature, both in Fahrenheit. I ran the test case given by the assignment, and
+my function returns the wind chill factor and wind chill temperature in an informative statement.
+I double checked the math using a calculator.
+I made sure to write a proper doctstring.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 3 18:30:00 EST 2022
+
+***** IN APRIL 3 22:00:00 EST 2022
+HW 11:
+
+Problem 3b: For problem 3b I used the equation for getting distance in parsecs from  parallax in arcseconds in order to complete the problem.
+I first I converted the given parallaxes to arcseconds instead of milliarcseconds by multiplying the parallaxes by 0.001. I then made the
+parallax_to_distance function, the function takes in a dictionary with stars' names as keys and their parallax in arcseconds as values. And
+returns a dictionary of the stars' names as keys and their distances from earth in parsecs as values.
+Then in my parallax_to_distance function I made a for loop to iterate over the input dictionary and update the new dictionary for every key in the
+input dictionary to have a value of distance using the math I previously mentioned which is d = 1/parallax.
+I then ran the function for the given test case and it works.
+I double checked the math using a calculator.
+I made sure to write a proper doctstring.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 3 22:40:00 EST 2022
+
+
+***** IN APRIL 4 8:40:00 EST 2022
+HW 11:
+
+Problem 3c: For problem 3c I started by creating the function lists_to_dict. This function takes in two lists, where one list is a list of strings
+and the other is a list of values. The function then checks which list is the list of strings and makes that list the keys of the new dictionary,
+and makes the other list the values of the dictionary. This new dictionary is returned. The function starts by creating an empty dictionary
+and then I use If and Elif statements to check which list contains strings and making that list be the keywords and the other list the values.
+Within the if elif statements I populated the new dictionary using the two respective lists accordingly by using a for loop and the .update()
+function of dictionaries.
+This problem took me a lot of trial and error which is why it took me some time, specifically in the populating of the dictionary.
+I made sure to write a proper doctstring.
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT APRIL 4 9:56:00 EST 2022
+
+***** IN APRIL 4 16:53:00 EST 2022
+HW 11:
+
+Problem 3d: I personally found this problem very difficult but I was able to make it work for the first two test cases, but for the third test case
+my function failed to return the proper matrix multiplication. The reason my fucntion did not work for the third case is because:
+test case 3 is multiplication between a vector and a matrix, so I couldn't seem to get the function to work in this case. It seems that my function only
+works for two 2-d matrices being multiplied, not a matrix and a vector.
+As for solving the problem I first made an if statement to determine whether or not the matrices being multiplied are compatible, where
+it is known that a Matrix can be multiplied when the amount of columns of the first matrix match the amount of rows of the second matrix.
+I then initialized a matrix of zeros the shape of the expected matrix multiplication product by making the dimensions equal to the row count
+of the first input matrix and the amount of columns of the second input matrix. I knew to do this and the math for matrix multiplication because
+I have seen matrices before in my mathematical methods for physical sciences class (PHZ 3113). I then continued to populate the matrix with the proper
+values by multiplying the rows and columns in the proper order through a nested for loop. I learned how to do this nested for loop from a geeksforgeeks.org
+post, then I applied it to this problem. I then ran the test cases, and as previously mentioned, only the third case failed due to the fact that my function
+only works for matrices, not vectors and im unsure how to further generalize my function to also work with matrix and vector multiplication. Also, to
+get my general values and variables for rows and columns I used 2-d array indexing techniques from class.
+I double checked my answers using np.matmul().
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+***** OUT APRIL 4 18:32:00 EST 2022
+
+***** IN April 9 22:20:00 EST 2022
+
+Hw 11:
+
+Problem 2: For problem 2 I simply followed the best-fit modeling from least squares technique from the lecture on april 5th in class.
+I made a nested for loop to model the linear regression from the a, b , and x arrays from the problem. Within this nested for-loop I also modeled the
+chi square and indexed where the chi square is smallest for a and b. After indexing for these values I printed an informative statement including the
+best-fit model parameters. I also plotted the data and the linear regression and it fits the data well.
+
+***** OUT APRIL 9 23:26:00 EST 2022
+
+***** IN April 14 0:52:00 EST 2022
+HW11 :
+
+I will copy and paste my HW 11 entries into one entry:
+
+Problem 1: For problem 1 I started by creating a folder within my phz3150/handin folder titled hw11_diegobenavidesucf by clicking new folder.
+I then created a jupyter notebook titled hw11_diegobenavidesucf within the folder I just created.
+I then put my name, date, and assignment in the first cell of the notebook as comments.
+
+I then saved my files, went to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+Problem 2: For problem 2 I simply followed the best-fit modeling from least squares technique from the lecture on april 5th in class.
+I made a nested for loop to model the linear regression from the a, b , and x arrays from the problem. Within this nested for-loop I also modeled the
+chi square and indexed where the chi square is smallest for a and b. After indexing for these values I printed an informative statement including the
+best-fit model parameters. I also plotted the data and the linear regression and it fits the data well.
+
+
+Problem 3a: For problem 3a I used the given equation to calculate windchill from the temperature and wind speed. I titled the function
+wind_chill as directed by the assignment. The function takes in the temperature in Fahrenheit and the speed of the wind in miles per hour,
+in order to return the wind chill factor and wind chill temperature, both in Fahrenheit. I ran the test case given by the assignment, and
+my function returns the wind chill factor and wind chill temperature in an informative statement.
+I double checked the math using a calculator.
+I made sure to write a proper doctstring.
+
+Problem 3b: For problem 3b I used the equation for getting distance in parsecs from  parallax in arcseconds in order to complete the problem.
+I first I converted the given parallaxes to arcseconds instead of milliarcseconds by multiplying the parallaxes by 0.001. I then made the
+parallax_to_distance function, the function takes in a dictionary with stars' names as keys and their parallax in arcseconds as values. And
+returns a dictionary of the stars' names as keys and their distances from earth in parsecs as values.
+Then in my parallax_to_distance function I made a for loop to iterate over the input dictionary and update the new dictionary for every key in the
+input dictionary to have a value of distance using the math I previously mentioned which is d = 1/parallax.
+I then ran the function for the given test case and it works.
+I double checked the math using a calculator.
+I made sure to write a proper doctstring.
+
+Problem 3c: For problem 3c I started by creating the function lists_to_dict. This function takes in two lists, where one list is a list of strings
+and the other is a list of values. The function then checks which list is the list of strings and makes that list the keys of the new dictionary,
+and makes the other list the values of the dictionary. This new dictionary is returned. The function starts by creating an empty dictionary
+and then I use If and Elif statements to check which list contains strings and making that list be the keywords and the other list the values.
+Within the if elif statements I populated the new dictionary using the two respective lists accordingly by using a for loop and the .update()
+function of dictionaries.
+This problem took me a lot of trial and error which is why it took me some time, specifically in the populating of the dictionary.
+I made sure to write a proper doctstring.
+
+Problem 3d: I personally found this problem very difficult but I was able to make it work for the first two test cases, but for the third test case
+my function failed to return the proper matrix multiplication. The reason my fucntion did not work for the third case is because:
+test case 3 is multiplication between a vector and a matrix, so I couldn't seem to get the function to work in this case. It seems that my function only
+works for two 2-d matrices being multiplied, not a matrix and a vector.
+As for solving the problem I first made an if statement to determine whether or not the matrices being multiplied are compatible, where
+it is known that a Matrix can be multiplied when the amount of columns of the first matrix match the amount of rows of the second matrix.
+I then initialized a matrix of zeros the shape of the expected matrix multiplication product by making the dimensions equal to the row count
+of the first input matrix and the amount of columns of the second input matrix. I knew to do this and the math for matrix multiplication because
+I have seen matrices before in my mathematical methods for physical sciences class (PHZ 3113). I then continued to populate the matrix with the proper
+values by multiplying the rows and columns in the proper order through a nested for loop. I learned how to do this nested for loop from a geeksforgeeks.org
+post, then I applied it to this problem. I then ran the test cases, and as previously mentioned, only the third case failed due to the fact that my function
+only works for matrices, not vectors and im unsure how to further generalize my function to also work with matrix and vector multiplication. Also, to
+get my general values and variables for rows and columns I used 2-d array indexing techniques from class.
+I double checked my answers using np.matmul().
+
+I now saved my files, by going to my github desktop app, clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+
+
+Problem 5: I will now save all of the files in my hw11_diegobenavidesucf folder in my handin folder.
+I will then save this log and copy and paste this log into my hw10_diegobenavidesucf folder.
+After that I will go to my github desktop app, click all changes, write a proper commit message, and click push to origin.
+I will screen shot this and title it hw11_diegobenavidesucf_prob4_screenshot, this screen shot will be saved in my hw11_diegobenavidesucf
+folder.
+Now I can zip the folder by pressing compress to zip and submit.
+
+***** OUT April 14 0:59:00 EST 2022
