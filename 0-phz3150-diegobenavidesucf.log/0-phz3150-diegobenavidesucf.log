@@ -2324,11 +2324,12 @@ For the second part of problem 4 I read the file using the 'with open() as' meth
 file by line, and I used .count('muahaha') to count the occurence of evil laughters throughout the whole document. I used an informative statement to
 print out how many evil laughters were counted.
 
-It is importnt to mention that The reason I had to implement the encoding = 'utf8' to my reading of the file is due to an error I kept
+It is important to mention that The reason I had to implement the encoding = 'utf8' to my reading of the file is due to an error I kept
 getting (UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position X: character maps to <undefined>)
-which was making it impossible to read the the_torn_book.dat file. 
+which was making it impossible to read the the_torn_book.dat file.
 I found this solution of using encoding = 'utf8' on stack overflow, I hope it worked properly and my code actually counts
-the correct number of muahaha occurrences.
+the correct number of muahaha occurrences. I populated my key_code list using the .append() function.
+
 
 I will now save my jupyter notebook final_diegobenavidesucf by clicking the save button and I then saved my files, went to my github desktop app,
 clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
@@ -2340,4 +2341,28 @@ push origin button on the github desktop app.
 
 Final:
 
-Problem 5: For problem 5
+Problem 5: For problem 5 in order to read the last line all i did was open the file using the with open() method again and I sliced the
+last line using the .readlines() function and indexing the [-1] index which is the index of last elements: last_line = f.readlines()[-1].
+I then printed this line out.
+
+for the next part of poblem five I created variables for the counts of ones,twos, threes, and sevens. For each variable I used .count()
+to count the number of occurences. I printed out these counts in informative statements.
+
+I used the given formula from Dr. Cane and plugged in my counts to get the integer 5: canes_equation = one_count / seven_count + two_count / three_count.
+I populated my key_code list using the .append() function.
+
+Problem 6: Problem 6 was another very quick problem for me. I read in the data using np.loadtxt(), and plotted the data using:
+3-D scatter plot using ax = fig.gca(projection='3d')
+ax.scatter(x1, y1, z1, color ='blue', label = '3D-Plot',marker='o'),
+after slicing the columns of the data as directed by the assignment.
+
+I saved the plot using plt.savefig('Final_diegobenavidesucf_prob6_plot_screenshot.png'), and saved the plot using the proper
+naming convention: Final_diegobenavidesucf_prob6_plot_screenshot.
+
+I answered the last part of this problem in an informative statement.
+
+I will now save my jupyter notebook final_diegobenavidesucf by clicking the save button and I then saved my files, went to my github desktop app,
+clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT April Saturday 23 20:40:00 EST 2022
