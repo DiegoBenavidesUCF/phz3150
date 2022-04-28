@@ -2310,4 +2310,34 @@ push origin button on the github desktop app.
 
 Final:
 
-Problem 3: 
+Problem 3: Problem 3 for me was super fast. I read in the data using np.loadtxt(), and then I plotted the data super fast by using
+plt.contourf(). I then added axes titles, a title, and edited the x and y tick sizes.
+The number I saw was 3.
+I populated my key_code list using the .append() function.
+
+Problem 4: Problem 4 was also very quick for me to do. I read in the data using np.loadtxt(), and then I plotted the data super fast by using
+plt.contourf(). I then added axes titles, a title, and edited the x and y tick sizes. I plotted this contour plot using the advanced subplot
+plotting method from class so that I could invert the y-axes using ax.invert_yaxis().
+The message I saw was 'Look up'.
+
+For the second part of problem 4 I read the file using the 'with open() as' method and used a for loop and .read() to read the
+file by line, and I used .count('muahaha') to count the occurence of evil laughters throughout the whole document. I used an informative statement to
+print out how many evil laughters were counted.
+
+It is importnt to mention that The reason I had to implement the encoding = 'utf8' to my reading of the file is due to an error I kept
+getting (UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position X: character maps to <undefined>)
+which was making it impossible to read the the_torn_book.dat file. 
+I found this solution of using encoding = 'utf8' on stack overflow, I hope it worked properly and my code actually counts
+the correct number of muahaha occurrences.
+
+I will now save my jupyter notebook final_diegobenavidesucf by clicking the save button and I then saved my files, went to my github desktop app,
+clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT April Saturday 23 09:50:00 EST 2022
+
+***** IN April Saturday 23 19:00:00 EST 2022
+
+Final:
+
+Problem 5: For problem 5
