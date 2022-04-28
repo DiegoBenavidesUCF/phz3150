@@ -2264,3 +2264,50 @@ folder.
 Now I can zip the folder by pressing compress to zip and submit.
 
 ***** OUT April 14 0:59:00 EST 2022
+
+***** IN April Friday 22 08:30:00 EST 2022
+
+Final:
+
+To commence the final I will begin by creating a folder named final_diegobenavidesucf
+and it will be stored in /handin/final_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the final project
+and moved them to my handin/final_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook final_diegobenavidesucf which is already in my
+final_diegobenavidesucf folder.
+
+At the top cell of this notebook I put my name, date, and assignment as comments using '#'.
+
+Problem 1: For problem one I imported the numpy and matplotlib.pyplot packages as np and plt. I did this using
+import numpy as np
+import matplotlib.pyplot as plt.
+
+For the next part of problem 1 I created an empty list titled key_code by setting the variable equal to empty brackets.
+I double checked that key_code was a list by printing the type using the type() function.
+
+Problem 2: For problem 2 I created a list titled message that I manually populated with the numbers of the mystery message as
+elements of the list. I printed it out to double check that it matched the numbers from the message.
+After that I made a dictionary titled letters_to_numbers where the keys were the letters of the alphabet and the values were the
+numbers in order from 1-26:
+ letters_to_numbers = {'a':1 , 'b':2, 'c':3, 'd':4, 'e':5, 'f':6, 'g':7, 'h':8, 'i':9, 'j':10, 'k':11,
+'l':12, 'm':13, 'n':14, 'o':15, 'p':16, 'q':17, 'r':18, 's':19, 't':20, 'u':21, 'v':22, 'w':23, 'x':24, 'y':25, 'z':26}
+
+In order to decode the message I started by creating an empty list titled letters that I will populate using a for loop and
+the dictionary. i decoded the message using a nested for loop; where the initial loop iterates through the list of numbers from the
+message list and the nested loop iterated through the keys and values of the dictionary letter_to_numbers. Within the nested loop I made am if statement
+where if the number being iterated through was equal to a value in the dictionary it would append the key to that value to the empty letter list that
+I created.
+This returned the message: ticktockticktocktimeisrunninigout
+
+I will now save my jupyter notebook final_diegobenavidesucf by clicking the save button and I then saved my files, went to my github desktop app,
+clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT April Friday 10:30:00 EST 2022
+
+***** IN April Saturday 23 09:10:00 EST 2022
+
+Final:
+
+Problem 3: 
