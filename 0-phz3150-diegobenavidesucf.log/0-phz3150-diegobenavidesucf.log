@@ -2366,3 +2366,41 @@ clicked changes, wrote a descriptive commit message, and pushed to origin by cli
 push origin button on the github desktop app.
 
 ***** OUT April Saturday 23 20:40:00 EST 2022
+
+***** IN April Sunday 24 11:00:00 EST 2022
+
+Final:
+
+Problem 7: For the first part of problem 7 I googled the creation date of the original painting. According to the internet
+the date of creation of the original painting is 1665. I separated the year into its intergers within a list
+and used np.sum() to get the sum of these numbers. The sum is 18.
+
+I found the mean median and trace of the what_is_the_key matrix using np.mean, np.median, and np.trace.
+The trace value matched the sum of the year numbers, 18 = 18. So thus means that the u value is 3.
+
+For the second part of problem 7 I used the given equations, values, and basic algebra to determine the radius, mass, and period of the planet.
+I made sure to use numpy for the math necessary for the rearranged equations. I printed out all of these values using informative statements.
+The parameters of the planets match the data from nasa for staurn which means N = 6.
+So N/u = 6/3 = 2. I populated my key_code list using the .append() function.
+
+Problem 8: For the first part of problem 8 I simply went through every line of code to make sure it made sense.
+A few bugs were mixed up 1's and 2's in the variable names. One bug was the greater than/less than sign in the second if statement. Antoher
+bug was turning diameter to perimeter. Another was needing to add np.pi to the perimeter equation. I also had to add float() to all
+of the inputting statements so the code/math would even run.
+I then plugged in the given test case and Car 1 went farther and it went 25.132741228718345 m/s.
+Since we only care for the integer part I used int() to turn it into 25.
+
+For the second part of problem 8 of populating the key_code I initialized an empty list called speed_split to contain
+the 25 split as [2,5]. I then actually split the number using a for loop to iterate through the integer as a string using str() and populate
+my speed split list with the split 25 string as an int using int().
+I then used a for loop to loop through speed_split list in order to populate the key_code with each number one by one using .append().
+
+I will now save my jupyter notebook final_diegobenavidesucf by clicking the save button and I then saved my files, went to my github desktop app,
+clicked changes, wrote a descriptive commit message, and pushed to origin by clicking the
+push origin button on the github desktop app.
+
+***** OUT April Sunday 24 12:40:00 EST 2022
+
+***** IN  April Monday 25 20:00:00 EST 2022
+
+Final: 
