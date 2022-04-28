@@ -2431,4 +2431,147 @@ Problem 11: Unfortunately the key code my project creates is not correct.
 
 ***** IN April Wednesday 27 23:00:00 EST 2022
 
-Problem 12: 
+Problem 12: I will now copy my log into my Final_diegobenavidesucf folder after typing this out by dragging and dropping. I will then
+double check that all of my files are saved into my Final_diegobenavidesucf folder. I will then go to my github desktop app
+and click on my changes, make a descriptive commit message, and click push origin. I will then take a screenshot of my commit and title it
+Final_diegobenavidesucf_prob12_screenshot.png  and save it to my final_diegobenavidesucf folder.
+
+I will then compress the folder to a zip by right clicking and clicking compress to zip and submit it.
+
+***** OUT April Wednesday 27 23:05:00 EST 2022
+
+***** IN April Wednesday 27 23:10:00 EST 2022
+
+Final:
+
+I will now copy and paste all of my previous logs for the final in this most recent entry:
+
+To commence the final I will begin by creating a folder named final_diegobenavidesucf
+and it will be stored in /handin/final_diegobenavidesucf.
+Inside of this folder I downloaded all of the necessary files from the canvas folder for the final project
+and moved them to my handin/final_diegobenavidesucf folder.
+
+I then titled the given jupyter notebook final_diegobenavidesucf which is already in my
+final_diegobenavidesucf folder.
+
+At the top cell of this notebook I put my name, date, and assignment as comments using '#'.
+
+Problem 1: For problem one I imported the numpy and matplotlib.pyplot packages as np and plt. I did this using
+import numpy as np
+import matplotlib.pyplot as plt.
+
+For the next part of problem 1 I created an empty list titled key_code by setting the variable equal to empty brackets.
+I double checked that key_code was a list by printing the type using the type() function.
+
+Problem 2: For problem 2 I created a list titled message that I manually populated with the numbers of the mystery message as
+elements of the list. I printed it out to double check that it matched the numbers from the message.
+After that I made a dictionary titled letters_to_numbers where the keys were the letters of the alphabet and the values were the
+numbers in order from 1-26:
+ letters_to_numbers = {'a':1 , 'b':2, 'c':3, 'd':4, 'e':5, 'f':6, 'g':7, 'h':8, 'i':9, 'j':10, 'k':11,
+'l':12, 'm':13, 'n':14, 'o':15, 'p':16, 'q':17, 'r':18, 's':19, 't':20, 'u':21, 'v':22, 'w':23, 'x':24, 'y':25, 'z':26}
+
+In order to decode the message I started by creating an empty list titled letters that I will populate using a for loop and
+the dictionary. i decoded the message using a nested for loop; where the initial loop iterates through the list of numbers from the
+message list and the nested loop iterated through the keys and values of the dictionary letter_to_numbers. Within the nested loop I made am if statement
+where if the number being iterated through was equal to a value in the dictionary it would append the key to that value to the empty letter list that
+I created.
+This returned the message: ticktockticktocktimeisrunninigout
+
+Problem 3: Problem 3 for me was super fast. I read in the data using np.loadtxt(), and then I plotted the data super fast by using
+plt.contourf(). I then added axes titles, a title, and edited the x and y tick sizes.
+The number I saw was 3.
+I populated my key_code list using the .append() function.
+
+Problem 4: Problem 4 was also very quick for me to do. I read in the data using np.loadtxt(), and then I plotted the data super fast by using
+plt.contourf(). I then added axes titles, a title, and edited the x and y tick sizes. I plotted this contour plot using the advanced subplot
+plotting method from class so that I could invert the y-axes using ax.invert_yaxis().
+The message I saw was 'Look up'.
+
+For the second part of problem 4 I read the file using the 'with open() as' method and used a for loop and .read() to read the
+file by line, and I used .count('muahaha') to count the occurence of evil laughters throughout the whole document. I used an informative statement to
+print out how many evil laughters were counted.
+
+It is important to mention that The reason I had to implement the encoding = 'utf8' to my reading of the file is due to an error I kept
+getting (UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position X: character maps to <undefined>)
+which was making it impossible to read the the_torn_book.dat file.
+I found this solution of using encoding = 'utf8' on stack overflow, I hope it worked properly and my code actually counts
+the correct number of muahaha occurrences. I populated my key_code list using the .append() function.
+
+
+Problem 5: For problem 5 in order to read the last line all i did was open the file using the with open() method again and I sliced the
+last line using the .readlines() function and indexing the [-1] index which is the index of last elements: last_line = f.readlines()[-1].
+I then printed this line out.
+
+for the next part of poblem five I created variables for the counts of ones,twos, threes, and sevens. For each variable I used .count()
+to count the number of occurences. I printed out these counts in informative statements.
+
+I used the given formula from Dr. Cane and plugged in my counts to get the integer 5: canes_equation = one_count / seven_count + two_count / three_count.
+I populated my key_code list using the .append() function.
+
+Problem 6: Problem 6 was another very quick problem for me. I read in the data using np.loadtxt(), and plotted the data using:
+3-D scatter plot using ax = fig.gca(projection='3d')
+ax.scatter(x1, y1, z1, color ='blue', label = '3D-Plot',marker='o'),
+after slicing the columns of the data as directed by the assignment.
+
+I saved the plot using plt.savefig('Final_diegobenavidesucf_prob6_plot_screenshot.png'), and saved the plot using the proper
+naming convention: Final_diegobenavidesucf_prob6_plot_screenshot.
+
+I answered the last part of this problem in an informative statement.
+
+
+Problem 7: For the first part of problem 7 I googled the creation date of the original painting. According to the internet
+the date of creation of the original painting is 1665. I separated the year into its intergers within a list
+and used np.sum() to get the sum of these numbers. The sum is 18.
+
+I found the mean median and trace of the what_is_the_key matrix using np.mean, np.median, and np.trace.
+The trace value matched the sum of the year numbers, 18 = 18. So thus means that the u value is 3.
+
+For the second part of problem 7 I used the given equations, values, and basic algebra to determine the radius, mass, and period of the planet.
+I made sure to use numpy for the math necessary for the rearranged equations. I printed out all of these values using informative statements.
+The parameters of the planets match the data from nasa for staurn which means N = 6.
+So N/u = 6/3 = 2. I populated my key_code list using the .append() function.
+
+Problem 8: For the first part of problem 8 I simply went through every line of code to make sure it made sense.
+A few bugs were mixed up 1's and 2's in the variable names. One bug was the greater than/less than sign in the second if statement. Antoher
+bug was turning diameter to perimeter. Another was needing to add np.pi to the perimeter equation. I also had to add float() to all
+of the inputting statements so the code/math would even run.
+I then plugged in the given test case and Car 1 went farther and it went 25.132741228718345 m/s.
+Since we only care for the integer part I used int() to turn it into 25.
+
+For the second part of problem 8 of populating the key_code I initialized an empty list called speed_split to contain
+the 25 split as [2,5]. I then actually split the number using a for loop to iterate through the integer as a string using str() and populate
+my speed split list with the split 25 string as an int using int().
+I then used a for loop to loop through speed_split list in order to populate the key_code with each number one by one using .append().
+
+
+Problem 9: For problem 9 I started by manually making numpy arrays for each of the columns for the distance time and error data given by
+the assingment.
+I then plotted the error bar plot using: plt.errorbar( gps_time, gps_distance, yerr = gps_error ,linestyle = 'none', marker='d', color = 'b' ,markersize = 8).
+I then saved the plot as a pdf using: plt.savefig('Final_diegobenavidesucf_prob9_plot1_screenshot.pdf').
+
+For the next parts of problem 9 I simply did the linear regressions using the least-squares chi-squared method we learned in class.
+The second model has a much smaller chi squared value so the second model better describes the data.
+So the second model which is a model of acceleration the object is accelerating.
+Just looking at the plot you can also tell it is accelerating because the slope of a distance vs. time graph is velocty and if the slope is changing,
+which it is, it means there is acceleration. The integer of the acceleration of the best fit model is -4.
+I added this to the key_code using .append().
+
+Problem 10: I first sliced the data into its colunms of years and the associated number. I then plotted this in a rough way just for my own sake.
+In order to get the peak values I simply made a long if statement within a for loop that checks that the three indexes before and after the
+index being iterated through in the associated number values in order to return a list of the peak values.
+
+I then used a second for loop (that is not nested) in order to subtract the associated year of the peak values using nested indexing using np.where().
+The second for loop returns a list of the difference of the years. The periods were all 9 years so the period is 9 years.
+I appended this to my key_code list using .append().
+
+Problem 11: Unfortunately the key code my project creates is not correct.
+
+
+Problem 12: I will now copy my log into my Final_diegobenavidesucf folder after typing this out by dragging and dropping. I will then
+double check that all of my files are saved into my Final_diegobenavidesucf folder. I will then go to my github desktop app
+and click on my changes, make a descriptive commit message, and click push origin. I will then take a screenshot of my commit and title it
+Final_diegobenavidesucf_prob12_screenshot.png  and save it to my final_diegobenavidesucf folder.
+
+I will then compress the folder to a zip by right clicking and clicking compress to zip and submit it.
+
+***** OUT April Wednesday 27 23:15:00 EST 2022
