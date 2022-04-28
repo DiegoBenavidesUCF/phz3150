@@ -2403,4 +2403,32 @@ push origin button on the github desktop app.
 
 ***** IN  April Monday 25 20:00:00 EST 2022
 
-Final: 
+Final:
+
+Problem 9: For problem 9 I started by manually making numpy arrays for each of the columns for the distance time and error data given by
+the assingment.
+I then plotted the error bar plot using: plt.errorbar( gps_time, gps_distance, yerr = gps_error ,linestyle = 'none', marker='d', color = 'b' ,markersize = 8).
+I then saved the plot as a pdf using: plt.savefig('Final_diegobenavidesucf_prob9_plot1_screenshot.pdf').
+
+For the next parts of problem 9 I simply did the linear regressions using the least-squares chi-squared method we learned in class.
+The second model has a much smaller chi squared value so the second model better describes the data.
+So the second model which is a model of acceleration the object is accelerating.
+Just looking at the plot you can also tell it is accelerating because the slope of a distance vs. time graph is velocty and if the slope is changing,
+which it is, it means there is acceleration. The integer of the acceleration of the best fit model is -4.
+I added this to the key_code using .append().
+
+Problem 10: I first sliced the data into its colunms of years and the associated number. I then plotted this in a rough way just for my own sake.
+In order to get the peak values I simply made a long if statement within a for loop that checks that the three indexes before and after the
+index being iterated through in the associated number values in order to return a list of the peak values.
+
+I then used a second for loop (that is not nested) in order to subtract the associated year of the peak values using nested indexing using np.where().
+The second for loop returns a list of the difference of the years. The periods were all 9 years so the period is 9 years.
+I appended this to my key_code list using .append().
+
+Problem 11: Unfortunately the key code my project creates is not correct.
+
+***** OUT April Monday 25 23:10:00 EST 2022
+
+***** IN April Wednesday 27 23:00:00 EST 2022
+
+Problem 12: 
